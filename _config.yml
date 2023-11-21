@@ -7,6 +7,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-sitemap
 
-fixed_navbar: top
+fixed_navbar: left
