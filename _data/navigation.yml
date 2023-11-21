@@ -1,79 +1,12 @@
-- name: APIs
+- name: UML Modeling Guide
+  link: uml-modeling-guide
+
+- name: JEAF Generator
+  link: jeaf-generator
+  
+- name: Release Notes
   dropdown:
-    - name: Online API v2.0.7 (previous version) - Redoc
+    - name: Latest Versions
       link: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v2.0.0/OSDM-online-api-v2.0.7.yml&nocors
-    - name: Online API v2.0.7 (previous version) - Swagger
+    - name: Archive
       link: https://app.swaggerhub.com/apis/schlpbch/uic-90918_10_osdm/2.0.7
-    - name: Webhook API v3.0.1 (stable version)
-      link: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.0/OSDM-online-webhook-v3.0.1.yml&nocors
-    - name: Online API v3.0.2 (stable version) - Redoc
-      link: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.0/OSDM-online-api-v3.0.2.yml&nocors
-    - name: Online API v3.0.3 (stable version) - Redoc
-      link: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.0/OSDM-online-api-v3.0.3.yml
-    - name: Online API v3.0.3 (stable version) - Swagger
-      link: https://editor.swagger.io/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.0/OSDM-online-api-v3.0.3.yml
-    - name: Online API v3.1.0 (stable version) - Redoc
-      link: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.1/OSDM-online-api-v3.1.0.yml&nocors
-    - name: Online API v3.1.0 (stable version) - Swagger
-      link:  https://editor.swagger.io/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.1/OSDM-online-api-v3.1.0.yml
-    - name: Online API v3.2.0 (upcoming version) - Redoc
-      link: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.2/OSDM-online-api-v3.2.0_draft.yml&nocors
-    - name: Online API v3.2.0 (upcoming version) - Swagger
-      link:  https://editor.swagger.io/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v3.2/OSDM-online-api-v3.2.0_draft.yml
-      
-- name: Specification
-  link: spec/
-  dropdown:
-    - name: Getting Started
-      link: spec/getting-started
-    - name: Requirements
-      link: spec/requirements/
-    - name: Business Capabilities
-      link: spec/business-capabilities
-    - name: Common Data Structures
-      link: spec/common-data-structures/
-    - name: Offline Model
-      link: spec/offline-model/
-    - name: Technical Principles
-      link: spec/technical-principles/
-    - name: Models
-      link: spec/models/
-    - name: Processes
-      link: spec/processes/
-    - name: Pagination
-      link: spec/pagination/
-    - name: Synchronization
-      link: spec/synchronization/
-    - name: Errors & Warnings
-      link: spec/errors-warnings/
-    - name: Catalog of Code Lists
-      link: spec/catalog-of-code-lists/
-    - name: Non-Functional Requirements
-      link: spec/non-functional-requirements/
-    - name: Compliance
-      link: spec/compliance/
-- name: Tools
-  link: tools/
-  dropdown:
-    - name: OSDM GitHub
-      link: https://github.com/UnionInternationalCheminsdeFer/OSDM/
-    - name: OSDM Wiki
-      link: https://github.com/UnionInternationalCheminsdeFer/OSDM/wiki/
-    - name: OSDM UML Model
-      link: tools/uml-model/
-    - name: OSDM Demo Environment
-      link: tools/demo-environment/
-    - name: OSDM Demo App
-      link: tools/demo-app/
-    - name: OSDM H2O Converter
-      link: tools/H2O-converter/
-    - name: OSDM Converter
-      link: https://unioninternationalcheminsdefer.github.io/OSDM-Converter/
-- name: Organization
-  link: organization/
-- name: Team
-  link: team/
-- name: Blog
-  link: blog/
-- name: About
-  link: about/
