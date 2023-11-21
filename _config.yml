@@ -8,4 +8,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-fixed_navbar: left
+fixed_navbar: top
