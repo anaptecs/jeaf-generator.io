@@ -5,8 +5,6 @@ menubar_toc: false
 show_sidebar: true
 hide_hero: false
 hero_image: images/jeaf_emotions.png
-hero_link: https://github.com/anaptecs/jeaf-generator
-hero_link_text: Browse on GitHub
 ---
 # Welcome to JEAF Generator
 
