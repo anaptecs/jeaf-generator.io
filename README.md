@@ -1,5 +1,5 @@
-![Welcome](../jeaf_emotions.png)
-# Welcome to JEAF Generator
 
+# Welcome to JEAF Generator
+![Welcome](../jeaf_emotions.png)
 
 
