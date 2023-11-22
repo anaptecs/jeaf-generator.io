@@ -16,6 +16,7 @@ JEAF Generator can be used for code generation based on UML models. It supports 
 * `Persistent Classes (JPA / Hibernate)`
 * `and many more ...`
 
+<br>
 
 As JEAF Generator is designed to be used in all kinds of enterprise projects as it offers a large set of features that are required to provide scalable, high performance enterprise applications.
 
