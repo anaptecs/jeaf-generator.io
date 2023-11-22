@@ -13,4 +13,4 @@ fixed_navbar: top
 permalink: pretty
 
 favicon: jeaf-icon_64.png
-hero_image: ../jeaf_emotions.png
+hero_image: ./jeaf_emotions.png
