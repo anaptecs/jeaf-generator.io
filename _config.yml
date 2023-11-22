@@ -1,4 +1,4 @@
-# theme: jekyll-theme-minimal
+_emotions# theme: jekyll-theme-minimal
 title: JEAF Generator
 description: Bookmark this to keep an eye on my project updates!
 
@@ -19,4 +19,4 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      hero_image: ../UML_Modeling_Guide.png
+      hero_image: ../jeaf_emotions.png
