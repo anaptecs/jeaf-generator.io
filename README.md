@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: UML Model
+title: 
 hide_hero: false
 hero_image: ../UML_Modeling_Guide.png
 ---
