@@ -20,4 +20,5 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       title: JEAF Generator
+      menubar_toc: true
       # hero_image: ../jeaf_emotions.png
