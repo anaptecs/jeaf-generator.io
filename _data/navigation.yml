@@ -1,8 +1,8 @@
 - name: UML Modeling Guide
   link: uml-modeling-guide
 
-- name: JEAF Generator
-  link: jeaf-generator
+- name: Getting Started
+  link: getting-started
   
 - name: Release Notes
   dropdown:
