@@ -13,3 +13,10 @@ fixed_navbar: top
 permalink: pretty
 
 favicon: jeaf-icon_64.png
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      hero_image: jeaf_emotions.png
