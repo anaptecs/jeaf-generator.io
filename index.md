@@ -9,7 +9,7 @@ hero_image: images/jeaf_emotions.png
 # Welcome to JEAF Generator
 
 JEAF Generator can be used for code generation based on UML models. It supports a wide variety of artifacts that can be generated like:
-* `[Service Interfaces](dadas)`
+* [`Service Interfaces`](dadas)
 * REST Resources / Controller / Clients
 * POJO's
 * OpenAPI specs
