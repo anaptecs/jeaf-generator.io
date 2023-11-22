@@ -14,7 +14,7 @@ classes and many more \...
 
 As JEAF Generator is designed to be used in all kinds of enterprise
 projects it offers a large set of features that are required to provide
-scalable, high performant enterprise applications.
+scalable, high performance enterprise applications.
 
 Even though they are closely connected, JEAF Generator is not limited to
 JEAF Framework. Almost all features are also supported for Spring /
