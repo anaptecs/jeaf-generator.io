@@ -1,6 +1,6 @@
 ---
 # title: JEAF Generator
-# subtitle: UML Modeling Guide
+subtitle: UML Modeling Guide
 layout: page
 show_sidebar: false
 menubar_toc: true
