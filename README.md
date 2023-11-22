@@ -1,9 +1,10 @@
 ---
 layout: page
-title: " "
+title: Title
+subtitle: ABC
 menubar_toc: false
 hide_hero: false
-hero_image: ../UML_Modeling_Guide.png
+hero_image: 
 ---
 # Welcome to JEAF Generator
 
