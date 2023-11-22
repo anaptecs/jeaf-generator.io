@@ -1,9 +1,9 @@
-- name: UML Modeling Guide
-  link: uml-modeling-guide
-
 - name: Getting Started
   link: getting-started
   
+- name: UML Modeling Guide
+  link: uml-modeling-guide
+
 - name: Release Notes
   dropdown:
     - name: Latest Versions
