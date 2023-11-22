@@ -4,7 +4,7 @@ title: " "
 menubar_toc: false
 show_sidebar: true
 hide_hero: false
-hero_image: ../images/jeaf_emotions.png
+hero_image: images/jeaf_emotions.png
 ---
 # Welcome to JEAF Generator
 
