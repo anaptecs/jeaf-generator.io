@@ -8,19 +8,17 @@ hero_image: images/jeaf_emotions.png
 ---
 # Welcome to JEAF Generator
 
-JEAF Generator can be used for code generation based on UML models. 
-
-JEAF Generator supports a wide variety of artifacts that can be generated like:
-* Services
+JEAF Generator can be used for code generation based on UML models. It supports a wide variety of artifacts that can be generated like:
+* Service Interfaces
 * REST Resources / Controller / Clients**
 * POJO's
 * OpenAPI specs
-* persistent classes 
+* Persistent Classes (JPA / Hibernate)
 * and many more ...
 
-As JEAF Generator is designed to be used in all kinds of enterprise projects it offers a large set of features that are required to provide scalable, high performance enterprise applications.
+As JEAF Generator is designed to be used in all kinds of enterprise projects as it offers a large set of features that are required to provide scalable, high performance enterprise applications.
 
-JEAF Generator is provided as Maven Plugin. Using Maven it can be integrated into your projects very easily. Main input for JEAF Generator is an XMI Export of your UML model. In addition you have to configure for Maven Plugin which parts of the model should be taken into account during the generation process and what should be generated.
+JEAF Generator is provided as Maven Plugin. Using Maven it can be integrated into your projects very easily. Main input for JEAF Generator is an XMI Export of your UML model. In addition you have to define inside your Maven which parts of the model should be taken into account during the generation process and what should be generated.
 
 ## Target Environments
 Initially JEAF Generator was closely connected with anaptecs JEAF Frameworks. However, nowadays JEAF Generator is an independent generic OpenSource solution  that supports the following environments:
