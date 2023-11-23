@@ -8,10 +8,14 @@ JEAF Generator is provided as Maven Plugin that is supposed to be integrated int
 
 In general the development consists of the following steps:
 
-| Step                                                | Further Reading                                                             |
-| --------------------------------------------------- | --------------------------------------------------------------------------- |
-| `1. Create / update classes etc. in UML model`      | - [UML Modeling Guide](../uml-modeling-guide)<br/>- [Modeling Guidelines]() |
-| `2. Export UML model to XMI`                        |                                                                             |
-| `3. Run JEAF Generator as part of your Maven build` |                                                                             |
-| `4. Implement parts that need to be done manually`  |                                                                             |
-| `5. Test and integrate your changes`                |                                                                             |
+| Steps                                            | Further Reading                                                             |
+| ------------------------------------------------ | --------------------------------------------------------------------------- |
+| `Create / update classes etc. in UML model`      | - [UML Modeling Guide](../uml-modeling-guide)<br/>- [Modeling Guidelines]() |
+| `Export UML model to XMI`                        |                                                                             |
+| `Run JEAF Generator as part of your Maven build` |                                                                             |
+| `Implement parts that need to be done manually`  |                                                                             |
+| `Test and integrate your changes`                |                                                                             |
+
+
+
+For further information we recommend to at least read section about of JEAF Generator [general behavior](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546080018 "/wiki/spaces/JEAF/pages/546080018") and then either continue reading the documentation (see links aove) or to [checkout the example project from our Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples").
