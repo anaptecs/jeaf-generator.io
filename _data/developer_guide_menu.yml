@@ -1,0 +1,15 @@
+- items:
+    - name: XMI Export 
+      link: /developer-guide/xmi-export
+      
+    - name: Maven Plugin Configuration
+      link: /developer-guide/maven-plugin
+      
+    - name: Generating Code
+      link: /developer-guide/generating-code
+      items:
+        - name: General Behavior
+          link: /developer-guide/general-behavior
+          
+    - name: Blog
+      link: /blog/

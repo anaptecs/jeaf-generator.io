@@ -1,5 +1,6 @@
 ---
 toc_title: " "
+menubar: developer_guide_menu
 ---
 
 # Developer Guide
