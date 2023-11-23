@@ -5,7 +5,7 @@ show_sidebar: true
 hero_image: ./images/jeaf_emotions.png
 ---
 
-<img src="https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg" title="" alt="Current Version" data-align="right">
+![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
 
 # Welcome to JEAF Generator
 
