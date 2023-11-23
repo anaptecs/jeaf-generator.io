@@ -16,6 +16,6 @@ In general the development consists of the following steps:
 | `Implement parts that need to be done manually`  |                                                                             |
 | `Test and integrate your changes`                |                                                                             |
 
-
+<br>
 
 For further information we recommend to at least read section about of JEAF Generator [general behavior](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546080018 "/wiki/spaces/JEAF/pages/546080018") and then either continue reading the documentation (see links aove) or to [checkout the example project from our Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples").
