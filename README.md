@@ -4,7 +4,7 @@ title: Title
 subtitle: ABC
 menubar_toc: false
 hide_hero: false
-hero_image: 
+#hero_image: 
 ---
 # Welcome to JEAF Generator
 
