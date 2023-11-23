@@ -23,17 +23,23 @@ If you want to model a system / application using UML some preconditions need to
 - **Architecture Model**  
   The architecture model is independent of a concrete project or application. It defines a generic blueprint that can be used to build applications. Usually the architectural framework is very high level and only defines the blocks that are used to build applications like components, services etc.  
   
+  <br>
+  
   For further details please refer to [JEAF Architecure Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970")  
+  
+  <br>
 
 - **Extensions to UML standard meta model (JEAF Meta Model)**  
   The [JEAF Architecture Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970 "/wiki/spaces/JEAF/pages/515276970") defines the structure of a system from a technical perspective and defines which parts of the system need to be defined inside the UML model at a minimum.  
-
-Most information can be directly expressed using the UML standard model. All the things that are not part of the standard model can be added as an extension to the standard meta model. UML therefore defines a mechanism called “stereotypes” which can be used to extend the standard meta model. These extensions will be called “JEAF Meta Model”.  
-
-For further details please refer to [JEAF Meta Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339")  
+  
+  Most information can be directly expressed using the UML standard model. All the things that are not part of the standard model can be added as an extension to the standard meta model. UML therefore defines a mechanism called “stereotypes” which can be used to extend the standard meta model. These extensions will be called “JEAF Meta Model”.  
+  
+  For further details please refer to [JEAF Meta Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339")  
 
 - **Best Practices**  
   Best Practices only have an indirect influence on the modelling. However they are required as the generator will make use of them when generating code.
+
+<br>
 
 ## How to extend the UML Meta Model
 
