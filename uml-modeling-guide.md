@@ -1,3 +1,6 @@
+---
+toc_title: " "
+---
 # UML Modeling Guide
 
 This part of the modeling guide will shortly describe the basic ideas 
