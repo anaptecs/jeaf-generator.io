@@ -2,6 +2,7 @@
 layout: page
 menubar_toc: false
 show_sidebar: true
+hero_image: ./images/jeaf_emotions.png
 ---
 
 ![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
