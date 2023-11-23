@@ -26,8 +26,6 @@ If you want to model a system / application using UML some preconditions need to
 - **Architecture Model**  
   The architecture model is independent of a concrete project or application. It defines a generic blueprint that can be used to build applications. Usually the architectural framework is very high level and only defines the blocks that are used to build applications like components, services etc.  
   
-  <br>
-  
   For further details please refer to [JEAF Architecture Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970")  
   
   <br>
