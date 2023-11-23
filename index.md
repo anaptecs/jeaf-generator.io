@@ -44,7 +44,7 @@ Initially JEAF Generator was closely connected with anaptecs JEAF Framework. Mea
 
 <br>
 
-# Development Process when working with JEAF Generator
+# Development Process
 
 When working with JEAF Generator then development process in general
 will look as follows:

@@ -1,5 +1,5 @@
-- name: Getting Started
-  link: getting-started
+- name: Developer Guide
+  link: developer-guide
   
 - name: UML Modeling Guide
   link: uml-modeling-guide
