@@ -1,7 +1,7 @@
 - items:
-    - name: Getting Started 
-      link: uml-modeling-guide
-    - name: UML Modeling Guide
-      link: uml-modeling-guide
-    - name: Blog
-      link: /blog/
+    #- name: Getting Started 
+    #  link: uml-modeling-guide
+    #- name: UML Modeling Guide
+    #  link: uml-modeling-guide
+    #- name: Blog
+    #  link: /blog/
