@@ -8,5 +8,7 @@
           link: /page-2/
         - name: Page With Menubar
           link: /page-3/
+    - name: UML Modeling Guide 
+      link: uml-modeling-guide
     - name: Blog
       link: /blog/
