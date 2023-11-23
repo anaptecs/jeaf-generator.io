@@ -1,6 +1,6 @@
 # UML Modeling Guide
 
-This part of the modelling guide will shortly describe the basic ideas 
+This part of the modeling guide will shortly describe the basic ideas 
 that are behind model driven software development and are just a very 
 basic introduction.
 
@@ -25,18 +25,19 @@ If you want to model a system / application using UML some preconditions need to
   
   <br>
   
-  For further details please refer to [JEAF Architecure Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970")  
+  For further details please refer to [JEAF Architecture Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970")  
   
   <br>
 
 - **Extensions to UML standard meta model (JEAF Meta Model)**  
   The [JEAF Architecture Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970 "/wiki/spaces/JEAF/pages/515276970") defines the structure of a system from a technical perspective and defines which parts of the system need to be defined inside the UML model at a minimum.  
-  
+  <br>
   Most information can be directly expressed using the UML standard model. All the things that are not part of the standard model can be added as an extension to the standard meta model. UML therefore defines a mechanism called “stereotypes” which can be used to extend the standard meta model. These extensions will be called “JEAF Meta Model”.  
-  
+  <br>
   For further details please refer to [JEAF Meta Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339")  
+  <br>
 
-- **Best Practices**  
+- **Best Practices  / Coding Guidelines**
   Best Practices only have an indirect influence on the modelling. However they are required as the generator will make use of them when generating code.
 
 <br>
