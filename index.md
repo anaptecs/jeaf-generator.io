@@ -49,10 +49,10 @@ Initially JEAF Generator was closely connected with anaptecs JEAF Framework. Mea
 When working with JEAF Generator then development process in general
 will look as follows:
 
-| #   | Activity                                      | Additional Documentation |
-| --- | --------------------------------------------- | ------------------------ |
-| 1.  | Create / update classes etc. in UML model     |                          |
-| 2.  | Export UML model to XMI                       |                          |
-| 3.  | Run JEAF Generator as part of you Maven Build |                          |
-| 4.  | Implement parts that need to be done manually |                          |
-| 5.  | Test and integrate your changes               |                          |
+| #   | Activity                                       | Additional Documentation |
+| --- | ---------------------------------------------- | ------------------------ |
+| 1.  | Create / update classes etc. in UML model      |                          |
+| 2.  | Export UML model to XMI                        |                          |
+| 3.  | Run JEAF Generator as part of your Maven Build |                          |
+| 4.  | Implement parts that need to be done manually  |                          |
+| 5.  | Test and integrate your changes                |                          |
