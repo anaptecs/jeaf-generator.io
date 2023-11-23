@@ -1,6 +1,4 @@
 - items:
-    - name: Home
-      link: /
     - name: Pages
       link: #
       items:
