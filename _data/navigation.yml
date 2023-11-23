@@ -4,6 +4,9 @@
 - name: UML Modeling Guide
   link: uml-modeling-guide
 
+- name: Blog
+  link: blog
+  
 - name: Release Notes
   dropdown:
     - name: Latest Versions
