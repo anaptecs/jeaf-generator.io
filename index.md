@@ -7,6 +7,8 @@ hide_hero: false
 hero_image: images/jeaf_emotions.png
 ---
 
+![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
+
 # Welcome to JEAF Generator
 
 JEAF Generator can be used for code generation based on UML models. It supports a wide variety of artifacts that can be generated like:
@@ -28,7 +30,7 @@ JEAF Generator is provided as Maven Plugin. Using Maven it can be integrated int
 
 <br>
 
-Initially JEAF Generator was closely connected with anaptecs JEAF Framework. Meanwhile JEAF Generator is an independent generic OpenSource solution that supports the following environments:
+Initially JEAF Generator was closely connected with anaptecs JEAF Framework. Meanwhile JEAF Generator is an independent generic Open Source solution that supports the following environments:
 
 * **Enterprise Target Platforms**
   * `JEAF Framework`
