@@ -7,9 +7,5 @@
 - name: Blog
   link: blog
   
-- name: Release Notes
-  dropdown:
-    - name: Latest Versions
-      link: https://redocly.github.io/redoc/?url=https://raw.githubusercontent.com/UnionInternationalCheminsdeFer/OSDM/master/specification/v2.0.0/OSDM-online-api-v2.0.7.yml&nocors
-    - name: Archive
-      link: https://app.swaggerhub.com/apis/schlpbch/uic-90918_10_osdm/2.0.7
+- name: Releases
+  link: https://github.com/anaptecs/jeaf-generator/releases
