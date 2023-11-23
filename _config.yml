@@ -24,7 +24,8 @@ defaults:
     values:
       title: " "
       subtitle: " "
-      menubar_toc: true
+      menubar_toc: false
+      menubar: empty_menu
       # show_sidebar: true
       hide_hero: false
       hero_image: ../images/jeaf_emotions.png
@@ -35,7 +36,8 @@ defaults:
     values:
       title: " "
       subtitle: " "
-      menubar_toc: true
+      menubar_toc: false
+      menubar: empty_menu
       # show_sidebar: true
       hide_hero: false
       hero_image: ../../images/jeaf_emotions.png
@@ -46,7 +48,8 @@ defaults:
     values:
       title: " "
       subtitle: " "
-      menubar_toc: true
+      menubar_toc: false
+      menubar: empty_menu
       # show_sidebar: true
       hide_hero: false
       hero_image: ../../images/jeaf_emotions.png

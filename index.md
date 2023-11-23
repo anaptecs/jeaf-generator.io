@@ -1,7 +1,6 @@
 ---
 layout: page
 menubar_toc: false
-menubar: top_menu
 show_sidebar: false
 hero_image: ./images/jeaf_emotions.png
 ---
