@@ -1,5 +1,4 @@
-- label: Example Menu
-  items:
+- items:
     - name: Home
       link: /
     - name: Pages
