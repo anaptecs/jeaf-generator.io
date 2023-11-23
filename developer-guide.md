@@ -10,7 +10,7 @@ In general the development consists of the following steps:
 
 | Step |                                                | Further Reading                                                             |
 | ---- | ---------------------------------------------- | --------------------------------------------------------------------------- |
-| 1.   | Create / update classes etc. in UML model      | - [UML Modeling Guide](../uml-modeling-guide)<br/>- [Modeling Guidelines]() |
+| 1.   | `Create / update classes etc. in UML model`      | - [UML Modeling Guide](../uml-modeling-guide)<br/>- [Modeling Guidelines]() |
 | 2.   | Export UML model to XMI                        |                                                                             |
 | 3.   | Run JEAF Generator as part of your Maven Build |                                                                             |
 | 4.   | Implement parts that need to be done manually  |                                                                             |
