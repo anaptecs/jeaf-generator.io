@@ -4,8 +4,8 @@ items:
   - title: Boost Efficency of your Team
     subtitle: Unburden developers from writing boiler blade code
     icon: fa-rocket
-    #call_to_action_name: See more benefits
-    #call_to_action_link: benefits
+    call_to_action_name: See more
+    call_to_action_link: why/efficency
     description: >
           Developers can concentrate on business logic and are less occupied with technical topics. JEAF Generator takes care about boiler blade code.
 
