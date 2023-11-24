@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "JEAF Generator now on GitHub"
+title: "Version 1.15.0 release"
 author: Tillmann Schall
-date: 2023-11-22 18:20:33 +0100
+date: 2023-11-17 13:20:33 +0100
 hide_hero: false
 ---
 
-# We are now on GitHub
+# Version 1.15.0 released
 
 JEAF Generator was moved to GitHub ;-)
