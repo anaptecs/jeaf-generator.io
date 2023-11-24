@@ -10,4 +10,6 @@
       items:
         - name: General Behavior
           link: /developer-guide/general-behavior
+        - name: Error Codes
+          link: /developer-guide/error-codes
           
