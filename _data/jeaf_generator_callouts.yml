@@ -1,7 +1,7 @@
 style: is-light
 height: is-medium
 items:
-  - title: JEAF Gemerator
+  - title: JEAF Generator
     subtitle: Boot your software development to the next level
     icon: fa-rocket
     description: >
