@@ -16,8 +16,8 @@ callouts: jeaf_generator_callouts
 * [UML Modeling Guide](uml-modeling-guide)<br>
   Check out our UML Modeling Guide and find out how much you can benefit from high quality UML models in combination with JEAF Generator<br><br>
 
-* Run the Example<br>
-  Checkout JEAF Generator example project from our [Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples") and do your first steps<br><br>
+* [Quickstart](developer-guide/quick-start)<br>
+  Follow the quick start guide and do your first steps hands with using JEAF Generator example project from our [Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples")<br><br>
 
 # Latest Version
 
