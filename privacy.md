@@ -10,8 +10,6 @@ Ricarda-Huch-Str. 71<br>
 Germany<br>
 [info@anaptecs.de](mailto:info@anaptecs.de)
 
-<br>
-
 Solltest du per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten 
 von uns gespeichert, um dein Anliegen zu bearbeiten.
 
