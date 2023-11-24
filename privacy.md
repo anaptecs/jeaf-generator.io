@@ -2,12 +2,12 @@
 
 Im Folgenden möchten wir dich aufklären, wie deine Daten von uns verarbeitet werden.
 
-**Verantwortlich im Sinne der DSGVO ist:**  
-anaptecs GmbH
-Stefan Große
-Ricarda-Huch-Str. 71
-72760 Reutlingen
-Germany  
+**Verantwortlich im Sinne der DSGVO ist:**<br>
+anaptecs GmbH<br>
+Stefan Große<br>
+Ricarda-Huch-Str. 71<br>
+72760 Reutlingen<br>
+Germany<br>
 [info@anaptecs.de](mailto:info@anaptecs.de)
 
 <br>
@@ -22,14 +22,18 @@ Zu den verarbeiteten Daten zählen:
 
 Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.<br>
 
-**Betroffenenrechte**  
+<br>
+
+## Betroffenenrechte
 Du hast als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung deiner Daten.
 
 Bitte richte deinen Widerspruch formlos an oben genannte Adresse.
 
 Darüber hinaus hast du das Recht auf Datenübertragbarkeit. Du hast weiter das Recht, dich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden findest du unter: [BfDI - Anschriften und Links - Anschriften und Links](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).<br><br>
 
-**Hosting**  
+<br>
+
+## Hosting
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die dein Browser übermittelt:
 
 IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
@@ -40,10 +44,10 @@ Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff, 
 
 Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
 
-GitHub Inc.  
-88 Colin P Kelly Jr St  
-San Francisco, CA 94107  
-United States
+GitHub Inc.<br>
+88 Colin P Kelly Jr St<br>
+San Francisco, CA 94107<br>
+United States<br>
 
 Dieser ist Empfänger deiner personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
 
