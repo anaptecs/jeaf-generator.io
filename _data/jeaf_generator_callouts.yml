@@ -7,23 +7,26 @@ items:
     #call_to_action_name: See more benefits
     #call_to_action_link: benefits
 
-  - title: Consistent and Uniform Code
-    subtitle: Guidelines are ensured by code generator
-    icon: fa-code
-    description: >
-          The example description text goes here and can be multiple lines.
-    
-          For example, such as this.     
-
   - title: Master Complexity
     subtitle: Higher Level of abstraction ensures better overview and consistency
     icon: fa-brain
     description: >
-          Model-drive approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
+          Model-driven approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
+
+  - title: Consistent and Uniform Code
+    subtitle: Guidelines are ensured by code generator
+    icon: fa-code
+    description: >
+          Consistent and uniform code sppeds up onboarding and increase flexibility in staffing. Code generation approach also allows architectural enforcement.
 
   - title: Increase Quality
-    subtitle: Higher Level of abstraction ensures better overview and consistency
+    subtitle: Best Practices / Patterns are enforced by code generator
     icon: fa-bug
     description: >
-          Model-drive approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
+          Code generator ensures high code quality. Changes / fixes can be rolled out very quickly over the whole application. Less testing as generated code is considered to be correct ;-)
 
+  - title: Better Documentation
+    subtitle: Less outdated documentation
+    icon: fa-book-open
+    description: >
+          UML model and code are in sync. Developers benefit from documentation in UML as it is also present in code and will be automatically updated.
