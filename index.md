@@ -1,4 +1,5 @@
 ---
+title: "JEAF Generator"
 layout: page
 menubar_toc: false
 show_sidebar: true
