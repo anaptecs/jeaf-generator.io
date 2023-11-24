@@ -8,7 +8,7 @@ hero_image: ./images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
 ---
 
-# Why JEAF Generator
+# Why JEAF Generator?
 
 There are many reasons to use JEAF Generator. For further details please switch to our [**overview about all benefits**](why/overview).
 
