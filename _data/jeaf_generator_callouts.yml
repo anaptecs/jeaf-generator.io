@@ -4,7 +4,7 @@ items:
   - title: Boost Efficency of your Team
     subtitle: Unburden developers from writing boiler blade code
     icon: fa-rocket
-    call_to_action_name: See more
+    call_to_action_name: Learn more
     call_to_action_link: why/efficency
     description: >
           Developers can concentrate on business logic and are less occupied with technical topics. JEAF Generator takes care about boiler blade code.
@@ -12,23 +12,31 @@ items:
   - title: Master Complexity
     subtitle: Higher Level of abstraction ensures better overview and consistency
     icon: fa-brain
+    call_to_action_name: Learn more
+    call_to_action_link: why/efficency
     description: >
           Model-driven approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
 
   - title: Consistent and Uniform Code
     subtitle: Guidelines are ensured by code generator
     icon: fa-code
+    call_to_action_name: Learn more
+    call_to_action_link: why/efficency
     description: >
           Consistent and uniform code sppeds up onboarding and increase flexibility in staffing. Code generation approach also allows architectural enforcement.
 
   - title: Increase Quality
     subtitle: Best Practices / Patterns are enforced by code generator
     icon: fa-bug
+    call_to_action_name: Learn more
+    call_to_action_link: why/efficency
     description: >
           JEAF Generator ensures high code quality. Changes / fixes can be rolled out very quickly over the whole application. Less testing as generated code is considered to be correct ;-)
 
   - title: Better Documentation
     subtitle: Less outdated documentation
     icon: fa-book-open
+    call_to_action_name: Learn more
+    call_to_action_link: why/efficency
     description: >
           UML model and code are in sync. Developers benefit from documentation in UML as it is also present in code and will be automatically updated.
