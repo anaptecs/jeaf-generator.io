@@ -7,7 +7,7 @@ menubar: uml_modeling_guide_menu
 
 # UML Modeling Guide
 
-This guide defines the UML modelling rules for projects using JEAF Generator. Purpose of this guide is to ensure a consistent, complete and high quality UML model. When using JEAF Generator it is mandatory to have such a high quality UML model as it is used as input for code generation. Benefit of this approach is to unburden developers from error-prone tasks like writing boiler blade code.
+This guide defines the UML modeling rules for projects using JEAF Generator. Purpose of this guide is to ensure a consistent, complete and high quality UML model. When using JEAF Generator it is mandatory to have such a high quality UML model as it is used as input for code generation. Benefit of this approach is to unburden developers from error-prone tasks like writing boiler blade code.
 
 <br>
 
@@ -15,7 +15,7 @@ The guide is split into the following parts:
 
 - [Short introduction into concepts and ideas of model-driven software development processes](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515309630 "/wiki/spaces/JEAF/pages/515309630")
 
-- [Description of JEAF Meta Model, which is the basis for UML modelling](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339 "/wiki/spaces/JEAF/pages/514982339")
+- [Description of JEAF Meta Model, which is the basis for UML modeling](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339 "/wiki/spaces/JEAF/pages/514982339")
 
 - [Description how components, services and other parts of an application have to be modeled](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982370 "/wiki/spaces/JEAF/pages/514982370")
 
