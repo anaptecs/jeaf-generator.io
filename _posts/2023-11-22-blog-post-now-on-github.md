@@ -6,6 +6,6 @@ date: 2023-11-22 18:20:33 +0100
 hide_hero: false
 ---
 
-# We are now on GitHub
+We are now on GitHub
 
 JEAF Generator was moved to GitHub ;-)
