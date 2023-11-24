@@ -7,3 +7,4 @@ hide_hero: false
 ---
 
 JEAF Generator was moved to GitHub ;-)
+\uf09b
