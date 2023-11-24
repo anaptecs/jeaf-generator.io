@@ -1,7 +1,7 @@
 ---
 layout: page
 menubar_toc: false
-show_sidebar: false
+show_sidebar: true
 hero_image: ./images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
 ---
