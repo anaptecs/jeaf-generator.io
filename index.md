@@ -4,7 +4,9 @@ subtitle: "Join Next Generation Software Development"
 layout: page
 menubar_toc: false
 show_sidebar: true
-#hero_image: ./images/jeaf_emotions.png
+hero_image: ./images/jeaf_emotions.png
+hero_height: is-fullwidth
+hero_link_text: "JEAF Generator"
 callouts: jeaf_generator_callouts
 ---
 
