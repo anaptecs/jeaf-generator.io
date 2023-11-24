@@ -2,6 +2,9 @@
     - name: Developer Guide
       link: /developer-guide
       
+    - name: Quickstart
+      link: /developer-guide/quick-start
+      
     - name: XMI Export
       link: /developer-guide/xmi-export
       
