@@ -2,6 +2,7 @@
 title: "UML Modeling Guide"
 subtitle: "Introduction"
 toc_title: " "
+menubar: uml_modeling_guide_menu
 ---
 
 # UML Modeling Guide
