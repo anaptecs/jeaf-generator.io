@@ -12,8 +12,8 @@ menubar: empty_menu
 **Name des Anbieters**  
 anaptecs GmbH<br>Stefan Große<br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany  <br>E-Mail: [info@anaptecs.de](mailto:info@anaptecs.de) <br>Internetseite: [https://www.jeaf-generator.io](https://jeaf-generator.io)<br>
 
-Umsatzsteuer-ID<br>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
-DE 813 944 202
+Umsatzsteuer-ID<br>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 813 944 202
+
 <br>
 
 **Verbraucherstreitbeilegung/Universalschlichtungsstelle**
