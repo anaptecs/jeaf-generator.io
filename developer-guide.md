@@ -3,6 +3,8 @@ toc_title: " "
 menubar: developer_guide_menu
 ---
 
+![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
+
 # Developer Guide
 
 JEAF Generator is provided as Maven Plugin that is supposed to be integrated into your standard build process. All required configurations are done through the plugin configuration.
