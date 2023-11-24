@@ -45,7 +45,7 @@ If you want to model a system / application using UML some preconditions need to
   <br>
 
 - **Best Practices  / Coding Guidelines**
-  Best Practices only have an indirect influence on the modelling. However they are required as the generator will make use of them when generating code.
+  Best Practices only have an indirect influence on the modeling. However they are required as the generator will make use of them when generating code.
 
 <br>
 
@@ -59,7 +59,7 @@ At least since version 2.0 UML offers a wide variety of possibilities to describ
 
 <br>
 
-The UML standard offers an outstanding support for these requirements by so called stereotypes. Stereotypes are extensions to the UML model and can be used for a wide variety of purposes. Besides already predefined stereotypes it’s also possible to define your own. Using stereotypes it’s possible to add additional information to every element of an UML model. Stereotypes also allow to adde additional attributes to your model elements no matter if it is a class, an attribute, an association etc. These additional attributes are called “tagged values”. Of course tagged values also have a type like any other attribute.
+The UML standard offers an outstanding support for these requirements by so called stereotypes. Stereotypes are extensions to the UML model and can be used for a wide variety of purposes. Besides already predefined stereotypes it’s also possible to define your own. Using stereotypes it’s possible to add additional information to every element of an UML model. Stereotypes also allow to add additional attributes to your model elements no matter if it is a class, an attribute, an association etc. These additional attributes are called “tagged values”. Of course tagged values also have a type like any other attribute.
 
 <br>
 
