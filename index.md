@@ -1,10 +1,11 @@
 ---
-#title: "JEAF Generator - Join Next Generation Software Development"
-#subtitle: "Join Next Generation Software Development"
+title: "JEAF Generator"
+subtitle: "Join Next Generation Software Development"
 layout: page
 menubar_toc: false
 show_sidebar: true
 hero_image: ./images/jeaf_emotions.png
+hero_darken: true
 callouts: jeaf_generator_callouts
 ---
 
