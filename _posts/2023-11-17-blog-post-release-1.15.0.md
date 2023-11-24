@@ -10,4 +10,4 @@ hide_hero: false
 
 # Version 1.15.0 released
 
-JEAF Generator was moved to GitHub ;-)
+JEAF Generator was moved to GitHub
