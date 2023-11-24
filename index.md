@@ -5,7 +5,6 @@ layout: page
 menubar_toc: false
 show_sidebar: true
 hero_image: ./images/jeaf_emotions.png
-hero_darken: true
 callouts: jeaf_generator_callouts
 ---
 

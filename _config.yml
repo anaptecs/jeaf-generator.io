@@ -30,6 +30,7 @@ defaults:
       hide_hero: false
       hero_image: ../images/jeaf_emotions.png
       hero_height: is-fullwidth
+      hero_darken: true
 
   -
     scope:
@@ -43,6 +44,7 @@ defaults:
       hide_hero: false
       hero_image: ../../images/jeaf_emotions.png
       hero_height: is-fullwidth
+      hero_darken: true
       
   -
     scope:
@@ -56,5 +58,6 @@ defaults:
       hide_hero: false
       hero_image: ../../images/jeaf_emotions.png
       hero_height: is-fullwidth
+      hero_darken: true
       
       
