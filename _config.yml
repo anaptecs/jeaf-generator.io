@@ -17,6 +17,8 @@ favicon: jeaf-icon_64.png
 
 markdown: kramdown
 
+footer_menu: footer_menu
+
 defaults:
   -
     scope:
