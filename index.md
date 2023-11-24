@@ -8,8 +8,6 @@ hero_image: ./images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
 ---
 
-# JEAF Generator
-
 JEAF Generator can be used for code generation based on UML models. It supports a wide variety of artifacts that can be generated like:
 
 * `Service Interfaces`
