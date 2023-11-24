@@ -1,8 +1,21 @@
 style: is-light
 height: is-medium
 items:
-  - title: JEAF Generator
-    subtitle: Boot your software development to the next level
+  - title: Boost Efficency of your Team
+    subtitle: Unburden developers from writing boiler blade code
     icon: fa-rocket
-    call_to_action_name: See more benefits
-    call_to_action_link: benefits
+    #call_to_action_name: See more benefits
+    #call_to_action_link: benefits
+
+  - title: Consistent and Uniform Code
+    subtitle: Guidelines are ensured by code generator
+    icon: fa-rocket
+    description: >
+          The example description text goes here and can be multiple lines.
+    
+          For example, such as this.     
+
+  - title: Master Complexity
+    subtitle: Higher Level of abstraction ensures better overview and consistency
+    description: >
+          Model-drive approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
