@@ -3,7 +3,7 @@ title: "Impressum"
 subtitle: ""
 toc_title: " "
 menubar_toc: false
-#menubar: empty_menu
+menubar: empty_menu
 ---
 
 # Impressum
