@@ -3,6 +3,7 @@ layout: page
 menubar_toc: false
 show_sidebar: false
 hero_image: ./images/jeaf_emotions.png
+callouts: jeaf_generator_callouts
 ---
 
 ![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
