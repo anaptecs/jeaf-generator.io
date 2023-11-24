@@ -16,14 +16,15 @@ There are many reasons to use JEAF Generator. For further details please switch 
 
 # What to do next?
 
+* [**Quickstart Guide**](developer-guide/quickstart)<br>
+  Follow the quickstart guide and do your first steps hands on with using JEAF Generator example project from our [Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples")<br><br>
+
 * [**JEAF Generator Developer Guide**](developer-guide)<br>
   Check out our developer guide and discover how to use all the features that make a developers life simpler<br><br>
 
 * [**UML Modeling Guide**](uml-modeling-guide)<br>
   Check out our UML Modeling Guide and find out how much you can benefit from high quality UML models in combination with JEAF Generator<br><br>
 
-* [**Quickstart Guide**](developer-guide/quickstart)<br>
-  Follow the quickstart guide and do your first steps hands with using JEAF Generator example project from our [Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples")<br><br>
 
 # Latest Version
 
