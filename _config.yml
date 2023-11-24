@@ -29,6 +29,7 @@ defaults:
       # show_sidebar: true
       hide_hero: false
       hero_image: ../images/jeaf_emotions.png
+      hero_height: is-fullwidth
 
   -
     scope:
@@ -41,6 +42,7 @@ defaults:
       # show_sidebar: true
       hide_hero: false
       hero_image: ../../images/jeaf_emotions.png
+      hero_height: is-fullwidth
       
   -
     scope:
@@ -53,5 +55,6 @@ defaults:
       # show_sidebar: true
       hide_hero: false
       hero_image: ../../images/jeaf_emotions.png
+      hero_height: is-fullwidth
       
       
