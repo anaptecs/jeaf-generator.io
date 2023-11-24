@@ -2,7 +2,7 @@
     - name: XMI Export 
       link: /developer-guide/xmi-export
       
-    - name: Maven Plugin Configuration
+    - name: Maven Integration
       link: /developer-guide/maven-plugin
       
     - name: Generating Code
