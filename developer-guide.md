@@ -10,6 +10,8 @@ menubar: developer_guide_menu
 
 JEAF Generator is provided as Maven Plugin that is supposed to be integrated into your standard build process. All required configurations are done through the plugin configuration.
 
+## Development Process
+
 In general the development consists of the following steps:
 
 | Steps                                            | Further Reading                                                             |
