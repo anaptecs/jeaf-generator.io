@@ -25,6 +25,6 @@ Verbraucherschlichtungsstelle teilzunehmen.
 
 **Datenschutz** 
 
-Unsere Datenschutzhinweise finden Sie unter: [Datenschutzerklärung](privacy)
+Unsere Datenschutzhinweise finden Sie unter: [Datenschutzerklärung](../privacy)
 
 Quelle: https://www.e-recht24.de/impressum-generator.html
