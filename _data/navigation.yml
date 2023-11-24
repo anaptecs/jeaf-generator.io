@@ -10,5 +10,8 @@
 - name: Blog
   link: blog
   
+- name: Support
+  link: https://github.com/anaptecs/jeaf-generator/releases
+
 - name: Releases
   link: https://github.com/anaptecs/jeaf-generator/releases

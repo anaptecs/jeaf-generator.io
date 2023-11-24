@@ -34,7 +34,7 @@ defaults:
 
   -
     scope:
-      path: "uml-modeling-guide" # an empty string here means all files in the project
+      path: "uml-modeling-guide"
     values:
       title: " "
       subtitle: " "
@@ -48,7 +48,7 @@ defaults:
       
   -
     scope:
-      path: "developer-guide" # an empty string here means all files in the project
+      path: "developer-guide"
     values:
       title: " "
       subtitle: " "
