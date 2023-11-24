@@ -1,7 +1,7 @@
 ---
 title: "JEAF Generator"
 subtitle: "Join Next Generation Software Development"
-layout: product-category
+layout: page
 menubar_toc: false
 show_sidebar: true
 hero_image: ./images/jeaf_emotions.png
