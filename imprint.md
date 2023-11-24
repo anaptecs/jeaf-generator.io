@@ -16,7 +16,7 @@ Umsatzsteuer-ID<br>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteu
 
 <br>
 
-**Verbraucherstreitbeilegung/Universalschlichtungsstelle**
+**Verbraucherstreitbeilegung / Universalschlichtungsstelle**
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer
 Verbraucherschlichtungsstelle teilzunehmen.
