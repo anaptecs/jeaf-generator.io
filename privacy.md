@@ -4,20 +4,23 @@ Im Folgenden möchten wir dich aufklären, wie deine Daten von uns verarbeitet w
 
 **Verantwortlich im Sinne der DSGVO ist:**  
 anaptecs GmbH
-Stefan Große 
-Ricarda-Huch-Str. 71 
+Stefan Große
+Ricarda-Huch-Str. 71
 72760 Reutlingen
 Germany  
 [info@anaptecs.de](mailto:info@anaptecs.de)
+
+<br>
 
 Solltest du per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten 
 von uns gespeichert, um dein Anliegen zu bearbeiten.
 
 Zu den verarbeiteten Daten zählen:  
+
 - Dein Name
 - Deine E-Mail-Adresse
 
-Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.<br><br>
+Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich ist oder die Verarbeitung einschränken, falls gesetzliche Aufbewahrungspflichten bestehen.<br>
 
 **Betroffenenrechte**  
 Du hast als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung deiner Daten.
