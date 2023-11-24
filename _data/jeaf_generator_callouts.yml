@@ -17,13 +17,13 @@ items:
 
   - title: Master Complexity
     subtitle: Higher Level of abstraction ensures better overview and consistency
-    icon: fa-biohazard
+    icon: fa-brain
     description: >
           Model-drive approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
 
   - title: Increase Quality
     subtitle: Higher Level of abstraction ensures better overview and consistency
-    icon: fa-bug-slash
+    icon: fa-bug
     description: >
           Model-drive approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
 
