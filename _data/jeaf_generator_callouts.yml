@@ -1,4 +1,4 @@
-style: is-light
+style: is-medium
 height: is-medium
 items:
   - title: Boost Efficency of your Team
@@ -9,7 +9,7 @@ items:
 
   - title: Consistent and Uniform Code
     subtitle: Guidelines are ensured by code generator
-    icon: fa-rocket
+    icon: fa-code
     description: >
           The example description text goes here and can be multiple lines.
     
@@ -17,5 +17,13 @@ items:
 
   - title: Master Complexity
     subtitle: Higher Level of abstraction ensures better overview and consistency
+    icon: fa-biohazard
     description: >
           Model-drive approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
+
+  - title: Increase Quality
+    subtitle: Higher Level of abstraction ensures better overview and consistency
+    icon: fa-bug-slash
+    description: >
+          Model-drive approach will lead to an higher level of abstraction. This will ensures an better overview and consistency. And so, complexity can be handled better.
+
