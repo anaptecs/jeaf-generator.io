@@ -8,6 +8,8 @@ hero_image: ./images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
 ---
 
+![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
+
 JEAF Generator can be used for code generation based on UML models. It supports a wide variety of artifacts that can be generated like:
 
 * `Service Interfaces`

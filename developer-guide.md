@@ -1,4 +1,5 @@
 ---
+title: "Developer Guide"
 toc_title: " "
 menubar: developer_guide_menu
 ---
