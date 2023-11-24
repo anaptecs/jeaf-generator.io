@@ -1,6 +1,6 @@
 - items:
-    - name: Developer Guide
-      link: /developer-guide
+    - name: UML Modeling Guide
+      link: /uml-modeling-guide
       
     - name: XMI Export
       link: /developer-guide/xmi-export
