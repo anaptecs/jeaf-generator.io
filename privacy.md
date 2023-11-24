@@ -1,3 +1,11 @@
+---
+title: "Datenschutzerklärung"
+subtitle: ""
+toc_title: " "
+menubar_toc: false
+menubar: empty_menu
+---
+
 # Datenschutzerklärung
 
 Im Folgenden möchten wir dich aufklären, wie deine Daten von uns verarbeitet werden.
