@@ -6,4 +6,4 @@ date: 2023-11-22 18:20:33 +0100
 hide_hero: false
 ---
 
-JEAF Generator is now available via GitHub ;-)
+JEAF Generator was moved to GitHub ;-)
