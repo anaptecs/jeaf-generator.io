@@ -1,5 +1,8 @@
 - items:
-    - name: XMI Export 
+    - name: Developer Guide
+      link: /developer-guide
+      
+    - name: XMI Export
       link: /developer-guide/xmi-export
       
     - name: Maven Integration
