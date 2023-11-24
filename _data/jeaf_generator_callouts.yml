@@ -4,9 +4,5 @@ items:
   - title: JEAF Generator
     subtitle: Boot your software development to the next level
     icon: fa-rocket
-    description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this. 
     call_to_action_name: See more benefits
     call_to_action_link: why
