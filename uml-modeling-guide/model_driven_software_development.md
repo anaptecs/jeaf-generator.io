@@ -66,7 +66,7 @@ The UML standard offers an outstanding support for these requirements by so call
 The picture below provides a first impression how powerful the concept of stereotypes and tagged values is. Stereotypes are surrounded by `«` and `»` like `«PersistentObject»`. Tagged values of a stereotype are shown close to the element they were applied on using `{` and `}` like `{classID= 1111, table=”ACCOUNT”}`.
 
 
-[](../images/stereotype_sample.png)
+![](../images/stereotype_sample.png)
 <br>
 
 The meaning of each of the stereotypes and its tagged values are be described on page [JEAF Meta Model](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/514982339").
