@@ -11,7 +11,7 @@ callouts: jeaf_generator_callouts
 
 # Features
 
-* Java Code Generation
+* **Java Code Generation**
   
   * POJO (including Builders, Validation Annotations, bidirectional getters / setters)
   
@@ -21,7 +21,7 @@ callouts: jeaf_generator_callouts
   
   <br>
 
-* Spring / Spring Boot Code Generation
+* **Spring / Spring Boot Code Generation**
   
   * Service Interfaces
   
