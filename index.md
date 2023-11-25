@@ -11,7 +11,9 @@ callouts: jeaf_generator_callouts
 
 # Top Features
 
-JEAF Generator is designed to be used in all kinds of enterprise projects. It offers a large set of features that are required to provide scalable, high-performance enterprise applications. JEAF Generator is provided as Maven Plugin and is able to produce a wide variety of artifacts based on UML-models.
+JEAF Generator is designed to be used in all kinds of enterprise projects. It offers a large set of features that are required to provide scalable, high-performance enterprise applications. 
+
+JEAF Generator is provided as Maven Plugin and is able to produce a wide variety of artifacts based on UML-models.
 
 Highlights are code generation for the following topics:
 
