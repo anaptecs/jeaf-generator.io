@@ -1,15 +1,15 @@
 - name: Why?
   link: why
 
+- name: Features
+  link: Features
+  
 - name: Developer Guide
   link: developer-guide
   
 - name: UML Modeling Guide
   link: uml-modeling-guide
 
-- name: Blog
-  link: blog
-  
 - name: Support
   link: https://github.com/anaptecs/jeaf-generator/releases
 

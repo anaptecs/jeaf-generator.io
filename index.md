@@ -9,9 +9,31 @@ hero_image: ./images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
 ---
 
+# Features
+
+* Java Code Generation
+  
+  * POJO (including Builders, Validation Annotations, bidirectional getters / setters)
+  
+  * Enumerations 
+  
+  * Jackson (annotations, serializers to avoid object nesting in JSON)
+  
+  <br>
+
+* Spring / Spring Boot Code Generation
+  
+  * Service Interfaces
+  
+  * REST Controllers
+  
+  * REST Clients (wrapped as Spring Service)
+
+<br>
+
 # Why JEAF Generator?
 
-There are many reasons to use JEAF Generator. For further details please switch to our [**overview about all benefits**](why/overview).
+Besides the benefits mentioned above there are many reasons to use JEAF Generator. For further details please switch to our [**overview about all benefits**](why/overview).
 
 <br>
 
@@ -25,7 +47,6 @@ There are many reasons to use JEAF Generator. For further details please switch 
 
 * [**UML Modeling Guide**](uml-modeling-guide)<br>
   Check out our UML Modeling Guide and find out how much you can benefit from high quality UML models in combination with JEAF Generator<br><br>
-
 
 # Latest Version
 
