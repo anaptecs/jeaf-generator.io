@@ -20,8 +20,6 @@ Highlights are code generation for the following topics:
   
   * Jackson / JSON
   
-  <br>
-
 * **Spring**
   
   * Service and REST Controllers
@@ -29,8 +27,6 @@ Highlights are code generation for the following topics:
   * REST Clients
   
   * Spring Security
-  
-  <br>
   
 * **OpenAPI**
 
