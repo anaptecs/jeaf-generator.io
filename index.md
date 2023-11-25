@@ -16,7 +16,7 @@ JEAF Generator is designed to be used in all kinds of enterprise projects. It of
 Highlights are code generation for the following topics:
 
 * **Java**
-  * POJOs (including Builders, Validation Annotations etc.)
+  * POJOs (incl. Builders, Validation Annotations etc.)
   
   * Jackson / JSON
   
