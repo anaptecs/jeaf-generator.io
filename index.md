@@ -25,17 +25,17 @@ Highlights are code generation for the following topics:
   
   <br>
 
-* **Spring Code Generation**
+* **Spring**
   
   * Service Interfaces
   
   * REST Controllers
   
-  * REST Clients
+  * REST Clients (wrapped as Spring Service, also for 3rd party / external services)
   
   <br>
   
-* **OpenAPI Specification**
+* **OpenAPI**
 
 <br>
 
