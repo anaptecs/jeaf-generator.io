@@ -13,13 +13,15 @@ callouts: jeaf_generator_callouts
 
 JEAF Generator is designed to be used in all kinds of enterprise projects. It offers a large set of features that are required to provide scalable, high-performance enterprise applications. JEAF Generator is provided as Maven Plugin and is able to produce a wide variety of artifacts based on UML-models.
 
-* **Java Code Generation**
+Highlights are code generation for the following topics:
+
+* **Java**
   
-  * POJO<br>(including Builders, Validation Annotations, bidirectional getters / setters)
+  * POJOs (including Builders, Validation Annotations, bidirectional getters / setters)<br>
   
-  * Enumerations (incl. extensible enums)
+  * Enumerations (incl. extensible enums)<br>
   
-  * Jackson (annotations, serializers to avoid object nesting in JSON)
+  * Jackson (annotations, serializers to avoid object nesting in JSON)<br>
   
   <br>
 
@@ -29,7 +31,7 @@ JEAF Generator is designed to be used in all kinds of enterprise projects. It of
   
   * REST Controllers
   
-  * REST Clients (wrapped as Spring Service)
+  * REST Clients
   
   <br>
   
