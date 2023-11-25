@@ -17,7 +17,7 @@ JEAF Generator is designed to be used in all kinds of enterprise projects. It of
   
   * POJO<br>(including Builders, Validation Annotations, bidirectional getters / setters)
   
-  * Enumerations (incl. extensible enums
+  * Enumerations (incl. extensible enums)
   
   * Jackson (annotations, serializers to avoid object nesting in JSON)
   
@@ -31,6 +31,8 @@ JEAF Generator is designed to be used in all kinds of enterprise projects. It of
   
   * REST Clients (wrapped as Spring Service)
   
+  <br>
+  
 * **OpenAPI Specification**
 
 <br>
@@ -41,7 +43,7 @@ For further details and the complete feature list please see our [**feature matr
 
 # Why JEAF Generator?
 
-Besides the benefits mentioned above there are many reasons to use JEAF Generator. For further details please switch to our [**overview about all benefits**](why/overview).
+Besides the benefits mentioned above there are many more reasons to use JEAF Generator. For further details please switch to our [**overview about all benefits**](why/overview).
 
 <br>
 
