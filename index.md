@@ -16,19 +16,19 @@ JEAF Generator is designed to be used in all kinds of enterprise projects. It of
 Highlights are code generation for the following topics:
 
 * **Java**
-  <br>POJOs (including Builders, Validation Annotations, bidirectional getters / setters)
-  <br>Enumerations (incl. extensible enums)<br>
-  <br>Jackson (annotations, serializers to avoid object nesting in JSON)<br>
+  * POJOs (including Builders, Validation Annotations etc.)
+  
+  * Jackson / JSON
   
   <br>
 
 * **Spring**
   
-  * Service Interfaces
+  * Service and REST Controllers
   
-  * REST Controllers
+  * REST Clients
   
-  * REST Clients (wrapped as Spring Service, also for 3rd party / external services)
+  * Spring Security
   
   <br>
   
