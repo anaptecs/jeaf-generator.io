@@ -11,9 +11,7 @@ callouts: jeaf_generator_callouts
 
 # Features
 
-**JEAF Generator** is designed to be used in enterprise projects and offers a large set of features to implement **scalable, high-performance enterprise applications**. JEAF Generator is provided as **Maven Plugin** so that it can be integrated easily into our projects.
-
-JEAF Generator uses UML models as input to generate, among others, the following output:
+**JEAF Generator** is designed to be used in enterprise projects and offers a large set of features to implement **scalable, high-performance enterprise applications**. JEAF Generator is provided as **Maven Plugin** and uses **UML models** as input to generate, among others, the following output:
 
 * **Java POJOs** (incl. Builders, Validation Annotations etc.)
   
@@ -26,9 +24,6 @@ JEAF Generator uses UML models as input to generate, among others, the following
 * **OpenAPI Specifications**
 
 * **Hibernate Entities** (incl. OR-Mapping)
-
-* **Supports MagicDraw UML and Eclipse Papyrus**
-
 
 <br>
 
