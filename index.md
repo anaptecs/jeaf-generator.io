@@ -9,7 +9,7 @@ hero_image: ./images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
 ---
 
-# Top Features
+# Features
 
 **JEAF Generator** is designed to be used in enterprise projects and offers a large set of features to implement **scalable, high-performance enterprise applications**. JEAF Generator is provided as **Maven Plugin** so that it can be integrated easily into our projects.
 
