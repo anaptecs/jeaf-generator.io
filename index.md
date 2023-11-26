@@ -41,7 +41,7 @@ Besides the benefits mentioned above there are many more reasons to use JEAF Gen
 # What to do next?
 
 * [**Quickstart Guide**](developer-guide/quickstart)<br>
-  Follow the quickstart guide and do your first steps hands on with using JEAF Generator example project from our [Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples")<br><br>
+  Follow the quickstart guide and do your first steps hands on by using JEAF Generator example project from our [Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples "https://bitbucket.org/anaptecs/jeaf-generator-samples")<br><br>
 
 * [**JEAF Generator Developer Guide**](developer-guide)<br>
   Check out our developer guide and discover how to use all the features that make a developers life simpler<br><br>
