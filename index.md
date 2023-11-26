@@ -11,26 +11,20 @@ callouts: jeaf_generator_callouts
 
 # Top Features
 
-JEAF Generator is designed to be used in all kinds of enterprise projects. It offers a large set of features that are required to provide scalable, high-performance enterprise applications. 
+**JEAF Generator** is designed to be used in enterprise projects and offers a large set of features to implement **scalable, high-performance enterprise applications**. JEAF Generator is provided as **Maven Plugin** so that it can be integrated easily into our projects.
 
-JEAF Generator is provided as Maven Plugin and is able to produce a wide variety of artifacts based on UML-models.
+**Feature Overview:**
 
-Highlights are code generation for the following topics:
+* **Java POJOs** (incl. Builders, Validation Annotations etc.)
+  
+* **Jackson / JSON Serialization**
+  
+* **Spring** (Services, REST Controllers, REST Clients, Security, ...) 
+  
+* **OpenAPI Specifications**
 
-* **Java**
-  * POJOs (incl. Builders, Validation Annotations etc.)
-  
-  * Jackson / JSON
-  
-* **Spring**
-  
-  * Service and REST Controllers
-  
-  * REST Clients
-  
-  * Spring Security
-  
-* **OpenAPI**
+* **Supports MagicDraw UML and Eclipse Papyrus**
+
 
 <br>
 
