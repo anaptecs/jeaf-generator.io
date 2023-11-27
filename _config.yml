@@ -12,6 +12,7 @@ plugins:
   - jemoji
   - font-awesome-less
   - font-awesome-solid
+  - solid
 
 fixed_navbar: top
 
