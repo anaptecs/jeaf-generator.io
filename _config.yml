@@ -11,6 +11,7 @@ plugins:
   - kramdown-parser-gfm
   - jemoji
   - font-awesome-less
+  - font-awesome-solid
 
 fixed_navbar: top
 
