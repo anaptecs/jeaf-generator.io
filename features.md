@@ -25,7 +25,7 @@ JEAF Generator uses UML models to generate code and configurations for various c
 ## Java
 
 ## Jackson / JSON
-<i class="fa-solid fa-circle-check" style="color: #00b900;"></i>
+<i class="fa fa-circle-check" style="color: #00b900;"></i>
 :thumbsup:
 :white_check_mark:
 :heavy_check_mark:
