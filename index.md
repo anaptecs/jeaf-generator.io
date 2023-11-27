@@ -15,7 +15,7 @@ JEAF Generator is designed to be used in enterprise projects and offers a large 
 
 <br>
 
-JEAF Generator is provided as Maven Plugin and uses UML models as input to generate, among others, the following output:
+JEAF Generator is provided as Maven Plugin and uses UML models to generate code for:
 
 * **Java POJOs** (incl. Builders, Validation Annotations etc.)
   
