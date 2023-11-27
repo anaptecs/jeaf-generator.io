@@ -13,7 +13,7 @@ callouts: jeaf_generator_callouts
 
 # Features
 
-JEAF Generator is designed to be used in enterprise projects and offers a large set of features to implement scalable, high-performance enterprise applications. 
+JEAF Generator is designed for enterprise projects and offers a large set of features to implement scalable, high-load, high-performance applications. 
 
 <br>
 
