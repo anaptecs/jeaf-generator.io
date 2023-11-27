@@ -29,6 +29,7 @@ JEAF Generator uses UML models to generate code and configurations for various c
 <i class="fa-solid fa-circle-check"></i>
 :thumbsup:
 :white_check_mark:
+:heavy_check_mark:
 
 ## Spring
 
