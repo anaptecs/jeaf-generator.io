@@ -29,6 +29,8 @@ JEAF Generator is provided as Maven Plugin and uses UML models to generate code 
 
 * **Hibernate Entities** (incl. OR-Mapping)
 
+* **...**
+
 <br>
 
 For further details and the complete feature list please see our [**feature matrix**](features).
