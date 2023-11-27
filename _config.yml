@@ -30,6 +30,7 @@ defaults:
       title: " "
       subtitle: " "
       menubar_toc: false
+      image: ../images/share_image.png
       #menubar: empty_menu
       # show_sidebar: true
       hide_hero: false
