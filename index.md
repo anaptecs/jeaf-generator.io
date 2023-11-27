@@ -1,6 +1,6 @@
 ---
 title: "JEAF Generator"
-subtitle: "Join Next Generation Software Development"
+#subtitle: "Join Next Generation Software Development"
 description: JEAF Generator uses UML models to generate code for Spring, REST, Java, JakarataEE, JEE, Hibernate and others
 layout: page
 menubar_toc: false
