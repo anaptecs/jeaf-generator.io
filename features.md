@@ -40,19 +40,70 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Configurable code formatting`  | The formatting of the generated code can be configured according to your rules.                                                                   |
 | `Configurable order of imports` | Ordering of imports and static imports can be configured according to your rules.                                                                 |
 
-
 ## Java
+
+| Features                             | Details |
+| ------------------------------------ | ------- |
+| `POJO`                               |         |
+| `Exception classes`                  |         |
+| `Object Mappers`                     |         |
+| `Java Bean Validation annotations`   |         |
+| `Custom Java Validation Constraints` |         |
+| `Builder Validation`                 |         |
+| `Soft Links`                         |         |
+| `of(...) / valueOf(...)`             |         |
+| `hashCode(...) / equals(...)`        |         |
+
+<br>
 
 ## Jackson / JSON
 
+* Jackson annotations
+* JSON Serializers
+
 ## Spring
+
+* Service Interfaces
+* REST Controller (incl. default configuration file)
+* Bean Params
+* Spring Security
+* REST Request / Response Validation
+* REST Request / Response Logging
+* Configure REST libraries (Spring Web MVC, JAX-RS)
+* REST Client
+* Activity Interfaces / Implementation
 
 ## OpenAPI
 
+* OpenAPI Specification (incl. validation of generated spec)
+
 ## Hibernate
+
+* Hibernate Entities (Persistent Objects)
 
 ## JakartaEE / JEE
 
+* REST Resources / REST Controller (incl. default configuration file)
+* REST Request / Response Validation
+* REST Request / Response Logging
+* Bean Params
+
 ## JEAF Framework
 
+* Service Interfaces
+* Service Objects
+* Domain Objects
+* Service Proxies / REST Client
+* Service Provider Interfaces
+* Service Provider Implementation
+* Activity Interfaces / Implementation
+* JEAF Components and Runtime classes
+* JUnit tests for JEAF Services
+
 ## Reports
+
+* Types Report
+* Breaking Changes Report
+* REST Deprecation Report
+* Java Deprecation Report
+* Security Roles Report
