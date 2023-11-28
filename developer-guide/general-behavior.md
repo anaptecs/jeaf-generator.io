@@ -30,7 +30,7 @@ Of course it’s possible to configure a concrete directory for each of these ou
 
 <br>
 
-# Error Handling
+## Error Handling
 
 JEAF Generator is supposed to work as fault tolerant as possible. When ever possible we try to avoid that the whole code generation process is aborted. In general JEAF Generator distinguishes between errors and warnings.
 
