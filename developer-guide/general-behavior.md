@@ -9,7 +9,7 @@ menubar: developer_guide_menu
 
 # General Behavior
 
-# Directory Layout for Generated Output
+## Directory Layout for Generated Output
 
 In order to ensure a strict separation between generated and hand-written code and resources JEAF Generator is working with the following directories / output slots:
 
