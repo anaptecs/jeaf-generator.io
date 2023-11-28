@@ -5,8 +5,8 @@
     - name: Quickstart
       link: /developer-guide/quick-start
       
-    - name: XMI Export
-      link: /developer-guide/xmi-export
+    - name: MagicDraw UML XMI Export
+      link: /developer-guide/magic-draw-xmi-export
       
     - name: Maven Integration
       link: /developer-guide/maven-integration
