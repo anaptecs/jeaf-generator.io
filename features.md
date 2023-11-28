@@ -31,117 +31,117 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 ## General Features
 
-| Features                        | Details                                                                                                                                           |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Maven Integration`             | JEAF Generator is provided a Maven Plugin to easily integrate into your build process. All configurations are done via Maven Plugin configuration |
-| `Extensible generated code`     | Generated code can be extended with manual code                                                                                                   |
-| `Customer-specific extensions`  | In addition to the already integrated templates for code generation it is also possible to add custom templates and checks                        |
-| `Supports JakartaEE and JEE`    | Besides JakartaEE it is still supported to use legacy JEE types e.g. Validation Annotations                                                       |
-| `Configurable code formatting`  | The formatting of the generated code can be configured according to your rules.                                                                   |
-| `Configurable order of imports` | Ordering of imports and static imports can be configured according to your rules.                                                                 |
+| Features                        | Description                                                                                                                                       | Additional Information                                                   |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| `Maven Integration`             | JEAF Generator is provided a Maven Plugin to easily integrate into your build process. All configurations are done via Maven Plugin configuration | - [Maven Plugin Configuration](developer-guide/maven-plugin-integration) |
+| `Extensible generated code`     | Generated code can be extended with manual code                                                                                                   |                                                                          |
+| `Customer-specific extensions`  | In addition to the already integrated templates for code generation it is also possible to add custom templates and checks                        |                                                                          |
+| `Supports JakartaEE and JEE`    | Besides JakartaEE it is still supported to use legacy JEE types e.g. Validation Annotations                                                       |                                                                          |
+| `Configurable code formatting`  | The formatting of the generated code can be configured according to your rules.                                                                   |                                                                          |
+| `Configurable order of imports` | Ordering of imports and static imports can be configured according to your rules.                                                                 |                                                                          |
 
 <br>
 
 ## Java
 
-| Features                             | Details |
-| ------------------------------------ | ------- |
-| `POJO`                               |         |
-| `Exception classes`                  |         |
-| `Object Mappers`                     |         |
-| `Java Bean Validation annotations`   |         |
-| `Custom Java Validation Constraints` |         |
-| `Builder Validation`                 |         |
-| `Soft Links`                         |         |
-| `of(...) / valueOf(...)`             |         |
-| `hashCode(...) / equals(...)`        |         |
+| Features                             | Description                                                                             | Additional Information |
+| ------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------- |
+| `POJO`                               | Generate POJO classes from a UML model. Generated code uses builder pattern by default. |                        |
+| `Exception classes`                  |                                                                                         |                        |
+| `Object Mappers`                     |                                                                                         |                        |
+| `Java Bean Validation annotations`   |                                                                                         |                        |
+| `Custom Java Validation Constraints` |                                                                                         |                        |
+| `Builder Validation`                 |                                                                                         |                        |
+| `Soft Links`                         |                                                                                         |                        |
+| `of(...) / valueOf(...)`             |                                                                                         |                        |
+| `hashCode(...) / equals(...)`        |                                                                                         |                        |
 
 <br>
 
 ## Jackson / JSON
 
-| Features              | Details |
-| --------------------- | ------- |
-| `Jackson annotations` |         |
-| `JSON Serializers`    |         |
+| Features              | Description | Additional Information |
+| --------------------- | ----------- | ---------------------- |
+| `Jackson annotations` |             |                        |
+| `JSON Serializers`    |             |                        |
 
 <br>
 
 ## Spring
 
-| Features                                            | Details                                      |
-| --------------------------------------------------- | -------------------------------------------- |
-| `Service Interfaces`                                |                                              |
-| `REST Controller`                                   |                                              |
-| `Bean Params`                                       |                                              |
-| `Spring Security`                                   |                                              |
-| `REST Request / Response Validation`                |                                              |
-| `REST Request / Response Logging`                   |                                              |
-| `Configure REST libraries (Spring Web MVC, JAX-RS)` |                                              |
-| `REST Client`                                       | independent of REST Controller (client only) |
-| `Activity Interfaces / Implementation`              |                                              |
+| Features                                            | Description                                  | Additional Information |
+| --------------------------------------------------- | -------------------------------------------- | ---------------------- |
+| `Service Interfaces`                                |                                              |                        |
+| `REST Controller`                                   |                                              |                        |
+| `Bean Params`                                       |                                              |                        |
+| `Spring Security`                                   |                                              |                        |
+| `REST Request / Response Validation`                |                                              |                        |
+| `REST Request / Response Logging`                   |                                              |                        |
+| `Configure REST libraries (Spring Web MVC, JAX-RS)` |                                              |                        |
+| `REST Client`                                       | independent of REST Controller (client only) |                        |
+| `Activity Interfaces / Implementation`              |                                              |                        |
 
 <br>
 
 ## OpenAPI
 
-| Features                                 | Details                                                                                       |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------- |
-| `OpenAPI Specification`                  |                                                                                               |
-| `Split OpenAPI spec in multiple modules` |                                                                                               |
-| `OpenAPI Data Types`                     | nice JSON (flat), no nested object structure in JSON representation but strong typing in Java |
-| `OpenAPI Spec Validation`                |                                                                                               |
+| Features                                 | Description                                                                                   | Additional Information |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------- |
+| `OpenAPI Specification`                  |                                                                                               |                        |
+| `Split OpenAPI spec in multiple modules` |                                                                                               |                        |
+| `OpenAPI Data Types`                     | nice JSON (flat), no nested object structure in JSON representation but strong typing in Java |                        |
+| `OpenAPI Spec Validation`                |                                                                                               |                        |
 
 <br>
 
 ## Hibernate
 
-| Features                                  | Details              |
-| ----------------------------------------- | -------------------- |
-| `Hibernate Entities (Persistent Objects)` |                      |
-| `Hibernate OR-Mapping`                    | incl. fetch strategy |
-| `Bi-directional associations`             |                      |
-| `many-to-many relations`                  |                      |
-| `Hibernate Composite types`               |                      |
-| `Persistence Units`                       |                      |
+| Features                                  | Description          | Additional Information |
+| ----------------------------------------- | -------------------- | ---------------------- |
+| `Hibernate Entities (Persistent Objects)` |                      |                        |
+| `Hibernate OR-Mapping`                    | incl. fetch strategy |                        |
+| `Bi-directional associations`             |                      |                        |
+| `many-to-many relations`                  |                      |                        |
+| `Hibernate Composite types`               |                      |                        |
+| `Persistence Units`                       |                      |                        |
 
 <br>
 
 ## JakartaEE / JEE
 
-| Features                             | Details |
-| ------------------------------------ | ------- |
-| `REST Resources`                     |         |
-| `REST Request / Response Validation` |         |
-| `REST Request / Response Logging`    |         |
-| `Bean Params`                        |         |
+| Features                             | Description | Additional Information |
+| ------------------------------------ | ----------- | ---------------------- |
+| `REST Resources`                     |             |                        |
+| `REST Request / Response Validation` |             |                        |
+| `REST Request / Response Logging`    |             |                        |
+| `Bean Params`                        |             |                        |
 
 <br>
 
 ## JEAF Framework
 
-| Features                               | Details |
-| -------------------------------------- | ------- |
-| `Service Interfaces`                   |         |
-| `Service Objects`                      |         |
-| `Domain Objects`                       |         |
-| `Service Proxies / REST Client`        |         |
-| `Service Provider Interfaces`          |         |
-| `Service Provider Implementation`      |         |
-| `Activity Interfaces / Implementation` |         |
-| `JEAF Components and Runtime classes`  |         |
-| `JUnit tests for JEAF Services`        |         |
+| Features                               | Description | Additional Information |
+| -------------------------------------- | ----------- | ---------------------- |
+| `Service Interfaces`                   |             |                        |
+| `Service Objects`                      |             |                        |
+| `Domain Objects`                       |             |                        |
+| `Service Proxies / REST Client`        |             |                        |
+| `Service Provider Interfaces`          |             |                        |
+| `Service Provider Implementation`      |             |                        |
+| `Activity Interfaces / Implementation` |             |                        |
+| `JEAF Components and Runtime classes`  |             |                        |
+| `JUnit tests for JEAF Services`        |             |                        |
 
 <br>
 
 ## Reports
 
-| Features                  | Details                        |
-| ------------------------- | ------------------------------ |
-| `Types Report`            | Business perspective, glossary |
-| `Breaking Changes Report` |                                |
-| `REST Deprecation Report` |                                |
-| `Java Deprecation Report` |                                |
-| `Security Roles Report`   |                                |
+| Features                  | Description                    | Additional Information |
+| ------------------------- | ------------------------------ | ---------------------- |
+| `Types Report`            | Business perspective, glossary |                        |
+| `Breaking Changes Report` |                                |                        |
+| `REST Deprecation Report` |                                |                        |
+| `Java Deprecation Report` |                                |                        |
+| `Security Roles Report`   |                                |                        |
 
 <br>
