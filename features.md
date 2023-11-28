@@ -66,4 +66,4 @@ public enum ContentType {
 }
 ```
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-rest-api%2Fblob%2Fmaster%2Fjeaf-rest-request-executor-api%2Fsrc%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Frest%2Fexecutor%2Fapi%2FRESTRequestExecutor.java&style=github-dark&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-rest-api%2Fblob%2Fmaster%2Fjeaf-rest-request-executor-api%2Fsrc%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Frest%2Fexecutor%2Fapi%2FRESTRequestExecutor.java&style=github&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
