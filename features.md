@@ -20,29 +20,24 @@ JEAF Generator is provided as Maven Plugin. All required configurations can be d
 
 JEAF Generator uses UML models to generate code and configurations for various cases and target platforms. No matter what is the expected output, an UML model is always the input.
 
-Currently the following UML modeling tools are supported <sup>1)</sup>:
+Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 * [**MagicDraw UML** (commercial)](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/)
 * [**Eclipse Papyrus** (Open Source)](https://projects.eclipse.org/projects/modeling.mdt.papyrus)
 
 <br>
 
-*<sup>1)</sup>* Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 feature set. Unfortunately, some of the missing features are mandatory when you want to set up a feature rich, high quality model-driven process.*
+<sup>1)</sup>*Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 feature set. Unfortunately, some of the missing features are mandatory when you want to set up a feature rich, high quality model-driven process.*
 
 <br>
 
 ## General Features
 
-* Maven Configuration
-* Maven
-* Generated code can be extended with manual code
-
 | Features                     | Details                                                                                                                    |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **General Features**         |                                                                                                                            |
 | Maven Integration            | JEAF Generator is provided a Maven Plugin to easily integrate into your build process                                      |
 | Maven Configuration          | All configurations are done via Maven Plugin configuration                                                                 |
-|                              |                                                                                                                            |
+| Extend generated code        | Generated code can be extended with manual code                                                                            |
 | Customer-specific extension. | In addition to the already integrated templates for code generation it is also possible to add custom templates and checks |
 |                              |                                                                                                                            |
 |                              |                                                                                                                            |
@@ -51,6 +46,8 @@ Currently the following UML modeling tools are supported <sup>1)</sup>:
 |                              |                                                                                                                            |
 |                              |                                                                                                                            |
 |                              |                                                                                                                            |
+
+<br>
 
 ## Java <i class="fa-brands fa-java fa-xl" style="color: #5F996B;"></i>
 
