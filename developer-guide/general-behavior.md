@@ -40,7 +40,7 @@ You can find the complete list of all error messages / warnings on site [JEAF Ge
 
 <br>
 
-# Final Modifier for Attributes
+## Final Modifier for Attributes
 
 JEAF Generator makes us of the so called builder pattern for Service Objects and POJOs. In case that attributes in the UML model are marked to be `readonly`, then these attributes can only be set using the builder but not directly using methods on the generated class itself.
 
@@ -48,19 +48,19 @@ JEAF Generator makes us of the so called builder pattern for Service Objects and
 
 <br>
 
-# Transient Modifier for Attributes / Roles
+## Transient Modifier for Attributes / Roles
 
 Using stereotype `«Transient»` it is possible to add keyword transient to generated code.
 
 <br>
 
-# Reduce visibility of Attributes / Roles
+## Reduce visibility of Attributes / Roles
 
 Using stereotype `«Internal»` it is possible to change the visibility of generated access methods to package visibility.
 
 <br>
 
-# Usage of Derived Properties
+## Usage of Derived Properties
 
 UML supports so called derived properties. This means that a property can 
 be derived (calculated) from other properties of an object. JEAF 
@@ -71,7 +71,7 @@ this will lead to a `getXYZ( )` operation that has to be implemented manually.
 
 <br>
 
-# Usage of Java Collection Types
+## Usage of Java Collection Types
 
 When modelling an association between classes then inside the UML model already its multiplicity will be defined. If the multiplicity is `0..*` or `1..*` then in the generated code some kind of Java Collection class is expected to be generated. As there are many types of Collection classes the table below will explain how the information from the model will be used the find the best matching Java Collection type.
 
@@ -92,7 +92,7 @@ The screenshot below shows an example of an `0..*` association where attributes 
 
 <br>
 
-# Access Methods for Attributes and Associations
+## Access Methods for Attributes and Associations
 
 For classes with stereotypes `«POJO»`, `«ServiceObject»`, `«DomainObject»`, `«PersistentObject»` and `«QueryObject»` it is not required to define access methods for attributes or associations explicitly in the UML model. JEAF Generator will generate them by default. For attributes there will be set and get methods. 
 
@@ -128,13 +128,13 @@ In case of associations depending on the multiplicity of the association ends th
 
 <br>
 
-# Handling of Associations
+## Handling of Associations
 
 UML supports a wide variety of associations between classes (associations, aggregation, directed associations and composition). All of them have a little different semantics. However when it comes to their representation in the Java code then they are all the same.
 
 <br>
 
-## Bidirectional and Directed Associations
+### Bidirectional and Directed Associations
 
 It is also important to know that there is a big difference between directed and bidirectional associations. From the model perspective the difference seems to be just a detail but when it comes to the generated code it has a big impact:
 
@@ -147,7 +147,7 @@ It is also important to know that there is a big difference between directed and
 
 <br>
 
-# Java Bean Validation (JSR-380)
+## Java Bean Validation (JSR-380)
 
 JEAF Generator also support Java Bean Validation. To make use of it operations, properties and parameters can be tagged using the matching stereotypes as described in [Java Bean Validation](../uml-modeling-guide/java-bean-validation). JEAF Generator will use this information and will generated the appropriate annotation.
 
