@@ -10,7 +10,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - jemoji
-  - font-awesome-less
+#  - font-awesome-less
 
 fixed_navbar: top
 
