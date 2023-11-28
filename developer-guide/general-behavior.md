@@ -45,3 +45,148 @@ You can find the complete list of all error messages / warnings on site [JEAF Ge
 JEAF Generator makes us of the so called builder pattern for Service Objects and POJOs. In case that attributes in the UML model are marked to be `readonly`, then these attributes can only be set using the builder but not directly using methods on the generated class itself.
 
 ![Final Modifier](../../images/final_modifier.png)
+
+<br>
+
+# Transient Modifier for Attributes / Roles
+
+Using stereotype `«Transient»` it is possible to add keyword transient to generated code.
+
+<br>
+
+# Reduce visibility of Attributes / Roles
+
+Using stereotype `«Internal»` it is possible to change the visibility of generated access methods to package visibility.
+
+<br>
+
+# Usage of Derived Properties
+
+UML supports so called derived properties. This means that a property can 
+be derived (calculated) from other properties of an object. JEAF 
+Generator also supports derived properties. In the generated Java code 
+this will lead to a `getXYZ( )` operation that has to be implemented manually.
+
+![derived Properties](../../images/derived_properties.png)
+
+<br>
+
+# Usage of Java Collection Types
+
+When modelling an association between classes then inside the UML model already its multiplicity will be defined. If the multiplicity is `0..*` or `1..*` then in the generated code some kind of Java Collection class is expected to be generated. As there are many types of Collection classes the table below will explain how the information from the model will be used the find the best matching Java Collection type.
+
+|                  |                |               |                                     |
+| ---------------- | -------------- | ------------- | ----------------------------------- |
+| **Multiplicity** | **Is Ordered** | **Is Unique** | **Type**                            |
+| `0..1` or `1`    | `n/a`          | `n/a`         | Referenced Class from the UML model |
+| `0..*` or `1..*` | `true`         | `true`        | `java.util.SortedSet`               |
+| `0..*` or `1..*` | `false`        | `true`        | `java.util.Set`                     |
+| `0..*` or `1..*` | `true`         | `false`       | `java.util.List`                    |
+| `0..*` or `1..*` | `false`        | `false`       | `java.util.Collection`              |
+
+The screenshot below shows an example of an `0..*` association where attributes for Java Collections are defined. According to the table above class `java.util.Set` will be used in the generated code.
+
+![derived Properties](../../images/collection.properties.png)
+
+<br>
+
+# Access Methods for Attributes and Associations
+
+For classes with stereotypes `«POJO»`, `«ServiceObject»`, `«DomainObject»`, `«PersistentObject»` and `«QueryObject»` it is not required to define access methods for attributes or associations explicitly in the UML model. JEAF Generator will generate them by default. For attributes there will be set and get methods. In case of associations depending on the multiplicity of the association ends there either will be get and set methods (`0..1` or `1`) or add, set, get and remove methods (`1..*` or `0..*`).
+
+- Attribute (e.g. `name`)
+  
+  - `String getName( )`
+  
+  - `void setName(String pName)`
+
+- `0..1` or `1` Association (e.g. `owner`)
+  
+  - `Person getOwner()`
+  
+  - `void setOwner(Person pOwner)`
+  
+  - `unsetOwner()`
+
+- `0..*` or `1..*` Association (e.g. `bookings`)
+  
+  - `Set<Booking> getBookings()`
+  
+  - `void setBookings(Set<Booking> pBookings)`
+  
+  - `void addToBookings(Booking pBooking)`
+  
+  - `void addToBookings(Collection<Booking> pBookings)`
+  
+  - `void removeFromBookings(Booking pBooking)`
+  
+  - `void clearBookings()`
+
+<br>
+
+# Handling of Associations
+
+UML supports a wide variety of associations between classes (associations, aggregation, directed associations and composition). All of them have a little different semantics. However when it comes to their representation in the Java code then they are all the same.
+
+<br>
+
+## Bidirectional and Directed Associations
+
+It is also important to know that there is a big difference between directed and bidirectional associations. From the model perspective the difference seems to be just a detail but when it comes to the generated code it has a big impact:
+
+- **Bidirectional Associations**  
+  If a association is modeled to be bidirectional then the generated code will ensure the consistency of that association in both directions.  
+  Example:
+  
+  - Class `A` has a bidirectional many-to-many association with class `B`. If we now add an object of class `B` to `A` then the generated code will ensure that the association form `B` to `A` is also set accordingly.<br>
+
+- **Directed Associations**  
+  In case of directed associations the references are only maintained into one direction as the association is not bidirectional.
+
+<br>
+
+# Java Bean Validation (JSR-380)
+
+JEAF Generator also support Java Bean Validation. To make use of it operations, properties and parameters can be tagged using the matching stereotypes as described in [Java Bean Validation](../uml-modeling-guide/java-bean-validation). JEAF Generator will use this information and will generated the appropriate annotation.
+
+In addition it is possible to add automated validation to the following artifacts:
+
+- Request and Response Validation in REST Controllers (Maven configuration parameter)
+
+- Request and Response Validation in REST Client Classes (aka REST Service Proxies) (Maven configuration parameter)
+
+- Object Validation inside builders when objects are created (defined in UML model or as Maven configuration parameter for all generated objects)
+
+JEAF Generator supports the following validation annotations:
+
+| **Stereotype**    | **Description***                                                                                                                                                                                                                                                       | **Applicable Types**  <br>**(in case of for primitives also their respective wrapper types)** |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `AssertFalse`     | The annotated element must be false.                                                                                                                                                                                                                                   | `boolean`                                                                                     |
+| `AssertTrue`      | The annotated element must be true.                                                                                                                                                                                                                                    | `boolean`                                                                                     |
+| `DecimalMax`      | The annotated element must be a number whose value must be lower or equal to the specified maximum. Note that `double` and `float` are not supported due to rounding errors.                                                                                           | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long`                                    |
+| `DecimalMin`      | The annotated element must be a number whose value must be higher or equal to the specified minimum. Note that `double` and `float` are not supported due to rounding errors.                                                                                          | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long`                                    |
+| `Digits`          | The annotated element must be a number within accepted range.                                                                                                                                                                                                          | `BigDecimal`, `BigInteger`, `String`, `byte`, `short, int`, `long`                            |
+| `Email`           | The string has to be a well-formed email address. Exact semantics of what makes up a valid email address are left to Jakarta Bean Validation providers.                                                                                                                | `String`                                                                                      |
+| `Future`          | The annotated element must be an instant, date or time in the future.                                                                                                                                                                                                  | Java date types                                                                               |
+| `FutureOrPresent` | The annotated element must be an instant, date or time in the present or in the future.                                                                                                                                                                                | Java date types                                                                               |
+| `Max`             | The annotated element must be a number whose value must be lower or equal to the specified maximum. Note that `double` and `float` are not supported due to rounding errors.                                                                                           | `BigDecimal, BigInteger, byte, short, int, long`                                              |
+| `Min`             | The annotated element must be a number whose value must be higher or equal to the specified minimum. Note that `double` and `float` are not supported due to rounding errors.                                                                                          | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long`                                    |
+| `Negative`        | The annotated element must be a strictly negative number (e.g. 0 is considered as an invalid value).                                                                                                                                                                   | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long` , `float`, `double`                |
+| `NegativeOrZero`  | The annotated element must be a negative number or 0.                                                                                                                                                                                                                  | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long` , `float`, `double`                |
+| `NotBlank`        | The annotated element must not be `null` and must contain at least one non-whitespace character.                                                                                                                                                                       | `String`                                                                                      |
+| `NotEmpty`        | The annotated element must not be `null` nor empty.                                                                                                                                                                                                                    | `String`                                                                                      |
+| `NotNull`         | The annotated element must not be `null`.                                                                                                                                                                                                                              | any type                                                                                      |
+| `Null`            | The annotated element must be `null`.                                                                                                                                                                                                                                  | any type                                                                                      |
+| `Past`            | The annotated element must be an instant, date or time in the past.                                                                                                                                                                                                    | Java date types                                                                               |
+| `PastOrPresent`   | The annotated element must be an instant, date or time in the past or in the present.                                                                                                                                                                                  | Java date types                                                                               |
+| `Pattern`         | The annotated `String` must match the specified regular expression. The regular expression follows the Java regular expression conventions see `java.util.regex.Pattern`.                                                                                              | `String`                                                                                      |
+| `Positive`        | The annotated element must be a strictly positive number (e.g. 0 is considered an invalid value).                                                                                                                                                                      | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long` , `float`, `double`                |
+| `PositiveOrZero`  | The annotated element must be a positive number or 0.                                                                                                                                                                                                                  | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long` , `float`, `double`                |
+| `Size`            | The annotated element size must be between the specified boundaries (included).                                                                                                                                                                                        | `String`, `Collection`, `Map`, `Array`                                                        |
+| `Valid`           | Marks a property, method parameter or method return type for validation cascading. Constraints defined on the object and its properties are be validated when the property, method parameter or method return type is validated. This behavior is applied recursively. | Property, parameter or return type                                                            |
+
+* Description is taken from OpenJDK
+
+**Note**
+
+Please be aware that for allow stereotype / annotation except `NotNull` null is considered to be a valid value
