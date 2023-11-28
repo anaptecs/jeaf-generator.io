@@ -134,14 +134,12 @@ UML supports a wide variety of associations between classes (associations, aggre
 
 It is also important to know that there is a big difference between directed and bidirectional associations. From the model perspective the difference seems to be just a detail but when it comes to the generated code it has a big impact:
 
-- **Bidirectional Associations**  
-  If a association is modeled to be bidirectional then the generated code will ensure the consistency of that association in both directions.  
-  Example:
+- **Bidirectional Associations**<br>
+  If a association is modeled to be bidirectional then the generated code will ensure the consistency of that association in both directions.<br>Example:
   
-  - Class `A` has a bidirectional many-to-many association with class `B`. If we now add an object of class `B` to `A` then the generated code will ensure that the association form `B` to `A` is also set accordingly.<br>
+  - Class `A` has a bidirectional many-to-many association with class `B`. If we now add an object of class `B` to `A` then the generated code will ensure that the association from `B` to `A` is also set accordingly.<br><br>
 
-- **Directed Associations**  
-  In case of directed associations the references are only maintained into one direction as the association is not bidirectional.
+- **Directed Associations**<br>In case of directed associations the references are only maintained into one direction as the association is not bidirectional.
 
 <br>
 
@@ -155,11 +153,11 @@ In addition it is possible to add automated validation to the following artifact
 
 - Request and Response Validation in REST Client Classes (aka REST Service Proxies) (Maven configuration parameter)
 
-- Object Validation inside builders when objects are created (defined in UML model or as Maven configuration parameter for all generated objects)
+- Object Validation inside builders when objects are created (defined in UML model or as Maven configuration parameter for all generated objects)<br><br>
 
-JEAF Generator supports the following validation annotations:
+JEAF Generator supports the following validation annotations:<br>
 
-| **Stereotype**    | **Description***                                                                                                                                                                                                                                                       | **Applicable Types**  <br>**(in case of for primitives also their respective wrapper types)** |
+| **Stereotype**    | **Description** <sup>1)</sup>                                                                                                                                                                                                                                          | **Applicable Types**  <br>**(in case of for primitives also their respective wrapper types)** |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | `AssertFalse`     | The annotated element must be false.                                                                                                                                                                                                                                   | `boolean`                                                                                     |
 | `AssertTrue`      | The annotated element must be true.                                                                                                                                                                                                                                    | `boolean`                                                                                     |
@@ -185,8 +183,10 @@ JEAF Generator supports the following validation annotations:
 | `Size`            | The annotated element size must be between the specified boundaries (included).                                                                                                                                                                                        | `String`, `Collection`, `Map`, `Array`                                                        |
 | `Valid`           | Marks a property, method parameter or method return type for validation cascading. Constraints defined on the object and its properties are be validated when the property, method parameter or method return type is validated. This behavior is applied recursively. | Property, parameter or return type                                                            |
 
-* Description is taken from OpenJDK
+<sup>1)</sup> Description is taken from OpenJDK
 
-**Note**
 
-Please be aware that for allow stereotype / annotation except `NotNull` null is considered to be a valid value
+{% include notification.html
+message="Please be aware that for allow stereotype / annotation except `NotNull` null is considered to be a valid value"
+status="is-info"
+%}
