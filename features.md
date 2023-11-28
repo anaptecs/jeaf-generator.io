@@ -23,7 +23,7 @@ Currently the following UML modeling tools are supported <sup>2</sup>:
 * [**MagicDraw UML** (commercial)](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/)
 * [**Eclipse Papyrus**](https://projects.eclipse.org/projects/modeling.mdt.papyrus)
 
-*^1)^: Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 meta model and it's XMI export capabilities are limited.*
+*<sup>1)</sup>: Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 meta model and it's XMI export capabilities are limited.*
 
 <br>
 
