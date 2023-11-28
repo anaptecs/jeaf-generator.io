@@ -11,8 +11,8 @@
     - name: Maven Integration
       link: /developer-guide/maven-integration
       
-    - name: Maven Integration
-      link: /developer-guide/maven-integration
+    - name: Maven Plugin Configuration
+      link: /developer-guide/maven-plugin-configuration
       
     - name: Generating Code
       #link: 
