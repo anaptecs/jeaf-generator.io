@@ -37,3 +37,11 @@ JEAF Generator is supposed to work as fault tolerant as possible. When ever poss
 Both of them will be listed at the end of the generator output as a summary. So to get an overview it’s not required to check the complete log. When JEAF Generator detects a warning for a specific model element it tries to point out the exact element that caused the problem as well as an description of the identified issue. The same is done for errors. However in case of a warning code generation for the model element is still possible whereas this is not the case when an error is found. In this case the model element will be ignored and JEAF Generator will try to process the next element of the UML model.
 
 You can find the complete list of all error messages / warnings on site [JEAF Generator Error Codes](../error-codes).
+
+
+
+# Final Modifier for Attributes
+
+JEAF Generator makes us of the so called builder pattern for Service Objects and POJOs. In case that attributes in the UML model are marked to be `readonly`, then these attributes can only be set using the builder but not directly using methods on the generated class itself.
+
+![Final Modifier](../../images/final_modifier.png)
