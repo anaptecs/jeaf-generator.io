@@ -40,6 +40,8 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Configurable code formatting`  | The formatting of the generated code can be configured according to your rules.                                                                   |
 | `Configurable order of imports` | Ordering of imports and static imports can be configured according to your rules.                                                                 |
 
+<br>
+
 ## Java
 
 | Features                             | Details |
@@ -58,52 +60,88 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 ## Jackson / JSON
 
-* Jackson annotations
-* JSON Serializers
+| Features              | Details |
+| --------------------- | ------- |
+| `Jackson annotations` |         |
+| `JSON Serializers`    |         |
+
+<br>
 
 ## Spring
 
-* Service Interfaces
-* REST Controller (incl. default configuration file)
-* Bean Params
-* Spring Security
-* REST Request / Response Validation
-* REST Request / Response Logging
-* Configure REST libraries (Spring Web MVC, JAX-RS)
-* REST Client
-* Activity Interfaces / Implementation
+| Features                                            | Details                                      |
+| --------------------------------------------------- | -------------------------------------------- |
+| `Service Interfaces`                                |                                              |
+| `REST Controller`                                   |                                              |
+| `Bean Params`                                       |                                              |
+| `Spring Security`                                   |                                              |
+| `REST Request / Response Validation`                |                                              |
+| `REST Request / Response Logging`                   |                                              |
+| `Configure REST libraries (Spring Web MVC, JAX-RS)` |                                              |
+| `REST Client`                                       | independent of REST Controller (client only) |
+| `Activity Interfaces / Implementation`              |                                              |
+
+<br>
 
 ## OpenAPI
 
-* OpenAPI Specification (incl. validation of generated spec)
+| Features                                 | Details                                                                                       |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `OpenAPI Specification`                  |                                                                                               |
+| `Split OpenAPI spec in multiple modules` |                                                                                               |
+| `OpenAPI Data Types`                     | nice JSON (flat), no nested object structure in JSON representation but strong typing in Java |
+| `OpenAPI Spec Validation`                |                                                                                               |
+
+<br>
 
 ## Hibernate
 
-* Hibernate Entities (Persistent Objects)
+| Features                                  | Details              |
+| ----------------------------------------- | -------------------- |
+| `Hibernate Entities (Persistent Objects)` |                      |
+| `Hibernate OR-Mapping`                    | incl. fetch strategy |
+| `Bi-directional associations`             |                      |
+| `many-to-many relations`                  |                      |
+| `Hibernate Composite types`               |                      |
+| `Persistence Units`                       |                      |
+
+<br>
 
 ## JakartaEE / JEE
 
-* REST Resources / REST Controller (incl. default configuration file)
-* REST Request / Response Validation
-* REST Request / Response Logging
-* Bean Params
+| Features                             | Details |
+| ------------------------------------ | ------- |
+| `REST Resources`                     |         |
+| `REST Request / Response Validation` |         |
+| `REST Request / Response Logging`    |         |
+| `Bean Params`                        |         |
+
+<br>
 
 ## JEAF Framework
 
-* Service Interfaces
-* Service Objects
-* Domain Objects
-* Service Proxies / REST Client
-* Service Provider Interfaces
-* Service Provider Implementation
-* Activity Interfaces / Implementation
-* JEAF Components and Runtime classes
-* JUnit tests for JEAF Services
+| Features                               | Details |
+| -------------------------------------- | ------- |
+| `Service Interfaces`                   |         |
+| `Service Objects`                      |         |
+| `Domain Objects`                       |         |
+| `Service Proxies / REST Client`        |         |
+| `Service Provider Interfaces`          |         |
+| `Service Provider Implementation`      |         |
+| `Activity Interfaces / Implementation` |         |
+| `JEAF Components and Runtime classes`  |         |
+| `JUnit tests for JEAF Services`        |         |
+
+<br>
 
 ## Reports
 
-* Types Report
-* Breaking Changes Report
-* REST Deprecation Report
-* Java Deprecation Report
-* Security Roles Report
+| Features                  | Details                        |
+| ------------------------- | ------------------------------ |
+| `Types Report`            | Business perspective, glossary |
+| `Breaking Changes Report` |                                |
+| `REST Deprecation Report` |                                |
+| `Java Deprecation Report` |                                |
+| `Security Roles Report`   |                                |
+
+<br>
