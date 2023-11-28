@@ -9,7 +9,10 @@
       link: /developer-guide/xmi-export
       
     - name: Maven Integration
-      link: /developer-guide/maven-plugin
+      link: /developer-guide/maven-integration
+      
+    - name: Maven Integration
+      link: /developer-guide/maven-plugin-integration
       
     - name: Generating Code
       link: /developer-guide/generating-code
