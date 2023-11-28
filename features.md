@@ -33,21 +33,23 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 ## General Features
 
-| Features                     | Details                                                                                                                    |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Maven Integration            | JEAF Generator is provided a Maven Plugin to easily integrate into your build process                                      |
-| Maven Configuration          | All configurations are done via Maven Plugin configuration                                                                 |
-| Extend generated code        | Generated code can be extended with manual code                                                                            |
-| Customer-specific extension. | In addition to the already integrated templates for code generation it is also possible to add custom templates and checks |
-|                              |                                                                                                                            |
-|                              |                                                                                                                            |
-|                              |                                                                                                                            |
-|                              |                                                                                                                            |
-|                              |                                                                                                                            |
-|                              |                                                                                                                            |
-|                              |                                                                                                                            |
+* Maven Configuration
+* Maven
+* Generated code can be extended with manual code
 
-<br>
+| Features                       | Details                                                                                                                    |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| `Maven Integration`            | JEAF Generator is provided a Maven Plugin to easily integrate into your build process                                      |
+| `Maven Configuration`          | All configurations are done via Maven Plugin configuration                                                                 |
+| `Extensible generated code`    | Generated code can be extended with manual code                                                                            |
+| `Customer-specific extensions` | In addition to the already integrated templates for code generation it is also possible to add custom templates and checks |
+|                                |                                                                                                                            |
+|                                |                                                                                                                            |
+|                                |                                                                                                                            |
+|                                |                                                                                                                            |
+|                                |                                                                                                                            |
+|                                |                                                                                                                            |
+|                                |                                                                                                                            |
 
 ## Java <i class="fa-brands fa-java fa-xl" style="color: #5F996B;"></i>
 
