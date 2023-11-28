@@ -10,8 +10,6 @@ menubar: empty_menu
 
 JEAF Generator realizes the link between UML models and code.It is designed for enterprise projects and offers a large set of features to implement scalable, high-load, high-performance applications. 
 
-<br>
-
 JEAF Generator is provided as Maven Plugin. All required configurations can be done through the plugin configuration.
 
 <br>
