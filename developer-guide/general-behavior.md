@@ -13,7 +13,7 @@ menubar: developer_guide_menu
 
 In order to ensure a strict separation between generated and hand-written code and resources JEAF Generator is working with the following directories / output slots:
 
-- **`src-gen`**
+- `src-gen`
   This slot contains all generated Java classes. Every time JEAF Generator is executed all files in this directory will be at first deleted and then written again. Files in this directory must not be edited manually.  
 
 - `src`  
