@@ -4,6 +4,8 @@ subtitle: "JEAF Generator Error Codes"
 menubar: developer_guide_menu
 ---
 
+![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
+
 # JEAF Generator Error Codes
 
 This page describes all the possible errors and warnings that might come up during code generation.
