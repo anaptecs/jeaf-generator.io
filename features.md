@@ -41,16 +41,11 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Supports JakartaEE and JEE`    | Besides JakartaEE it is still supported to use legacy JEE types e.g. Validation Annotations                                                       |
 | `Configurable code formatting`  | The formatting of the generated code can be configured according to your rules.                                                                   |
 | `Configurable order of imports` | Ordering of imports and static imports can be configured according to your rules.                                                                 |
-|                                 |                                                                                                                                                   |
-|                                 |                                                                                                                                                   |
-|                                 |                                                                                                                                                   |
-|                                 |                                                                                                                                                   |
 
-## Java <i class="fa-brands fa-java fa-xl" style="color: #5F996B;"></i>
+
+## Java
 
 ## Jackson / JSON
-
-<i class="fas fa-check-circle fa-lg" style="color: #B92132;"></i>
 
 ## Spring
 
