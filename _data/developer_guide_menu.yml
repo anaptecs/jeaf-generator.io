@@ -12,7 +12,7 @@
       link: /developer-guide/maven-integration
       
     - name: Maven Integration
-      link: /developer-guide/maven-plugin-integration
+      link: /developer-guide/maven-integration
       
     - name: Generating Code
       #link: 
