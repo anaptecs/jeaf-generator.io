@@ -8,11 +8,13 @@ menubar: empty_menu
 
 # Features
 
-JEAF Generator is designed for enterprise projects and offers a large set of features to implement scalable, high-load, high-performance applications. JEAF Generator realizes the link between UML and code.
+JEAF Generator realizes the link between UML models and code.It is designed for enterprise projects and offers a large set of features to implement scalable, high-load, high-performance applications. 
 
 <br>
 
 JEAF Generator is provided as Maven Plugin. All required configurations can be done through the plugin configuration.
+
+<br>
 
 ## Supported UML Modeling Tools
 
@@ -31,6 +33,25 @@ Currently the following UML modeling tools are supported <sup>1)</sup>:
 
 ## General Features
 
+* Maven Configuration
+* Maven
+* Generated code can be extended with manual code
+
+| Features                     | Details                                                                                                                    |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **General Features**         |                                                                                                                            |
+| Maven Integration            | JEAF Generator is provided a Maven Plugin to easily integrate into your build process                                      |
+| Maven Configuration          | All configurations are done via Maven Plugin configuration                                                                 |
+|                              |                                                                                                                            |
+| Customer-specific extension. | In addition to the already integrated templates for code generation it is also possible to add custom templates and checks |
+|                              |                                                                                                                            |
+|                              |                                                                                                                            |
+|                              |                                                                                                                            |
+|                              |                                                                                                                            |
+|                              |                                                                                                                            |
+|                              |                                                                                                                            |
+|                              |                                                                                                                            |
+
 ## Java <i class="fa-brands fa-java fa-xl" style="color: #5F996B;"></i>
 
 ## Jackson / JSON
@@ -42,6 +63,10 @@ Currently the following UML modeling tools are supported <sup>1)</sup>:
 ## OpenAPI
 
 ## Hibernate
+
+## JakartaEE / JEE
+
+## Reports
 
 ```java
 public enum ContentType {
