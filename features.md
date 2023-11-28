@@ -18,12 +18,12 @@ JEAF Generator is provided as Maven Plugin. All required configurations can be d
 
 JEAF Generator uses UML models to generate code and configurations for various cases and target platforms. No matter what is the expected output, an UML model is always the input.
 
-Currently the following UML modeling tools are supported <sup>1)</sup>:
+Currently the following UML modeling tools are supported<sup>1)</sup>:
 
 * [**MagicDraw UML** (commercial)](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/)
 * [**Eclipse Papyrus**](https://projects.eclipse.org/projects/modeling.mdt.papyrus)
 
-*<sup>1)</sup>: Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 meta model and it's XMI export capabilities are limited.*
+***<sup>1)</sup>** Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 meta model and it's XMI export capabilities are limited.*
 
 <br>
 
