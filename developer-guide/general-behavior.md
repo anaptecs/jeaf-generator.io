@@ -160,7 +160,7 @@ In addition it is possible to add automated validation to the following artifact
 - Object Validation inside builders when objects are created (defined in UML model or as Maven configuration parameter for all generated objects)<br><br>
 
 {% include notification.html
-message="Please be aware that for all stereotypes / annotations except `null` is considered to be a valid value. Only exception is `@NotNull`."
+message="Please be aware that for all stereotypes / annotations `null` is considered to be a valid value. Only exception is `@NotNull`."
 status="is-info"
 %}
 
