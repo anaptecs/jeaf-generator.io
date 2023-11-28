@@ -35,7 +35,7 @@ JEAF Generator is provided as Maven Plugin and uses UML models to generate code 
 
 <br>
 
-For further details and the complete feature list please see our [**feature matrix**](features).
+For further details please have a look on our [**feature description site**](features).
 
 <br>
 
