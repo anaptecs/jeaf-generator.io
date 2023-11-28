@@ -27,15 +27,11 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 <br>
 
-<sup>1)</sup>*Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 feature set. Unfortunately, some of the missing features are mandatory when you want to set up a feature rich, high quality model-driven process.*
+<sup>1)</sup> *Enterprise Architect from Sparx Systems is not supported as it does not support the full UML 2.5 feature set. Unfortunately, some of the missing features are mandatory when you want to set up a feature rich, high quality model-driven process.*
 
 <br>
 
 ## General Features
-
-* Maven Configuration
-* Maven
-* Generated code can be extended with manual code
 
 | Features                        | Details                                                                                                                                           |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +40,7 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Customer-specific extensions`  | In addition to the already integrated templates for code generation it is also possible to add custom templates and checks                        |
 | `Supports JakartaEE and JEE`    | Besides JakartaEE it is still supported to use legacy JEE types e.g. Validation Annotations                                                       |
 | `Configurable code formatting`  | The formatting of the generated code can be configured according to your rules.                                                                   |
-| *Configurable order of imports* | Ordering of imports and static imports can be configured according to your rules.                                                                 |
+| `Configurable order of imports` | Ordering of imports and static imports can be configured according to your rules.                                                                 |
 |                                 |                                                                                                                                                   |
 |                                 |                                                                                                                                                   |
 |                                 |                                                                                                                                                   |
