@@ -38,5 +38,32 @@ JEAF Generator uses UML models to generate code and configurations for various c
 
 ## Hibernate
 
-##
+```java
+public enum ContentType {
+  JSON("application/json"), XML("application/xml");
+
+  /**
+   * Mime type that belongs to the content type-
+   */
+  private final String mimeType;
+
+  /**
+   * Initialize enumeration.
+   * 
+   * @param pMimeType Mime type the belong to the content type. The parameter must not be null.
+   */
+  private ContentType( String pMimeType ) {
+    mimeType = pMimeType;
+  }
+
+  /**
+   * Method returns the mime type that belongs to this content type.
+   * 
+   * @return String Mime type. The method never returns null.
+   */
+  public String getMimeType( ) {
+    return mimeType;
+  }
+}
+```
 
