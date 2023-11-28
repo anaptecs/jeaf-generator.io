@@ -166,7 +166,7 @@ status="is-info"
 
 <br>
 
-JEAF Generator supports the following validation annotations:<br>
+**JEAF Generator supports the following validation annotations:**<br>
 <br>
 
 | **Stereotype**    | **Description** <sup>1)</sup>                                                                                                                                                                                                                                          | **Applicable Types** <sup>2)</sup>                                             |
