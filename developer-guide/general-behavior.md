@@ -198,5 +198,3 @@ status="is-info"
 <sup>1)</sup> Description is taken from OpenJDK
 
 <sup>2)</sup> In case of for primitives also their respective wrapper types
-
-<br>
