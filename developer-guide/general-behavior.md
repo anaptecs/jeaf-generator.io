@@ -1,7 +1,8 @@
 ---
 title: "Developer Guide"
 subtitle: "General Behavior"
-toc_title: " "
+toc_title: "Contents"
+toc: true
 menubar: developer_guide_menu
 ---
 
@@ -194,6 +195,8 @@ status="is-info"
 | `PositiveOrZero`  | The annotated element must be a positive number or 0.                                                                                                                                                                                                                  | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long` , `float`, `double` |
 | `Size`            | The annotated element size must be between the specified boundaries (included).                                                                                                                                                                                        | `String`, `Collection`, `Map`, `Array`                                         |
 | `Valid`           | Marks a property, method parameter or method return type for validation cascading. Constraints defined on the object and its properties are be validated when the property, method parameter or method return type is validated. This behavior is applied recursively. | Property, parameter or return type                                             |
+
+<br>
 
 <sup>1)</sup> Description is taken from OpenJDK
 
