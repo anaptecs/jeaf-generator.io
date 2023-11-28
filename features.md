@@ -67,34 +67,3 @@ Currently the following UML modeling tools are supported <sup>1)</sup>:
 ## JakartaEE / JEE
 
 ## Reports
-
-```java
-public enum ContentType {
-  JSON("application/json"), XML("application/xml");
-
-  /**
-   * Mime type that belongs to the content type-
-   */
-  private final String mimeType;
-
-  /**
-   * Initialize enumeration.
-   * 
-   * @param pMimeType Mime type the belong to the content type. The parameter must not be null.
-   */
-  private ContentType( String pMimeType ) {
-    mimeType = pMimeType;
-  }
-
-  /**
-   * Method returns the mime type that belongs to this content type.
-   * 
-   * @return String Mime type. The method never returns null.
-   */
-  public String getMimeType( ) {
-    return mimeType;
-  }
-}
-```
-
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-rest-api%2Fblob%2Fmaster%2Fjeaf-rest-request-executor-api%2Fsrc%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Frest%2Fexecutor%2Fapi%2FRESTRequestExecutor.java&style=github&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
