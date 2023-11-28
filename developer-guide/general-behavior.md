@@ -164,6 +164,8 @@ message="Please be aware that for all stereotypes / annotations except `null` is
 status="is-info"
 %}
 
+<br>
+
 JEAF Generator supports the following validation annotations:<br>
 <br>
 
