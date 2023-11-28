@@ -1,5 +1,5 @@
 - items:
-    - name: Developer Guide
+    - name: ![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
       link: /developer-guide
       
     - name: Quickstart
