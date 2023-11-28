@@ -86,6 +86,8 @@ When modelling an association between classes then inside the UML model already 
 
 The screenshot below shows an example of an `0..*` association where attributes for Java Collections are defined. According to the table above class `java.util.Set` will be used in the generated code.
 
+<br>
+
 ![derived Properties](../../images/collection.properties.png)
 
 <br>
