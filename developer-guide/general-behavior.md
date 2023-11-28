@@ -38,7 +38,7 @@ Both of them will be listed at the end of the generator output as a summary. So 
 
 You can find the complete list of all error messages / warnings on site [JEAF Generator Error Codes](../error-codes).
 
-
+<br>
 
 # Final Modifier for Attributes
 
