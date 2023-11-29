@@ -159,18 +159,19 @@ In addition it is possible to add automated validation to the following artifact
 
 - Object Validation inside builders when objects are created (defined in UML model or as Maven configuration parameter for all generated objects)<br><br>
 
-{% include notification.html
-message="Please be aware that for all stereotypes / annotations `null` is considered to be a valid value. Only exception is `@NotNull`."
-status="is-info"
-%}
-
 <br>
+
+**Note:**
+
+- Please be aware that for all stereotypes / annotations `null` is considered to be a valid value. Only exception is `@NotNull`.
+  
+  <br>
 
 **JEAF Generator supports the following validation annotations:**<br>
 <br>
 
-| **Stereotype**    | **Description** <sup>1)</sup>                                                                                                                                                                                                                                          | **Applicable Types** <sup>2)</sup>                                             |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Stereotype**     | **Description** <sup>1)</sup>                                                                                                                                                                                                                                          | **Applicable Types** <sup>2)</sup>                                             |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | `@AssertFalse`     | The annotated element must be false.                                                                                                                                                                                                                                   | `boolean`                                                                      |
 | `@AssertTrue`      | The annotated element must be true.                                                                                                                                                                                                                                    | `boolean`                                                                      |
 | `@DecimalMax`      | The annotated element must be a number whose value must be lower or equal to the specified maximum. Note that `double` and `float` are not supported due to rounding errors.                                                                                           | `BigDecimal`, `BigInteger`, `byte`, `short`, `int`, `long`                     |
