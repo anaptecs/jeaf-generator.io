@@ -67,7 +67,7 @@ be derived (calculated) from other properties of an object. JEAF
 Generator also supports derived properties. In the generated Java code 
 this will lead to a `getXYZ( )` operation that has to be implemented manually.
 
-![derived Properties](../../images/derived_properties.png)
+![Derived Properties](../../images/derived_properties.png)
 
 <br>
 
