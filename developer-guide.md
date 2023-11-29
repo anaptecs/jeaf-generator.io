@@ -15,7 +15,7 @@ JEAF Generator is provided as Maven Plugin that is supposed to be integrated int
 
 In general the development consists of the following steps:
 
-| Steps                                            | Further Documentation                                                           |
+| Steps                                            | Additional Information                                                          |
 | ------------------------------------------------ |:------------------------------------------------------------------------------- |
 | `Create / update classes etc. in UML model`      | - [UML Modeling Guide](../uml-modeling-guide)<br/>- [UML Modeling Guidelines]() |
 | `Export UML model to XMI`                        |                                                                                 |
