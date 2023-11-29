@@ -36,4 +36,4 @@ Besides MagicDraw UML also [Eclipse Papyrus](https://www.eclipse.org/papyrus/) c
 
 # Other UML Modeling Tools
 
-If you are interested in JEAF or JEAF Generator and would like to know if it might be possible to also support your current UML Modeling Tool or if you need support in tool selection please feel free to contact us: [jeaf@anaptecs.de](mailto:jeaf@anaptecs.de)
+If you are interested in JEAF Generator and would like to know if it might be possible to also support your current UML Modeling Tool or if you need support in tool selection please feel free to contact us: [jeaf@anaptecs.de](mailto:jeaf@anaptecs.de)
