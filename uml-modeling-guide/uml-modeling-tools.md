@@ -18,7 +18,7 @@ For further information about how to use MagicDraw UML in combination with JEAF 
 
 - [How to setup MagicDraw UML Projects](../setup-magic-draw-projects)
 
-- [Export UML Model from MagicDraw UML](../../devloper-guide/magic-draw-xmi-export)
+- [Export UML Model from MagicDraw UML](../../developer-guide/magic-draw-xmi-export)
 
 <br>
 
