@@ -8,6 +8,6 @@
     - name: UML Modeling Tools
       link: /uml-modeling-guide/uml-modeling-tools
       items:
-        - name: 
+        - name: How to setup MagicDraw UML Projects
           link: /uml-modeling-guide/setup-magic-draw-projects
       
