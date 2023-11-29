@@ -8,9 +8,9 @@ menubar: uml_modeling_guide_menu
 
 # UML Modeling Tools
 
-Unfortunately many so called UML Modelling Tools are just better tools for painting, but not sufficient to create real UML models. Sadly even tools like Enterprise Architect that are widely used, do not have full support for the UML meta model.
+Unfortunately many so called UML Modeling Tools are just better tools for painting, but not sufficient to create real UML models. Sadly even tools like Enterprise Architect that are widely used, do not have full support for the UML meta model.
 
-This leads to the situation that even though JEAF Generator only makes use of UML standard features only a few UML Modelling Tool are currently supported. Our recommended tool is called [MagicDraw UML](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw). Besides the full support for the UML meta model it also is the only tool that we can recommend to be used in enterprise class projects as it is one of the few ones that has strong support for teamwork and branching.
+This leads to the situation that even though JEAF Generator only makes use of UML standard features only a few UML Modeling Tool are currently supported. Our recommended tool is called [MagicDraw UML](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw). Besides the full support for the UML meta model it also is the only tool that we can recommend to be used in enterprise class projects as it is one of the few ones that has strong support for team work and branching.
 
 <br>
 
@@ -34,6 +34,6 @@ Besides MagicDraw UML also [Eclipse Papyrus](https://www.eclipse.org/papyrus/) c
 
 <br>
 
-# Other UML Modelling Tools
+# Other UML Modeling Tools
 
-If you are interested in JEAF or JEAF Generator and would like to know if it might be possible to also support your current UML Modelling Tool or if you need support in tool selection please feel free to contact us: [jeaf@anaptecs.de](mailto:jeaf@anaptecs.de "mailto:jeaf@anaptecs.de")
+If you are interested in JEAF or JEAF Generator and would like to know if it might be possible to also support your current UML Modeling Tool or if you need support in tool selection please feel free to contact us: [jeaf@anaptecs.de](mailto:jeaf@anaptecs.de)
