@@ -157,7 +157,7 @@ In addition it is possible to add automated validation to the following artifact
 
 - Request and Response Validation in REST Client Classes (aka REST Service Proxies) (Maven configuration parameter)
 
-- Object Validation inside builders when objects are created (defined in UML model or as Maven configuration parameter for all generated objects)<br><br>
+- Object Validation inside builders when objects are created (defined in UML model or as Maven configuration parameter for all generated objects)<br>
 
 <br>
 
