@@ -16,9 +16,9 @@ This leads to the situation that even though JEAF Generator only makes use of UM
 
 For further information about how to use MagicDraw UML in combination with JEAF Generator please have a look on the following pages:
 
-- [How to setup MagicDraw UML Projects](setup-magic-draw-projects)
+- [How to setup MagicDraw UML Projects](../setup-magic-draw-projects)
 
-- [Export UML Model from MagicDraw UML](../devloper-guide/magic-draw-xmi-export)
+- [Export UML Model from MagicDraw UML](../../devloper-guide/magic-draw-xmi-export)
 
 <br>
 
