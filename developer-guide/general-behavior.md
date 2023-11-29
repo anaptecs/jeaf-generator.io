@@ -199,4 +199,4 @@ In addition it is possible to add automated validation to the following artifact
 <br>
 
 <sup>1)</sup> *Description is taken from [OpenJDK](https://openjdk.org/)*<br>
-<sup>2)</sup> *In case of for primitives also their respective wrapper types*
+<sup>2)</sup> *In case of primitives also their respective wrapper types*
