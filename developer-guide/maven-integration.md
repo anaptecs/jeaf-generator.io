@@ -37,3 +37,13 @@ For the example here we read the model files from an artifact. So, we need to de
 The actual configuration of JEAF Generator looks the following:
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fjeaf-generator-sample-project-1.6.30%2Faccounting-pojos%2Fpom.xml%3Fts%3D4%23L36-L97&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
+<br>
+
+# Execute JEAF Generator
+
+As you can see in the example configuration above JEAF Generator will be executed in Maven standard phase `generate-sources` as part of your build. This means that it will be execute as part of your standard build process e.g. `mvn clean install`.
+
+If you want to run code generation only you can execute goal `generate-sources` which is supported by most development environments directly via the UI.
+
+![Eclipse Generate Sources](../../images/generate_sources.png)
