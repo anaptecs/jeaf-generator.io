@@ -21,4 +21,4 @@ When working with JEAF Generator the standard Maven directory layout is not suff
 This means that in addition to the JEAF Generator Plugin also Maven Build Helper has to be added to your build. Depending on the structure of you Maven projects it might also be an option to add configuration Build Helper Plugin to your parent POM.
 
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Fpom.xml%3Fts%3D4%23L118-L194&style=github&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Fpom.xml%3Fts%3D4%23L118-L194&style=github-dark-dimmed&type=code&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
