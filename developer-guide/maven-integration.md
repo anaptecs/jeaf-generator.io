@@ -21,6 +21,12 @@ When working with JEAF Generator the standard Maven directory layout is not suff
 This means that in addition to the JEAF Generator Plugin also Maven Build Helper has to be added to your build. Depending on the structure of you Maven projects it might also be an option to add configuration Build Helper Plugin to your parent POM.
 
 <style>
+.content table td, .content table th {
+  border: 1px solid #dbdbdb;
+  border-width: 0 0 1px;
+  padding: .0em .75em;
+  vertical-align: top;
+}
 .emgithub-file .code-area td.hljs-ln-line {
     line-height: 4px;
     font-size: 12px;
