@@ -34,7 +34,7 @@ For the example here we read the model files from an artifact. So, we need to de
 
 <br>
 
-The actual configuration of JEAF Generator looks the following:
+Below you can find an example how JEAF Generator can be integrated into your build. As it supports a rather large set of features it also has a big bunch of configuration paramaters. For full list of configuration parameters please have a look here: [JEAF Generator Configuration Parameters](../maven-plugin-configuration)
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fjeaf-generator-sample-project-1.6.30%2Faccounting-pojos%2Fpom.xml%3Fts%3D4%23L36-L97&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
