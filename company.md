@@ -8,7 +8,7 @@ menubar: empty_menu
 
 # Company Profile
 
-<i class="fa-solid fa-user-astronaut fa-lg"></i> **Management**<br>
+<i class="fa-solid fa-user-astronaut fa-lg"></i>   **Management**<br>
 Stefan Große<br>
 Michael Hüttner
 
@@ -19,10 +19,13 @@ anaptecs GmbH<br>
 Ricarda-Huch-Str. 71<br>
 72760 Reutlingen<br>
 Germany
+
 <br>
 
-<i class="fa-solid fa-at fa-lg"></i> **E-Mail**<br>
+<i class="fa-solid fa-at fa-lg"></i>   **E-Mail**<br>
 [info@anaptecs.de](mailto:info@anaptecs.de)<br>
+
+<br>
 
 
 <i class="fa-solid fa-globe fa-lg"></i> **Website**<br>
