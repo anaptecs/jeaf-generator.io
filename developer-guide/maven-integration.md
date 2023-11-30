@@ -31,7 +31,7 @@ This means that in addition to the JEAF Generator Plugin also Maven Build Helper
 
 <div>
 	<!-- -->
-	<style>.content table td, .content table th { padding: .0em .75em .25em; }</style>
+	<style>td.hljs-ln-line hljs-ln-code, th.hljs-ln-line hljs-ln-code { padding: .0em .75em .25em; }</style>
 	
 	<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Fpom.xml%3Fts%3D4%23L118-L194&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 </div>
