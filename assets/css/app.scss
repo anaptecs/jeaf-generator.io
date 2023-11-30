@@ -10,12 +10,5 @@ $text: #4A4A4A;
 //$primary: #E37C00;
 //$cyan: #F39601;
 
-.content table td, .content table th {
-  border: 1px solid #dbdbdb;
-  border-width: 0 0 1px;
-  padding: .0em .75em;
-  vertical-align: top;
-}
-
 // Import Main CSS file from theme
 @import "main";
