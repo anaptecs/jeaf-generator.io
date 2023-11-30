@@ -8,10 +8,10 @@ menubar: empty_menu
 
 # anaptecs GmbH
 
-|                                                                                                               |                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <i class="fa-solid fa-user-astronaut fa-lg"></i>  **Management**<br><br/>Stefan Große<br><br/>Michael Hüttner | <i class="fa-solid fa-location-dot fa-lg"></i>  **Company**<br><br/>anaptecs GmbH<br><br/>Ricarda-Huch-Str. 71<br><br/>72760 Reutlingen<br><br/>Germany |
-| <i class="fa-solid fa-globe fa-lg"></i>  **Website**<br><br/>[www.anaptecs.de](https://www.anaptecs.de)       | <i class="fa-solid fa-at fa-lg"></i>  **E-Mail**<br><br/>[info@anaptecs.de](mailto:info@anaptecs.de)                                                    |
+|                                                                                                     |                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| <i class="fa-solid fa-user-astronaut fa-lg"></i>  **Management**<br>Stefan Große<br>Michael Hüttner | <i class="fa-solid fa-location-dot fa-lg"></i>  **Company**<br>anaptecs GmbH<br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany |
+| <i class="fa-solid fa-globe fa-lg"></i>  **Website**<br>[www.anaptecs.de](https://www.anaptecs.de)  | <i class="fa-solid fa-at fa-lg"></i>  **E-Mail**<br>[info@anaptecs.de](mailto:info@anaptecs.de)                                     |
 
 
 
