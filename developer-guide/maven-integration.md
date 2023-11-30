@@ -22,10 +22,7 @@ This means that in addition to the JEAF Generator Plugin also Maven Build Helper
 
 <style>
 .content table td, .content table th {
-  border: 1px solid #dbdbdb;
-  border-width: 0 0 1px;
   padding: .0em .75em;
-  vertical-align: top;
 }
 .emgithub-file .code-area td.hljs-ln-line {
     line-height: 4px;
