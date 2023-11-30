@@ -6,7 +6,14 @@ menubar_toc: false
 menubar: empty_menu
 ---
 
-# Company Profile
+# anaptecs GmbH
+
+|                                                                                                               |                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <i class="fa-solid fa-user-astronaut fa-lg"></i>  **Management**<br><br/>Stefan Große<br><br/>Michael Hüttner | <i class="fa-solid fa-location-dot fa-lg"></i>  **Company**<br><br/>anaptecs GmbH<br><br/>Ricarda-Huch-Str. 71<br><br/>72760 Reutlingen<br><br/>Germany |
+| <i class="fa-solid fa-globe fa-lg"></i>  **Website**<br><br/>[www.anaptecs.de](https://www.anaptecs.de)       | <i class="fa-solid fa-at fa-lg"></i>  **E-Mail**<br><br/>[info@anaptecs.de](mailto:info@anaptecs.de)                                                    |
+
+
 
 <i class="fa-solid fa-user-astronaut fa-lg"></i>   **Management**<br>
 Stefan Große<br>
@@ -14,7 +21,7 @@ Michael Hüttner
 
 <br>
 
-<i class="fa-solid fa-location-dot fa-lg"></i> **Company**<br>
+<i class="fa-solid fa-location-dot fa-lg"></i>   **Company**<br>
 anaptecs GmbH<br>
 Ricarda-Huch-Str. 71<br>
 72760 Reutlingen<br>
@@ -27,14 +34,17 @@ Germany
 
 <br>
 
-
-<i class="fa-solid fa-globe fa-lg"></i> **Website**<br>
+<i class="fa-solid fa-globe fa-lg"></i>   **Website**<br>
 [www.anaptecs.de](https://www.anaptecs.de)
 
+Register of companies
+Handelsregister: HRB 354346
+Registergericht: Amtsgericht Stuttgart
 
 ### Umsatzsteuer-ID
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 813 944 202
+VAT ID
+DE 813 944 202
 
 <br>
 
