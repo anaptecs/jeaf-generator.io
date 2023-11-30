@@ -15,11 +15,12 @@ menubar: empty_menu
 
 ## General Information
 
-|                                          |                                                                           |     |     |
-| ---------------------------------------- | ------------------------------------------------------------------------- | --- | --- |
-| <i class="fa-solid fa-location-dot"></i> | anaptecs GmbH<br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany <br> |     |     |
-|                                          |                                                                           |     |     |
-|                                          |                                                                           |     |     |
+|                                                  |                                                                                          |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| <i class="fa-solid fa-user-astronaut fa-lg"></i> | **Management**<br>Stefan Große<br>Michael Hüttner                                        |
+| <i class="fa-solid fa-location-dot fa-lg"></i>   | **Company**<br>anaptecs GmbH<br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany <br> |
+| <i class="fa-solid fa-at fa-lg"></i>             | **E-Mail**<br> mailto:info@anaptecs.de <br>                                              |
+| <i class="fa-solid fa-globe fa-lg"></i>          | **Website**<br>[www.anaptecs.de](https://www.anaptecs.de)                                |
 
 anaptecs GmbH<br><br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany  <br>E-Mail: [info@anaptecs.de](mailto:info@anaptecs.de) <br>Internetseite: [https://www.jeaf-generator.io](https://jeaf-generator.io)<br>
 
