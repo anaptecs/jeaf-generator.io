@@ -1,5 +1,5 @@
-- name: Imprint
-  link: /imprint
+- name: Company
+  link: /company
 - name: Copyright (c) 2023 anaptecs GmbH
   link: https://www.anaptecs.de
 - name: Privacy Policy
