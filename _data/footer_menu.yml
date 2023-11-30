@@ -1,6 +1,6 @@
 - name: Company
   link: /company
-- name: Copyright <i class="fa-regular fa-copyright"></i> 2023 anaptecs GmbH
+- name: <i class="fa-regular fa-copyright"></i> Copyright 2023 anaptecs GmbH
   link: https://www.anaptecs.de
 - name: Privacy Policy
   link: /privacy
