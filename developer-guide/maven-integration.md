@@ -2,7 +2,7 @@
 title: "Developer Guide"
 subtitle: "Integrate JEAF Generator into Maven Build"
 toc_title: " "
-toc: false
+toc: true
 menubar: developer_guide_menu
 ---
 
@@ -44,6 +44,8 @@ Below you can find an example how JEAF Generator can be integrated into your bui
 
 As you can see in the example configuration above JEAF Generator will be executed in Maven standard phase `generate-sources` as part of your build. This means that it will be execute as part of your standard build process e.g. `mvn clean install`.
 
-If you want to run code generation only you can execute goal `generate-sources` which is supported by most development environments directly via the UI.
+<br>
+
+If you want to run code generation only, then you can execute goal `generate-sources` which is supported by most development environments directly via the UI.
 
 ![Eclipse Generate Sources](../../images/generate_sources.png)
