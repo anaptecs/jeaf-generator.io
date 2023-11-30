@@ -1,6 +1,6 @@
 ---
-title: "Company Profile"
-subtitle: ""
+title: "anaptecs GmbH"
+subtitle: "Company Profile"
 toc_title: " "
 menubar_toc: false
 menubar: empty_menu
