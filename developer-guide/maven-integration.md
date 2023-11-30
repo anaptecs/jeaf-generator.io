@@ -30,7 +30,9 @@ JEAF Generator can either read the required XMI files directly from the local fi
 
 For the example here we read the model files from an artifact. So, we need to declare a dependency in our POM for that:
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fjeaf-generator-sample-project-1.6.30%2Faccounting-pojos%2Fpom.xml%23L21-L31&style=base16%2Fatelier-forest-light&type=code&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fjeaf-generator-sample-project-1.6.30%2Faccounting-pojos%2Fpom.xml%23L21-L31&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
+<br>
 
 The actual configuration of JEAF Generator looks the following:
 
