@@ -23,3 +23,15 @@ This means that in addition to the JEAF Generator Plugin also Maven Build Helper
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Fpom.xml%3Fts%3D4%23L118-L194&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
 <br>
+
+# Configuration of JEAF Generator Maven Plugin
+
+JEAF Generator can either read the required XMI files directly from the local file system e.g. some sub directory in your project or from a Maven artifact. 
+
+For the example here we read the model files from an artifact. So, we need to declare a dependency in our POM for that:
+
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fjeaf-generator-sample-project-1.6.30%2Faccounting-pojos%2Fpom.xml%23L21-L31&style=base16%2Fatelier-forest-light&type=code&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
+The actual configuration of JEAF Generator looks the following:
+
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fjeaf-generator-sample-project-1.6.30%2Faccounting-pojos%2Fpom.xml%23L36-L97&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
