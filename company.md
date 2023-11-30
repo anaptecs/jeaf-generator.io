@@ -15,11 +15,11 @@ menubar: empty_menu
 
 ## General Information
 
-|     |                                                                           |     |     |
-| --- | ------------------------------------------------------------------------- | --- | --- |
-|     | anaptecs GmbH<br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany <br> |     |     |
-|     |                                                                           |     |     |
-|     |                                                                           |     |     |
+|                                          |                                                                           |     |     |
+| ---------------------------------------- | ------------------------------------------------------------------------- | --- | --- |
+| <i class="fa-solid fa-location-dot"></i> | anaptecs GmbH<br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany <br> |     |     |
+|                                          |                                                                           |     |     |
+|                                          |                                                                           |     |     |
 
 anaptecs GmbH<br><br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany  <br>E-Mail: [info@anaptecs.de](mailto:info@anaptecs.de) <br>Internetseite: [https://www.jeaf-generator.io](https://jeaf-generator.io)<br>
 
