@@ -6,6 +6,15 @@ menubar_toc: false
 menubar: empty_menu
 ---
 
+<style>
+.content table td, .content table th {
+  border: none;
+}
+.content table {
+  width: 60%;
+}
+</style>
+
 # anaptecs GmbH
 
 |                                                                                                                                                                       |                                                                                                         |

@@ -54,6 +54,7 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Custom Java Validation Constraints` |                                                                                         |                        |
 | `Builder Validation`                 |                                                                                         |                        |
 | `Generate Java Generics`             |                                                                                         |                        |
+| `Bi-directional assocations`         |                                                                                         |                        |
 | `Soft Links`                         |                                                                                         |                        |
 | `of(...) / valueOf(...)`             |                                                                                         |                        |
 | `hashCode(...) / equals(...)`        |                                                                                         |                        |
@@ -62,10 +63,12 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 ## Jackson / JSON
 
-| Features              | Description | Additional Information |
-| --------------------- | ----------- | ---------------------- |
-| `Jackson annotations` |             |                        |
-| `JSON Serializers`    |             |                        |
+| Features                      | Description | Additional Information |
+| ----------------------------- | ----------- | ---------------------- |
+| `Jackson annotations`         |             |                        |
+| `Bi-directional associations` |             |                        |
+| `ID based data deduplication` |             |                        |
+| `JSON Serializers`            |             |                        |
 
 <br>
 
