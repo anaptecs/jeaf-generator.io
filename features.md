@@ -53,6 +53,7 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Java Bean Validation annotations`   |                                                                                         |                        |
 | `Custom Java Validation Constraints` |                                                                                         |                        |
 | `Builder Validation`                 |                                                                                         |                        |
+| `Generate Java Generics`             |                                                                                         |                        |
 | `Soft Links`                         |                                                                                         |                        |
 | `of(...) / valueOf(...)`             |                                                                                         |                        |
 | `hashCode(...) / equals(...)`        |                                                                                         |                        |
@@ -70,28 +71,30 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 ## Spring
 
-| Features                                            | Description                                  | Additional Information |
-| --------------------------------------------------- | -------------------------------------------- | ---------------------- |
-| `Service Interfaces`                                |                                              |                        |
-| `REST Controller`                                   |                                              |                        |
-| `Bean Params`                                       |                                              |                        |
-| `Spring Security`                                   |                                              |                        |
-| `REST Request / Response Validation`                |                                              |                        |
-| `REST Request / Response Logging`                   |                                              |                        |
-| `Configure REST libraries (Spring Web MVC, JAX-RS)` |                                              |                        |
-| `REST Client`                                       | independent of REST Controller (client only) |                        |
-| `Activity Interfaces / Implementation`              |                                              |                        |
+| Features                                             | Description                                                     | Additional Information |
+| ---------------------------------------------------- | --------------------------------------------------------------- | ---------------------- |
+| `Service Interfaces`                                 |                                                                 |                        |
+| `REST Controller`                                    |                                                                 |                        |
+| `Bean Params`                                        |                                                                 |                        |
+| `Spring Security`                                    |                                                                 |                        |
+| `Usage of generic response types for REST Resources` |                                                                 |                        |
+| `REST Request / Response Validation`                 |                                                                 |                        |
+| `REST Request / Response Logging`                    |                                                                 |                        |
+| `Configure REST libraries (Spring Web MVC, JAX-RS)`  |                                                                 |                        |
+| `REST Client`                                        | independent of REST Controller (client only), generic responses |                        |
+| `Activity Interfaces / Implementation`               |                                                                 |                        |
 
 <br>
 
 ## OpenAPI
 
-| Features                                 | Description                                                                                   | Additional Information |
-| ---------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------- |
-| `OpenAPI Specification`                  |                                                                                               |                        |
-| `Split OpenAPI spec in multiple modules` |                                                                                               |                        |
-| `OpenAPI Data Types`                     | nice JSON (flat), no nested object structure in JSON representation but strong typing in Java |                        |
-| `OpenAPI Spec Validation`                |                                                                                               |                        |
+| Features                                       | Description                                                                                   | Additional Information |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------- |
+| `OpenAPI Specification`                        |                                                                                               |                        |
+| `Split OpenAPI spec in multiple modules`       |                                                                                               |                        |
+| `OpenAPI Data Types`                           | nice JSON (flat), no nested object structure in JSON representation but strong typing in Java |                        |
+| `Mapping of generic response types to OpenAPI` |                                                                                               |                        |
+| `OpenAPI Spec Validation`                      |                                                                                               |                        |
 
 <br>
 
