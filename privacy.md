@@ -8,7 +8,7 @@ menubar: empty_menu
 
 # Datenschutzerklärung
 
-Im Folgenden möchten wir dich aufklären, wie deine Daten von uns verarbeitet werden.
+Im Folgenden möchten wir Dich aufklären, wie Deine Daten von uns verarbeitet werden.
 
 **Verantwortlich im Sinne der DSGVO ist:**<br>
 anaptecs GmbH<br>
@@ -18,8 +18,7 @@ Ricarda-Huch-Str. 71<br>
 Germany<br>
 [info@anaptecs.de](mailto:info@anaptecs.de)
 
-Solltest du per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten 
-von uns gespeichert, um dein Anliegen zu bearbeiten.
+Solltest Du per E-Mail mit uns Kontakt aufnehmen, werden die mitgeteilten Daten von uns gespeichert, um dein Anliegen zu bearbeiten.
 
 Zu den verarbeiteten Daten zählen:  
 
@@ -31,11 +30,11 @@ Wir werden die Daten löschen, sobald die Speicherung nicht mehr erforderlich is
 <br>
 
 ## Betroffenenrechte
-Du hast als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung deiner Daten.
+Du hast als betroffene Person, das Recht auf Auskunft, das Recht auf Berichtigung oder Löschung, das Recht auf Einschränkung der Verarbeitung und das Recht auf Widerspruch gegen die Verarbeitung Deiner Daten.
 
-Bitte richte deinen Widerspruch formlos an oben genannte Adresse.
+Bitte richte Deinen Widerspruch formlos an oben genannte Adresse.
 
-Darüber hinaus hast du das Recht auf Datenübertragbarkeit. Du hast weiter das Recht, dich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden findest du unter: [BfDI - Anschriften und Links - Anschriften und Links](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).<br><br>
+Darüber hinaus hast Du das Recht auf Datenübertragbarkeit. Du hast weiter das Recht, Dich bei einer Aufsichtsbehörde über die Verarbeitung zu beschweren. Eine Liste der entsprechenden Behörden findest du unter: [BfDI - Anschriften und Links - Anschriften und Links](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).<br><br>
 
 <br>
 
@@ -55,7 +54,7 @@ GitHub Inc.<br>
 San Francisco, CA 94107<br>
 United States<br>
 
-Dieser ist Empfänger deiner personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
+Dieser ist Empfänger Deiner personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub findest du unter: [GitHub Privacy Statement - GitHub Docs](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
 
