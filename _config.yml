@@ -1,5 +1,6 @@
 _emotions# theme: jekyll-theme-minimal
-title: <img src="/images/JEAF_Logo_3C.png" alt="JEAF Generator">
+# title: <img src="/images/JEAF_Logo_3C.png" alt="JEAF Generator">
+title: JEAF Generator
 description: JEAF Generator uses UML models to generate code for Spring, REST, Java, JakarataEE, JEE, Hibernate and others
 
 remote_theme: chrisrhymes/bulma-clean-theme
