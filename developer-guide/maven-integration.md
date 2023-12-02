@@ -14,7 +14,7 @@ JEAF Generator is provided as Maven Plugin and thus can be easily integrated int
 
 ## Maven Build Helper Plugin
 
-When working with JEAF Generator the standard Maven directory layout is not sufficient any longer as we have to distinguish between hand-written and generated code ([Directory Layout for generated output](../general-behavior)). This also requires that the additional locations of source code and resources are know to the build process in general. To do so we make use of [Maven Build Helper Plugin](https://www.mojohaus.org/build-helper-maven-plugin).
+When working with JEAF Generator the standard Maven directory layout is not sufficient any longer as we have to distinguish between hand-written and generated code ([Directory Layout for generated output](../general-behavior)). This also requires that the additional locations of source code and resources are known to the build process in general. To do so we make use of [Maven Build Helper Plugin](https://www.mojohaus.org/build-helper-maven-plugin).
 
 <br>
 

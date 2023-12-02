@@ -17,6 +17,8 @@ menubar: empty_menu
 
 # anaptecs GmbH
 
+![anaptecs](../images/anaptecs_logo_128.png)
+
 |                                                                                                                                                                       |                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | <br><i class="fa-solid fa-location-dot fa-lg"></i>  **Address**<br>anaptecs GmbH<br>Ricarda-Huch-Str. 71<br>72760 Reutlingen<br>Germany<br><br>                       | <br><i class="fa-solid fa-user-astronaut fa-lg"></i>  **Management**<br>Stefan Große<br>Michael Hüttner |
