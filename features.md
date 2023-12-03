@@ -21,8 +21,8 @@ JEAF Generator uses UML models to generate code and configurations for various c
 
 Currently the following UML modeling tools are supported: <sup>1)</sup>
 
-* [**MagicDraw UML** (commercial)](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/)
-* [**Eclipse Papyrus** (Open Source)](https://projects.eclipse.org/projects/modeling.mdt.papyrus)
+* <a href="https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/" target="_blank">**MagicDraw UML** (commercial)</a>
+* <a href="https://projects.eclipse.org/projects/modeling.mdt.papyrus" target="_blank">**Eclipse Papyrus** (Open Source)</a>
 
 <br>
 
