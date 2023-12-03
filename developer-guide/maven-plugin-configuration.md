@@ -1,3 +1,11 @@
+---
+title: "Developer Guide"
+subtitle: "Integrate JEAF Generator into Maven Build"
+toc_title: " "
+toc: true
+menubar: developer_guide_menu
+---
+
 # Maven Plugin Configuration Parameters
 
 The following tables describe all possible configuration parameters of the 
