@@ -36,7 +36,7 @@ The exported XMI files act as input for JEAF Generator. To make use of them you 
 First option is to package your model using Maven. In this case you define a 
 dependency to the artifact with the XMI files using Maven.
 
-```xml
+```
 <dependencies>
     <!-- 
          Dependency to packaged model artifact are required for code generation.
