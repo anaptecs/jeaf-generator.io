@@ -7,7 +7,7 @@ menubar: developer_guide_menu
 
 # MagicDraw XMI Export
 
-Currently [MagicDraw UML](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/ "https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/") is the recommend tool that works best with JEAF Generator for [various reason](../../uml-modeling-guide/uml-modeling-tools). We assume that your MagicDraw UML project is ready to be used in combination with JEAF Generator as described in [How to setup MagicDraw UML Projects](../../uml-modeling-guide/setup-magic-draw-projects).
+Currently <a href="https://www.3ds.com/products-services/catia/products/no-magic/magicdraw" target="_blank">MagicDraw UML</a> is the recommend tool that works best with JEAF Generator for [various reason](../../uml-modeling-guide/uml-modeling-tools). We assume that your MagicDraw UML project is ready to be used in combination with JEAF Generator as described in [How to setup MagicDraw UML Projects](../../uml-modeling-guide/setup-magic-draw-projects).
 
 As JEAF Generator requires an XMI Export of your UML model as input we now shortly want to describe how to do that.
 
