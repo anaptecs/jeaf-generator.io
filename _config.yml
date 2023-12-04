@@ -48,6 +48,7 @@ defaults:
       title: " "
       subtitle: " "
       image: ../../images/share_image.png
+      toc_title: "Table of Contents"
       menubar_toc: false
       menubar: empty_menu
       # show_sidebar: true
