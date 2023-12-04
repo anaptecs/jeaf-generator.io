@@ -10,6 +10,8 @@ menubar: developer_guide_menu
 The following tables describe all possible configuration parameters of the 
 JEAF Generator Maven Plugin. Usage of almost all of them is shown in the example below.
 
+<br>
+
 ## Common Configuration Parameters
 
 | **Configuration Parameter**                                     | **Required / Optional / Default**                                                       | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
