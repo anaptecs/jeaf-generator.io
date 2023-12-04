@@ -87,7 +87,7 @@ dependency to the artifact with the XMI files using Maven.
 
 <br>
 
-### **Reference XMI files directly**
+### Reference XMI files directly
 
 Another option is to store the XMI files in a resource directory of your 
 project. JEAF Generator configuration will then point to that directory 
