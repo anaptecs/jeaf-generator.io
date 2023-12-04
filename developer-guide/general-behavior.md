@@ -1,7 +1,6 @@
 ---
 title: "Developer Guide"
 subtitle: "General Behavior"
-toc_title: " "
 toc: true
 menubar: developer_guide_menu
 ---
