@@ -15,7 +15,7 @@
       link: /developer-guide/maven-plugin-configuration
       
     - name: Generating Code
-      #link: 
+      link: /developer-guide/overview-generating-code
       items:
         - name: General Behavior
           link: /developer-guide/general-behavior
