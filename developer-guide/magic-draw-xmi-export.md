@@ -25,9 +25,9 @@ MagicDraw UML will write several files for your model to the directory that you 
 
 The exported XMI files act as input for JEAF Generator. To make use of them you have the following options:
 
-* Package XMI files as artifacts
+1. Package XMI files as artifacts
 
-* Directly works with XMI files
+2. Directly works with XMI files
 
 <br>
 
