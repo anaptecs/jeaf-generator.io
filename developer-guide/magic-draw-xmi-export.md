@@ -13,7 +13,7 @@ As JEAF Generator requires an XMI Export of your UML model as input we now short
 
 <br>
 
-# Export UML model as `Eclipse UML2 (v2.x) XMI File` to a directory
+## Export UML model as `Eclipse UML2 (v2.x) XMI File` to a directory
 
 MagicDraw UML will write several files for your model to the directory that you have chosen.
 
@@ -21,7 +21,7 @@ MagicDraw UML will write several files for your model to the directory that you 
 
 <br>
 
-# Define XMI as Input for JEAF Generator
+## Define XMI as Input for JEAF Generator
 
 The exported XMI files act as input for JEAF Generator. To make use of them you have the following options:
 
@@ -31,7 +31,7 @@ The exported XMI files act as input for JEAF Generator. To make use of them you 
 
 <br>
 
-## Package XMI files in Maven artifact
+### Package XMI files in Maven artifact
 
 First option is to package your model using Maven. In this case you define a 
 dependency to the artifact with the XMI files using Maven.
@@ -87,7 +87,7 @@ dependency to the artifact with the XMI files using Maven.
 
 <br>
 
-## **Reference XMI files directly**
+### **Reference XMI files directly**
 
 Another option is to store the XMI files in a resource directory of your 
 project. JEAF Generator configuration will then point to that directory 
