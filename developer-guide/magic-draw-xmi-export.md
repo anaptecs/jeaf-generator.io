@@ -71,7 +71,7 @@ dependency to the artifact with the XMI files using Maven.
                     case here we take them from a Maven artifact. However it is also 
                     possible to directly read the files from some location on your disk.
                     For further information please refer to: 
-                        https://anaptecs.atlassian.net/l/c/Wwoxa8kg 
+                        https://www.jeaf-generator.io/developer-guide/general-behavior/
                 -->
                 <modelArtifactGroupID>com.anaptecs.jeaf.generator.sample</modelArtifactGroupID>
                 <modelArtifactArtifactID>accounting-model</modelArtifactArtifactID>
