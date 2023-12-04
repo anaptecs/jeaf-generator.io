@@ -37,11 +37,13 @@ In addition to the Java interface also also a so called `Service Proxy` will be 
 
 <br>
 
-**Source Code Examples **
+**Source Code Examples**
 
 <details>
-  <summary>AccountingService.java</summary>
+  <summary>* AccountingService.java</summary>
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-services-api%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FAccountingService.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 </details>
+
+<br>
 
 ## Code for REST Services
