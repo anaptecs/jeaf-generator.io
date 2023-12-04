@@ -1,7 +1,7 @@
 ---
 title: "Developer Guide"
 subtitle: "Integrate JEAF Generator into Maven Build"
-toc_title: "Table of Contents"
+#toc_title: "Table of Contents"
 toc: true
 menubar: developer_guide_menu
 ---
