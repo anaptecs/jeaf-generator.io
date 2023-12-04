@@ -22,18 +22,18 @@ For further information about how to use MagicDraw UML in combination with JEAF 
 
 <br>
 
-# MagicDraw UML
+## MagicDraw UML
 
 If you want to find out more about MagicDraw UML itself then please refer to <a href="https://www.3ds.com/products-services/catia/products/no-magic/magicdraw" target="_blank">MagicDraw UML</a>.
 
 <br>
 
-# Eclipse Papyrus
+## Eclipse Papyrus
 
 Besides MagicDraw UML also <a href="https://www.eclipse.org/papyrus/" target="_blank">Eclipse Papyrus</a> can be used in combination with JEAF Generator. Even though it’s feature set is reduced compared to MagicDraw UML it might be an interesting alternative as it if free of charge.
 
 <br>
 
-# Other UML Modeling Tools
+## Other UML Modeling Tools
 
 If you are interested in JEAF Generator and would like to know if it might be possible to also support your current UML Modeling Tool or if you need support in tool selection please feel free to contact us: [jeaf@anaptecs.de](mailto:jeaf@anaptecs.de)

@@ -72,7 +72,7 @@ this will lead to a `getXYZ( )` operation that has to be implemented manually.
 
 ## Usage of Java Collection Types
 
-When modelling an association between classes then inside the UML model already its multiplicity will be defined. If the multiplicity is `0..*` or `1..*` then in the generated code some kind of Java Collection class is expected to be generated. As there are many types of Collection classes the table below will explain how the information from the model will be used the find the best matching Java Collection type.
+When modeling an association between classes then inside the UML model already its multiplicity will be defined. If the multiplicity is `0..*` or `1..*` then in the generated code some kind of Java Collection class is expected to be generated. As there are many types of Collection classes the table below will explain how the information from the model will be used the find the best matching Java Collection type.
 
 |                  |                |               |                                     |
 | ---------------- | -------------- | ------------- | ----------------------------------- |

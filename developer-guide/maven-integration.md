@@ -23,7 +23,7 @@ This means that in addition to the JEAF Generator Plugin also Maven Build Helper
 
 <br>
 
-# Configuration of JEAF Generator Maven Plugin
+## Configuration of JEAF Generator Maven Plugin
 
 JEAF Generator can either read the required XMI files directly from the local file system e.g. some sub directory in your project or from a Maven artifact. 
 
@@ -39,7 +39,7 @@ Below you can find an example how JEAF Generator can be integrated into your bui
 
 <br>
 
-# Execute JEAF Generator
+## Execute JEAF Generator
 
 As you can see in the example configuration above JEAF Generator will be executed in Maven standard phase `generate-sources` as part of your build. This means that it will be execute as part of your standard build process e.g. `mvn clean install`.
 
