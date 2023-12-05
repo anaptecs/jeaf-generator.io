@@ -41,3 +41,8 @@ raw Code
 <details>
   <summary><code>AccountingService.java</code></summary>
 </details>
+
+### Font Awesome
+
+[https://fontawesome.com/search?o=r&m=free](https://fontawesome.com/search?o=r&m=free)
+`<i class="fa-solid fa-location-dot fa-lg"></i>`
