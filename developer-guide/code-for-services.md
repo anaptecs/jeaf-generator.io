@@ -72,6 +72,7 @@ For further information please also refer to:
 <br>
 
 **Source Code Examples**
+
 <details>
   <summary><code>Bank.java</code></summary>
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-service-objects%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FBank.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
@@ -83,4 +84,91 @@ For further information please also refer to:
 <details>
   <summary><code>Account.java</code></summary>
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-service-objects%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FAccount.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+</details>
+
+## Code for Enumerations
+
+Generated code for enumerations is pretty straight forward. Information from model is taken to generated a matching Java enumeration. As no further activities for the generated code are required files will be written to `src-gen`.
+
+<br>
+
+For further information please also refer to:
+
+- [How to model Services APIs - How-to-model-Enumerations](../../uml-modeling-guide/how-to-model-rest-service-apis)
+
+<br>
+
+**Source Code Example**
+
+<details>
+  <summary><code>BankType.java</code></summary>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-service-objects%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FBankType.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+</details>
+
+<br>
+
+## Code for Exceptions
+
+JEAF’s [concept of exception handling](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/1542426 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/1542426") distinguishes between two types of exceptions: application and system exceptions. Application exceptions are used to indicate problems that are connected with the business logic of the application like unfulfilled constraints etc. System exceptions are used to indicate technical problems like not available external services or other technical problems.
+
+Depending on the defined stereotype (`«ApplicationException»` or `«SystemException»`) either an application or system exception will be generated. In any case output will be written to `src-gen` as there is no need for further manual editing of the generated code.
+
+<br>
+
+For further information please refer to:
+
+- [How to model Services APIs - How-to-model-Exceptions](../../uml-modeling-guide/how-to-model-rest-service-apis)
+
+<br>
+
+**Source Code Examples**
+
+<details>
+  <summary><code>AccountingServiceApplicationException.java</code></summary>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-service-objects%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FAccountingServiceApplicationException.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+</details>
+<details>
+  <summary><code>AccountingServiceSystemException.java</code></summary>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-service-objects%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FAccountingServiceSystemException.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+</details>
+
+<br>
+
+## Code for Query Objects
+
+Code generation for query objects is also straight forward. For every class that is marked with stereotype `«QueryObject»` a matching Java class will be generated. Properties and references to service objects defined in the UML model will also be present in the generated Java code (including get and set methods). As query objects are intended to be used to describes queries operations from the UML will not be considered during code generation.
+
+<br>
+
+For further information please also refer to:
+
+- [How to model Services APIs - How-to-model-Query-Objects](../../uml-modeling-guide/how-to-model-rest-service-apis)
+
+<br>
+
+**Source Code Example**
+
+<details>
+  <summary><code>CustomerQuery.java</code></summary>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-service-objects%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FCustomerQuery.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+</details>
+
+<br>
+
+## Code for Load Strategy Objects
+
+The Load Strategy Pattern can be used to optimize the amount of objects loaded and returned by a service. As described in modelling guide for every part of the model that should be loaded a boolean attribute has to be defined. This will end up as boolean attributes in the generated code. As no further implementation steps are required for these type of classes files will be written to `src-gen`.
+
+<br>
+
+For further information please also refer to:
+
+- [How to model Services APIs - How-to-model-Load-Strategy-Objects](../../uml-modeling-guide/how-to-model-rest-service-apis)
+
+<br>
+
+**Source Code Example**
+<details>
+  <summary><code>CustomerLoadStrategy.java</code></summary>
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-service-objects%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FCustomerQuery.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 </details>
