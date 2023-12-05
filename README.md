@@ -1,12 +1,42 @@
+# Readme
+
+
+
+## Documentation Templates
+
+<br>
+
+### Frontmatter
+
+```
 ---
-layout: page
-title: Title
-subtitle: ABC
-menubar_toc: false
-hide_hero: false
-#hero_image: 
+title: "Developer Guide"
+subtitle: "Generating Code for Services"
+toc: true
+menubar: developer_guide_menu
 ---
-# Welcome to JEAF Generator
+```
 
+<br>
 
+### External Links
 
+`<a href="https://" target="_blank"></a>`
+
+<br>
+
+### Source Code References
+
+[https://emgithub.com/](https://emgithub.com/)
+Base 16 / Atelier Forest Light
+raw Code
+
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fanaptecs%2Fjeaf-generator-samples%2Fblob%2Fmaster%2Faccounting-services-api%2Fsrc-gen%2Fmain%2Fjava%2Fcom%2Fanaptecs%2Fjeaf%2Faccounting%2FAccountingService.java&style=base16%2Fatelier-forest-light&type=code&showBorder=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
+<br>
+
+### Expandable Sections
+
+<details>
+  <summary><code>AccountingService.java</code></summary>
+</details>
