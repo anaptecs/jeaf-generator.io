@@ -1,7 +1,4 @@
 - items:
-    - name: "<b>Developer Guide</b>"
-      link: /developer-guide
-      
     - name: "<b>Quickstart</b>"
       link: /developer-guide/quick-start
       
@@ -25,6 +22,8 @@
         - name: Error Codes
           link: /developer-guide/error-codes
 
+    - name: ""
+    
     - name: "<b>Java Code Generation</b>"
       items:
         - name: Code for POJOs
@@ -32,10 +31,16 @@
         - name: Code for Domain Objects
           link: /developer-guide/code-for-domain-objects/
         
+    - name: ""
+    
     - name: "<b>Spring Code Generation</b>"
         
+    - name: ""
+    
     - name: "<b>OpenAPI Generation</b>"
           
+    - name: ""
+    
     - name: "<b>JEAF Framework Code Generation</b>"
       items:
         - name: Code for JEAF Services
