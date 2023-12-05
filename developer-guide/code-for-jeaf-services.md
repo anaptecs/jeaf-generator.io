@@ -7,18 +7,6 @@ menubar: developer_guide_menu
 
 # Generating Code for JEAF Services
 
-On this page you will find information about generated code for the following cases:
-
-- Service Interfaces
-- REST Services
-- Service Objects
-- Enumerations
-- Exceptions
-- Query Objects
-- Load Strategy Objects
-
-<br>
-
 The diagram below shows the transformation of services, service objects, query objects and load strategy objects from the UML model into Java code.
 
 ![Code for Services](../../images/code_for_jeaf_services.png)
