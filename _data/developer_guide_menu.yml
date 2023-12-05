@@ -31,7 +31,7 @@
           
     - name: JEAF Framework Code Generation
       items:
-        - name: Code for Services
-          link: /developer-guide/code-for-services/
+        - name: Code for JEAF Services
+          link: /developer-guide/code-for-jeaf-services/
 
           

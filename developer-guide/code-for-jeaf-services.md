@@ -5,7 +5,7 @@ toc: true
 menubar: developer_guide_menu
 ---
 
-# Generating Code for Services
+# Generating Code for JEAF Services
 
 On this page you will find information about generated code for the following cases:
 
