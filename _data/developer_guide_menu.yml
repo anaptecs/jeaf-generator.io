@@ -26,7 +26,7 @@
         
         - name: OpenAPI
           
-        - name: JEAF Framework
+        - label: JEAF Framework
           items:
             - name: Code for Services
               link: /developer-guide/code-for-services/
