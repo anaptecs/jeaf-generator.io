@@ -27,6 +27,8 @@
       items:
         - name: Code for POJOs
           link: /developer-guide/code-for-pojos/
+        - name: Code for Domain Objects
+          link: /developer-guide/code-for-domain-objects/
         
     - name: Spring Code Generation
         
