@@ -33,5 +33,8 @@
       items:
         - name: Code for JEAF Services
           link: /developer-guide/code-for-jeaf-services/
+          
+        - name: Code for JEAF Components
+          link: /developer-guide/code-for-jeaf-components
 
           
