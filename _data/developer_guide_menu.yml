@@ -23,13 +23,13 @@
         - name: Error Codes
           link: /developer-guide/error-codes
 
-    - name: Java
+    - name: Java Code Generation
         
-    - name: Spring
+    - name: Spring Code Generation
         
-    - name: OpenAPI
+    - name: OpenAPI Generation
           
-    - name: JEAF Framework
+    - name: JEAF Framework Code Generation
       items:
         - name: Code for Services
           link: /developer-guide/code-for-services/
