@@ -16,7 +16,9 @@ Stereotype `«POJO»` can be used to model a POJO (Plain old Java object). It de
 The diagram above shows the transformation of POJOs from the UML model (stereotype `«POJO»`) to the matching Java code. As you can see 2 files will be created:<br>
 
 - **POJO Base Class** (`AccountBase`)  
-  This is the base class of the POJO. It contains all the attributes and associations according to the UML model. This also includes access methods for them. For operations defined on POJO also an abstract method will be generated. The code must not be edited and thus will be written to `src-gen`.  <br>
+  This is the base class of the POJO. It contains all the attributes and associations according to the UML model. This also includes access methods for them. For operations defined on POJO also an abstract method will be generated. The code must not be edited and thus will be written to `src-gen`.  
+  
+  <br>
 
 - **POJO Class** (`Account`)  
   This class is the actual POJO implementation. It does not have any attributes or associations as they are inherited from the POJO base class (`AccountBase`). The generated code contains empty implementation for all modeled operations from the UML model. As those methods have to be implemented manually the class will be written to slot `src`.
