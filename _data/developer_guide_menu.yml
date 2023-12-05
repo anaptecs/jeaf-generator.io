@@ -14,23 +14,24 @@
     - name: Maven Plugin Configuration
       link: /developer-guide/maven-plugin-configuration
       
-    - name: Generating Code
+    - name: Code Generation Common
       link: /developer-guide/overview-generating-code
       items:
         - name: General Behavior
           link: /developer-guide/general-behavior
           
-        - name: Java
-        
-        - name: Spring
-        
-        - name: OpenAPI
-          
-        - name: JEAF Framework
-          items:
-            - name: Code for Services
-              link: /developer-guide/code-for-services/
+        - name: Error Codes
+          link: /developer-guide/error-codes
 
-    - name: Error Codes
-      link: /developer-guide/error-codes
+    - name: Java
+        
+    - name: Spring
+        
+    - name: OpenAPI
+          
+    - name: JEAF Framework
+      items:
+        - name: Code for Services
+          link: /developer-guide/code-for-services/
+
           
