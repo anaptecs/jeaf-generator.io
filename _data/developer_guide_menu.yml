@@ -1,20 +1,20 @@
 - items:
-    - name: Developer Guide
+    - name: "<b>Developer Guide</b>"
       link: /developer-guide
       
-    - name: Quickstart
+    - name: "<b>Quickstart</b>"
       link: /developer-guide/quick-start
       
-    - name: MagicDraw UML XMI Export
+    - name: "<b>MagicDraw UML XMI Export</b>"
       link: /developer-guide/magic-draw-xmi-export
       
-    - name: Maven Integration
+    - name: "<b>Maven Integration</b>"
       link: /developer-guide/maven-integration
       
-    - name: Maven Plugin Configuration
+    - name: "<b>Maven Plugin Configuration</b>"
       link: /developer-guide/maven-plugin-configuration
       
-    - name: Code Generation Common
+    - name: "<b>Code Generation Common</b>"
       link: /developer-guide/overview-generating-code
       items:
         - name: General Behavior
@@ -30,11 +30,11 @@
         - name: Code for Domain Objects
           link: /developer-guide/code-for-domain-objects/
         
-    - name: Spring Code Generation
+    - name: "<b>Spring Code Generation</b>"
         
-    - name: OpenAPI Generation
+    - name: "<b>OpenAPI Generation</b>"
           
-    - name: JEAF Framework Code Generation
+    - name: "<b>JEAF Framework Code Generation</b>"
       items:
         - name: Code for JEAF Services
           link: /developer-guide/code-for-jeaf-services/
