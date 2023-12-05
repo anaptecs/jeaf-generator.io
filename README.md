@@ -6,12 +6,13 @@
 
 <br>
 
-### Frontmatter
+### Front Matter
 
 ```
 ---
 title: "Developer Guide"
 subtitle: "Generating Code for Services"
+description: "Needed for SEO"
 toc: true
 menubar: developer_guide_menu
 ---
