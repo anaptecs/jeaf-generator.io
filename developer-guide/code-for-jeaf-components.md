@@ -21,7 +21,7 @@ On this page you will find information about generated code for the following ca
 
 The diagram below shows the transformation of services, service objects, query objects and load strategy objects from the UML model into Java code.
 
-![Code for Services](../../images/code_for_jeaf_services.png)
+![Code for Services](../../images/code_for_services.png)
 
 <br>
 
