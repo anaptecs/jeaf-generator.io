@@ -19,6 +19,17 @@
       items:
         - name: General Behavior
           link: /developer-guide/general-behavior
+          
+        - name: Java
+        
+        - name: Spring
+        
+        - name: OpenAPI
+          
+        - name: JEAF Framework
+          items:
+            - name: Code for Services
+              link: /developer-guide/code-for-services/
 
     - name: Error Codes
       link: /developer-guide/error-codes
