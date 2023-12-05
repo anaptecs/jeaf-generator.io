@@ -123,6 +123,19 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 <br>
 
+
+## Reports
+
+| Features                  | Description                    | Additional Information |
+| ------------------------- | ------------------------------ | ---------------------- |
+| `Types Report`            | Business perspective, glossary |                        |
+| `Breaking Changes Report` |                                |                        |
+| `REST Deprecation Report` |                                |                        |
+| `Java Deprecation Report` |                                |                        |
+| `Security Roles Report`   |                                |                        |
+
+<br>
+
 ## JEAF Framework
 
 | Features                               | Description | Additional Information |
@@ -136,17 +149,5 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Activity Interfaces / Implementation` |             |                        |
 | `JEAF Components and Runtime classes`  |             |                        |
 | `JUnit tests for JEAF Services`        |             |                        |
-
-<br>
-
-## Reports
-
-| Features                  | Description                    | Additional Information |
-| ------------------------- | ------------------------------ | ---------------------- |
-| `Types Report`            | Business perspective, glossary |                        |
-| `Breaking Changes Report` |                                |                        |
-| `REST Deprecation Report` |                                |                        |
-| `Java Deprecation Report` |                                |                        |
-| `Security Roles Report`   |                                |                        |
 
 <br>
