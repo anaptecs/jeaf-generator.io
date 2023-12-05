@@ -24,6 +24,9 @@
           link: /developer-guide/error-codes
 
     - name: Java Code Generation
+      items:
+        - name: Code for POJOs
+          link: /developer-guide/code-for-pojos/
         
     - name: Spring Code Generation
         
