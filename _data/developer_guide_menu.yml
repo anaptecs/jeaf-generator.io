@@ -1,15 +1,15 @@
 - items:
     - name: "<b>Quickstart</b>"
-      link: /developer-guide/quick-start/
+      link: /developer-guide/quick-start
       
     - name: "<b>MagicDraw UML XMI Export</b>"
-      link: /developer-guide/magic-draw-xmi-export/
+      link: /developer-guide/magic-draw-xmi-export
       
     - name: "<b>Maven Integration</b>"
-      link: /developer-guide/maven-integration/
+      link: /developer-guide/maven-integration
       
     - name: "<b>Maven Plugin Configuration</b>"
-      link: /developer-guide/maven-plugin-configuration/
+      link: /developer-guide/maven-plugin-configuration
       
     - name: ""
     
@@ -17,20 +17,20 @@
       link: /developer-guide/overview-generating-code
       items:
         - name: General Behavior
-          link: /developer-guide/general-behavior/
+          link: /developer-guide/general-behavior
           
         - name: Error Codes
-          link: /developer-guide/error-codes/
+          link: /developer-guide/error-codes
 
     - name: ""
     
     - name: "<b>Java Code Generation</b>"
       items:
         - name: Code for POJOs
-          link: /developer-guide/code-for-pojos/
+          link: /developer-guide/code-for-pojos
           
         - name: Code for Domain Objects
-          link: /developer-guide/code-for-domain-objects/
+          link: /developer-guide/code-for-domain-objects
         
     - name: ""
     
@@ -45,10 +45,10 @@
     - name: "<b>JEAF Framework Code Generation</b>"
       items:
         - name: Code for JEAF Services
-          link: /developer-guide/code-for-jeaf-services/
+          link: /developer-guide/code-for-jeaf-services
           
         - name: Code for JEAF Components
-          link: /developer-guide/code-for-jeaf-components/
+          link: /developer-guide/code-for-jeaf-components
           
         - name: Code for JEAF Persistence
-          link: /developer-guide/code-for-jeaf-persistence/
+          link: /developer-guide/code-for-jeaf-persistence
