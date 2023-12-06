@@ -14,5 +14,8 @@ $text: #4A4A4A;
 // Reduce padding, otherwise embeded code via emgit looks ugly.
 .content table td.hljs-ln-line, .content table th.hljs-ln-line { padding: .0em .75em; }
 
+.menu-list a.is-active { background-color: #f5f5f5; color: $text}
+
+
 // Import Main CSS file from theme
 @import "main";
