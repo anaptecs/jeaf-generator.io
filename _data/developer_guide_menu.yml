@@ -50,5 +50,8 @@
         - name: Code for JEAF Components
           link: /developer-guide/code-for-jeaf-components
           
+        - name: Code for JEAF Activities
+          link: /developer-guide/code-for-jeaf-activities
+          
         - name: Code for JEAF Persistence
           link: /developer-guide/code-for-jeaf-persistence
