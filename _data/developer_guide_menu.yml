@@ -56,5 +56,8 @@
         - name: Code for JEAF Security
           link: /developer-guide/code-for-jeaf-security
           
+        - name: Code for JEAF Service Providers
+          link: /developer-guide/code-for-jeaf-service-providers
+          
         - name: Code for JEAF Persistence
           link: /developer-guide/code-for-jeaf-persistence
