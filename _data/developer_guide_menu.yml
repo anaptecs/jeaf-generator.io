@@ -32,6 +32,9 @@
         - name: Code for Domain Objects
           link: /developer-guide/code-for-domain-objects
         
+        - name: Code for Object Mappings
+          link: /developer-guide/code-for-object-mappings
+        
     - name: ""
     
     - name: "<b>Spring Code Generation</b>"
