@@ -71,4 +71,4 @@ Most important parts of the model will be shown here. In addition the sample pro
 
 ### Service Interface
 
-[![Model of AccountingService](../../images/model_accounting_service.jpg)]()
+[![Model of AccountingService](../../images/model_accounting_service.jpg)](https://www.jeaf-generator.io/images/model_accounting_service.jpg)
