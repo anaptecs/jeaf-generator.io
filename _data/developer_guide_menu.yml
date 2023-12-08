@@ -2,11 +2,13 @@
     - name: "<b>Quickstart</b>"
       link: /developer-guide/quickstart
       
-    - name: "<b>Maven Integration</b>"
-      link: /developer-guide/maven-integration
+    - name: "<b>Maven</b>"
+      items:
+      - name: "Maven Integration"
+        link: /developer-guide/maven-integration
       
-    - name: "<b>Maven Plugin Configuration</b>"
-      link: /developer-guide/maven-plugin-configuration
+      - name: "Maven Plugin Configuration"
+        link: /developer-guide/maven-plugin-configuration
       
     - name: ""
     
