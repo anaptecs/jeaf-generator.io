@@ -70,5 +70,7 @@ Most important parts of the model will be shown here. In addition the sample pro
 <br>
 
 ### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
 
-[![Model of AccountingService](../../images/model_accounting_service.jpg)](https://www.jeaf-generator.io/images/model_accounting_service.jpg)
