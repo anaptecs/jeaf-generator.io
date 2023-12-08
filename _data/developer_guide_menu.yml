@@ -2,9 +2,6 @@
     - name: "<b>Quickstart</b>"
       link: /developer-guide/quick-start
       
-    - name: "<b>MagicDraw UML XMI Export</b>"
-      link: /developer-guide/magic-draw-xmi-export
-      
     - name: "<b>Maven Integration</b>"
       link: /developer-guide/maven-integration
       
