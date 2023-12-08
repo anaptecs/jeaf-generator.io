@@ -1,6 +1,6 @@
 ---
 title: "UML Modeling Guide"
-subtitle: "Maven Plugin Configuration"
+subtitle: "MagicDraw XMI Export"
 toc: true
 menubar: uml_modeling_guide_menu
 ---
