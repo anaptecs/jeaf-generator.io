@@ -11,6 +11,6 @@
         - name: How to setup MagicDraw UML Projects
           link: /uml-modeling-guide/setup-magic-draw-projects
       
-        - name: "<b>MagicDraw UML XMI Export</b>"
+        - name: MagicDraw UML XMI Export
           link: /uml-modeling-guide/magic-draw-xmi-export
       
