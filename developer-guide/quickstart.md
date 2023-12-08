@@ -63,9 +63,114 @@ type that will be generated.
 
 ## UML Model
 
-As mentioned several times before JEAF Generator needs an UML model as input for code generation. This sample project here uses a very simple UML model that was created to demonstrate modelling and code generation. Thus the model concentrates mostly on how to model but not on correct representation of a special business.<br>
+As mentioned several times before JEAF Generator needs an UML model as input for code generation. This sample project here uses a very simple UML model that was created to demonstrate modeling and code generation. Thus the model concentrates mostly on how to model but not on correct representation of a special business.<br>
 
 Most important parts of the model will be shown here. In addition the sample project also contains the MagicDraw UML project files as well as an HTML export of the model.
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Components
+<a href="../../images/model_accounting_component.jpg" target="_blank">
+<img src="../../images/model_accounting_component.jpg" alt="Model of component">
+</a>
+
+<br>
+
+### Persistent Classes
+<a href="../../images/model_persistent_classes.jpg" target="_blank">
+<img src="../../images/model_persistent_classes.jpg" alt="Model of persistent classes">
+</a>
+
+<br>
+
+### Activities
+<a href="../../images/model_activities.jpg" target="_blank">
+<img src="../../images/model_activities.jpg" alt="Model of activities">
+</a>
+
+<br>
+
+### POJOs
+<a href="../../images/model_pojos.jpg" target="_blank">
+<img src="../../images/model_pojos.jpg" alt="Model of POJOs">
+</a>
+
+<br>
+
+### Object Mappings
+<a href="../../images/model_object_mappings.jpg" target="_blank">
+<img src="../../images/model_object_mappings.jpg" alt="Model of object mappings">
+</a>
+
+<br>
+
+### Role Definitions
+<a href="../../images/model_role_definitions.jpg" target="_blank">
+<img src="../../images/model_role_definitions.jpg" alt="Model of role definitions">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
+
+<br>
+
+### Service Interface
+<a href="../../images/model_accounting_service.jpg" target="_blank">
+<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+</a>
 
 <br>
 
