@@ -1,5 +1,5 @@
 ---
-title: "Developer Guide"
+title: "UML Modeling Guide"
 subtitle: "Maven Plugin Configuration"
 toc: true
 menubar: uml_modeling_guide_menu
