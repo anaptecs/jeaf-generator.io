@@ -2,7 +2,7 @@
 title: "Developer Guide"
 subtitle: "Maven Plugin Configuration"
 toc: true
-menubar: developer_guide_menu
+menubar: uml_modeling_guide_menu
 ---
 
 # MagicDraw XMI Export
