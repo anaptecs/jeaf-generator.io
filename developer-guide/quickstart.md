@@ -69,6 +69,13 @@ Most important parts of the model will be shown here. In addition the sample pro
 
 <br>
 
+### POJOs
+<a href="../../images/model_pojos.jpg" target="_blank">
+<img src="../../images/model_pojos.jpg" alt="Model of POJOs">
+</a>
+
+<br>
+
 ### Service Interface
 <a href="../../images/model_accounting_service.jpg" target="_blank">
 <img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
@@ -83,23 +90,9 @@ Most important parts of the model will be shown here. In addition the sample pro
 
 <br>
 
-### Persistent Classes
-<a href="../../images/model_persistent_classes.jpg" target="_blank">
-<img src="../../images/model_persistent_classes.jpg" alt="Model of persistent classes">
-</a>
-
-<br>
-
 ### Activities
 <a href="../../images/model_activities.jpg" target="_blank">
 <img src="../../images/model_activities.jpg" alt="Model of activities">
-</a>
-
-<br>
-
-### POJOs
-<a href="../../images/model_pojos.jpg" target="_blank">
-<img src="../../images/model_pojos.jpg" alt="Model of POJOs">
 </a>
 
 <br>
@@ -118,64 +111,14 @@ Most important parts of the model will be shown here. In addition the sample pro
 
 <br>
 
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+### Service Providers
+<a href="../../images/model_service_providers.jpg" target="_blank">
+<img src="../../images/model_service_providers.jpg" alt="Model of service providers">
 </a>
 
 <br>
 
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
+### Persistent Classes
+<a href="../../images/model_persistent_classes.jpg" target="_blank">
+<img src="../../images/model_persistent_classes.jpg" alt="Model of persistent classes">
 </a>
-
-<br>
-
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
-</a>
-
-<br>
-
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
-</a>
-
-<br>
-
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
-</a>
-
-<br>
-
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
-</a>
-
-<br>
-
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
-</a>
-
-<br>
-
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
-</a>
-
-<br>
-
-### Service Interface
-<a href="../../images/model_accounting_service.jpg" target="_blank">
-<img src="../../images/model_accounting_service.jpg" alt="Model of AccountingService">
-</a>
-
