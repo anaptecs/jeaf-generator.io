@@ -57,7 +57,7 @@ type that will be generated.
 
 * In general the configuration of the sample project is a very good baseline to setup your projects.<br>
   
-  However in case of the sample project all output will be written to `src-gen` / `res-gen`. This will ensure that also code / resources that actually are only generated once are always up-to-date. However in real life this is not a good setup as manual code will be overwritten every time JEAF Generator will be executed :bowtie:
+  However in case of the sample project all output will be written to `src-gen` / `res-gen`. This will ensure that also code / resources that actually are only generated once are always up-to-date. However in real life this is not a good setup as manual code will be overwritten every time JEAF Generator will be executed :wink:
 
 <br>
 
