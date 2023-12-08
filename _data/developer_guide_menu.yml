@@ -1,6 +1,6 @@
 - items:
     - name: "<b>Quickstart</b>"
-      link: /developer-guide/quick-start
+      link: /developer-guide/quickstart
       
     - name: "<b>Maven Integration</b>"
       link: /developer-guide/maven-integration
