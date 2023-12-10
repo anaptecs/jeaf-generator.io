@@ -11,7 +11,7 @@
         - name: Common Stereotypes
           link: /uml-modeling-guide/jmm/common-stereotypes
       
-        - name: `JEAFService`
+        - name: "JEAFService"
           link: /uml-modeling-guide/jmm/jeaf-service
       
     - name: UML Modeling Tools
