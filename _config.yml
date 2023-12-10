@@ -28,7 +28,7 @@ footer_menu: footer_menu
 defaults:
   -
     scope:
-      path: "**/*" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
     values:
       title: " "
       subtitle: " "
@@ -57,6 +57,22 @@ defaults:
       hero_height: is-fullwidth
       hero_darken: true
       
+  -
+    scope:
+      path: "uml-modeling-guide/jmm"
+    values:
+      title: " "
+      subtitle: " "
+      image: ../../images/share_image.png
+      toc_title: "Table of Contents"
+      menubar_toc: false
+      menubar: empty_menu
+      # show_sidebar: true
+      hide_hero: false
+      hero_image: ../../images/jeaf_emotions.png
+      hero_height: is-fullwidth
+      hero_darken: true
+
   -
     scope:
       path: "developer-guide"
