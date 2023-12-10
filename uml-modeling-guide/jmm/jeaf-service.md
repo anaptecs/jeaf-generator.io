@@ -10,7 +10,7 @@ menubar: uml_modeling_guide_menu
 Stereotype `«JEAFService»` is used to model services. The stereotype does not have any tagged values. It is only used as marker. Based on this stereotype JEAF Generator is able to identify service interfaces in an UML model and will generate the appropriate source code.
 
 ![JEAF Service](../../images/jmm_jeaf_service.png)
-<img src="../../images/jmm_jeaf_service.png" title="" alt="JEAF Service" data-align="center">
+<img src="/images/jmm_jeaf_service.png" title="" alt="JEAF Service" data-align="center">
 
 <br>
 
