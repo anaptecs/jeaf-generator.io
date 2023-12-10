@@ -13,9 +13,8 @@ Stereotype `«JEAFService»` is used to model services. The stereotype does not 
 
 <br>
 
-|                         |               |     |
-| ----------------------- | ------------- | --- |
 | **Stereotype**          | `JEAFService` |     |
+| ----------------------- | ------------- | --- |
 | **Applicable Elements** | `Interface`   |     |
 | **Tagged Values**       | none          |     |
 
