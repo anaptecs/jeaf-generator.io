@@ -9,13 +9,13 @@ menubar: uml_modeling_guide_menu
 
 JEAF Generator provides a wide range of features in the area of code generation from UML models. On the pages of this section you will find information about very common stereotypes:<br>
 
-- «JEAF Deprecated»
-- «Transient»
-- «Internal»
+- `«JEAFDeprecated»`
+- `«Transient»`
+- `«Internal»`
 
 <br>
 
-##Stereotype `«JEAFDeprecated»`
+## Stereotype `«JEAFDeprecated»`
 
 Deprecations are markers that indicate that a specific model element should not be used any longer. To do so, you just have to apply the stereotype `«JEAFDeprecated»` to the model element. This can be anything from a whole class or interface to an parameter of an operation.
 
