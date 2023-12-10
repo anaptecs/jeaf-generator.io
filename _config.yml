@@ -63,13 +63,13 @@ defaults:
     values:
       title: " "
       subtitle: " "
-      image: ../../images/share_image.png
+      image: ../../../images/share_image.png
       toc_title: "Table of Contents"
       menubar_toc: false
       menubar: empty_menu
       # show_sidebar: true
       hide_hero: false
-      hero_image: ../../images/jeaf_emotions.png
+      hero_image: ../../../images/jeaf_emotions.png
       hero_height: is-fullwidth
       hero_darken: true
 
