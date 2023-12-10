@@ -1,6 +1,6 @@
 ---
 title: "UML Modeling Guide"
-subtitle: "«JEAF Service»"
+subtitle: "Stereotype `«JEAFService»`"
 toc: false
 menubar: uml_modeling_guide_menu
 ---
