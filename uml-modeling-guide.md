@@ -13,7 +13,7 @@ This guide defines the UML modeling rules for projects using JEAF Generator. Pur
 
 The guide is split into the following parts:
 
-- [Short introduction into concepts and ideas of model-driven software development processes](uml-modeling-guide/model-driven-software-development)
+- [Short introduction into concepts and ideas of model-driven software development processes](model-driven-software-development)
 
 - [Description of JEAF Generator Meta Model, which is the basis for UML modeling](jmm)
 
