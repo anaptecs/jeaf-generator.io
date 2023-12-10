@@ -45,13 +45,22 @@ The list below shows all stereotypes of JEAF Meta Model as they can be used for 
   - [«JEAF Service Provider»](jeaf-service-provider)
   - [«JEAF Service Provider Impl»](jeaf-service-provider-impl)
   - [«Interceptor»](interceptor)
+
+<br>
+
 - Persistence Stereotypes
   - [«Persistent Object»](persistent-object)
   - [«Field»](field)
   - [«Role»](role)
   - [«User Type»](user-type)
   - [«Persistence Unit»](persistence-unit)
+
+<br>
+
 - [Java Bean Validation Stereotypes](java-bean-validation-stereotypes)
+
+<br>
+
 - OpenAPI 3 Stereotypes
   - [«OpenAPI 3 Specification»](openapi-specification)
   - [«OpenAPI Type»](openapi-type)
