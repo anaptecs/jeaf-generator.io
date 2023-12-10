@@ -7,6 +7,9 @@
       
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
+      items:
+        - name: Common Stereotypes
+          link: /uml-modeling-guide/common-stereotypes
       
     - name: UML Modeling Tools
       link: /uml-modeling-guide/uml-modeling-tools

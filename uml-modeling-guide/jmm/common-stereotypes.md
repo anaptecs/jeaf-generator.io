@@ -41,7 +41,7 @@ Stereotype can be used to mark attributes or roles inside the UML model as trans
 | **Name**                | **Type**      | **Description** |
 | none                    |               |                 |
 
- <br>
+<br>
 
 ## «Internal»
 
