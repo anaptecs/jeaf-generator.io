@@ -17,6 +17,9 @@
         - name: "Stereotype <code>«ServiceObject»</code>"
           link: /uml-modeling-guide/jmm/service-object
       
+        - name: "Stereotype <code>«Identifiable»</code>"
+          link: /uml-modeling-guide/jmm/identifiable
+      
     - name: UML Modeling Tools
       link: /uml-modeling-guide/uml-modeling-tools
       items:
