@@ -5,7 +5,7 @@ toc: false
 menubar: uml_modeling_guide_menu
 ---
 
-# Stereotype «Identifiable»
+# Stereotype `«Identifiable»`
 
 Stereotype `«Identifiable»` can be used to mark an object as Identifiable. This means that it can be identified using an `ObjectID`. The stereotype is intended to be used in combination with stereotypes `«DomainObject»`, `«POJO»` and `«ServiceObject»`. In case that such kinds of classes will be marked as identifiable then the generated code will respect that.<br>
 

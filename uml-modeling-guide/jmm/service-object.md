@@ -5,7 +5,7 @@ toc: false
 menubar: uml_modeling_guide_menu
 ---
 
-# Stereotype «Service Object»
+# Stereotype `«Service Object»`
 
 Stereotype `«Service Object»` is used to model service objects. They define together with the service interface (stereotype `«JEAFService»`) the public interface of a service. The stereotype itself does not define any tagged values and is just a marker for JEAF Generator.
 
