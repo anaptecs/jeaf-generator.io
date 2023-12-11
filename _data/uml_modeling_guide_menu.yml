@@ -14,6 +14,9 @@
         - name: "JEAF Service"
           link: /uml-modeling-guide/jmm/jeaf-service
       
+        - name: "Service Object"
+          link: /uml-modeling-guide/jmm/service-object
+      
     - name: UML Modeling Tools
       link: /uml-modeling-guide/uml-modeling-tools
       items:
