@@ -22,6 +22,6 @@ For further information please refer to:
 
 - [How to model Service Objects](../../how-to-model-service-objects)
 
-- [Generating Code for Service Objects](../../../developer-guide/code-for-services)
+- [Generating Code for Service Objects](/developer-guide/code-for-jeaf-services)
 
 - [JEAF Architecture Model - Service-Object](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Service-Object)
