@@ -11,10 +11,10 @@
         - name: Common Stereotypes
           link: /uml-modeling-guide/jmm/common-stereotypes
       
-        - name: "Stereotype `«JEAFService»`"
+        - name: "Stereotype <code>«JEAFService»</code>"
           link: /uml-modeling-guide/jmm/jeaf-service
       
-        - name: "Stereotype `«ServiceObject»`"
+        - name: "Stereotype <code>«ServiceObject»</code>"
           link: /uml-modeling-guide/jmm/service-object
       
     - name: UML Modeling Tools
