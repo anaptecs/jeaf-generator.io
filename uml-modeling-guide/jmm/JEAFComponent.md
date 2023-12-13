@@ -21,6 +21,6 @@ Stereotype `«JEAFComponent»` is used to define JEAF Components in the UML mode
 
 <br>
 
-For further information please refer to:<br><br>- [How to model Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546177607 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546177607")<br><br>- [Generating Code for Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546047011 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546047011")<br><br>- [JEAF Architecture Model - Component](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Component "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Component")<br><br>- [JEAF Security](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729")
+For further information please refer to:<br>* [How to model Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546177607)<br>* [Generating Code for Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546047011)<br>* [JEAF Architecture Model - Component](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Component )<br>* [JEAF Security](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729)
 
     
