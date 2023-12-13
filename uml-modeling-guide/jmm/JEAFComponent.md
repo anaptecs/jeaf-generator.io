@@ -6,7 +6,9 @@ menubar: uml_modeling_guide_menu
 ---
 
 # Stereotype `«JEAFComponent»`
-Stereotype `«JEAFComponent»` is used to define JEAF Components in the UML model. JEAF Generator will use this stereotype as marker to identify for which model elements JEAF-specific classes for components should be generated.<br><br>Please be aware that all settings will applied for all services that are implemented by the component.
+Stereotype `«JEAFComponent»` is used to define JEAF Components in the UML model. JEAF Generator will use this stereotype as marker to identify for which model elements JEAF-specific classes for components should be generated.
+
+Please be aware that all settings will applied for all services that are implemented by the component.
 
 <br>
 
@@ -21,6 +23,14 @@ Stereotype `«JEAFComponent»` is used to define JEAF Components in the UML mode
 
 <br>
 
-For further information please refer to:<br>* [How to model Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546177607)<br>* [Generating Code for Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546047011)<br>* [JEAF Architecture Model - Component](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Component )<br>* [JEAF Security](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729)
+For further information please refer to:  
+
+- [How to model Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546177607)  
+
+- [Generating Code for Components](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546047011)  
+
+- [JEAF Architecture Model - Component](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Component )  
+
+- [JEAF Security](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729)
 
     
