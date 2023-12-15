@@ -13,8 +13,7 @@ Stereotype `«ApplicationException»` is used to model application exceptions.
 | **Stereotype**          | `«ApplicationException»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

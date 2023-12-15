@@ -13,8 +13,7 @@ Stereotype «Internal» can be used to mark attributes or roles as internal. Thi
 | **Stereotype**          | `«Internal»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Property`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

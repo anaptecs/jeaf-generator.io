@@ -15,8 +15,7 @@ Stereotype «Ignore» can be used to exclude a single element from code generati
 | **Stereotype**          | `«Ignore»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `NamedElement`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

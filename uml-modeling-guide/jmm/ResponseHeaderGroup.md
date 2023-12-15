@@ -15,8 +15,7 @@ Stereotype «ResponseHeaderGroup» can be used to define response headers for Op
 | **Stereotype**          | `«ResponseHeaderGroup»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

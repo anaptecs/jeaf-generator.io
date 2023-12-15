@@ -15,8 +15,7 @@ To define which information are really needed a load strategy object defines a s
 | **Stereotype**          | `«LoadStrategy»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 <br>
 

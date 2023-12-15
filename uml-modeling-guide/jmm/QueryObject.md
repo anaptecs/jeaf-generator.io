@@ -15,8 +15,7 @@ The stereotype does not define tagged values and is just a marker for JEAF Gener
 | **Stereotype**          | `«QueryObject»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

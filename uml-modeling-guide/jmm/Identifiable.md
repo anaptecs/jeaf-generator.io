@@ -13,8 +13,7 @@ Stereotype «Identifiable» can be used to mark a class to have an ID.
 | **Stereotype**          | `«Identifiable»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

@@ -13,8 +13,7 @@ Stereotype `«JEAFServiceProvider»` can be used to define so called service pro
 | **Stereotype**          | `«JEAFServiceProvider»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Interface`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 <br>
 

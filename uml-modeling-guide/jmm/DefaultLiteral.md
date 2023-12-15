@@ -15,8 +15,7 @@ Please be aware default literals only exist in OpenAPI. There is no real equival
 | **Stereotype**          | `«DefaultLiteral»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `EnumerationLiteral`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

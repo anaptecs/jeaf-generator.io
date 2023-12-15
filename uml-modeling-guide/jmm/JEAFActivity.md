@@ -13,8 +13,7 @@ Components use activities to implement non-trivial functionality of the services
 | **Stereotype**          | `«JEAFActivity»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Activity`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 <br>
 

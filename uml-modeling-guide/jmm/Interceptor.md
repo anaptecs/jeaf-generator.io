@@ -15,8 +15,7 @@ Stereotype «Interceptor» is JEAF Framework specific.
 | **Stereotype**          | `«Interceptor»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 <br>
 

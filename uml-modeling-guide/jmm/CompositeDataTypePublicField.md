@@ -13,8 +13,7 @@ Stereotype `«CompositeDataTypePublicField»` can be used for the name of the pu
 | **Stereotype**          | `«CompositeDataTypePublicField»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Property`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 <br>
 

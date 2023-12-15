@@ -15,8 +15,7 @@ This stereotype is used in combination with so called OpenAPI Data Types where J
 | **Stereotype**          | `«ModuleFactory»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Component`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 <br>
 

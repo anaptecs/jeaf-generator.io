@@ -13,8 +13,7 @@ Stereotype `«OpenAPIType»` can be used to mark a class as OpenAPI data type. A
 | **Stereotype**          | `«OpenAPIType»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

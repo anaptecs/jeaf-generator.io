@@ -13,8 +13,7 @@ Using stereotype «Transient» it is possible to add keyword transient to genera
 | **Stereotype**          | `«Transient»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Property`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

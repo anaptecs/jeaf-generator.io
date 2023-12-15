@@ -13,8 +13,7 @@ Stereotype `«SystemException»` is used to model system exceptions.
 | **Stereotype**          | `«SystemException»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 
     

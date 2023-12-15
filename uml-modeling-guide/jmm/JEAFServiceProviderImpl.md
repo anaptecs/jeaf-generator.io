@@ -13,8 +13,7 @@ Stereotype `«JEAFServiceProviderImpl»` can be used to mark a class as an imple
 | **Stereotype**          | `«JEAFServiceProviderImpl»` | |
 | ----------------------- | -------------- | |
 | **Applicable Elements** | `Class`        |
-| **Tagged Values**       |                       |                                                                                                                                                                                                          |
-| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| **Tagged Values**       | none           |
 
 <br>
 
