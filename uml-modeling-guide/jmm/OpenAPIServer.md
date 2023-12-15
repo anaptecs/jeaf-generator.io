@@ -1,0 +1,22 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «OpenAPIServer»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«OpenAPIServer»`
+When defining an OpenAPI specification it is also possible to define the servers on which the API is available. For each server on which the API is available a component with stereotype `«OpenAPIServer»` needs to be defined.
+
+<br>
+
+| **Stereotype**          | `«OpenAPIServer»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Component`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| `url`   | `String` | URL under which the server is available. |
+| `order`   | `int` | Attribute can be used to define a stable order within the defined OpenAPI server instances within a specification file. |
+
+
+    

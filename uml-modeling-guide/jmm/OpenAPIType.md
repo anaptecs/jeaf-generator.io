@@ -1,0 +1,20 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «OpenAPIType»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«OpenAPIType»`
+Stereotype `«OpenAPIType»` can be used to mark a class as OpenAPI data type. As no further information are required the stereotype does not define any tagged values.
+
+<br>
+
+| **Stereotype**          | `«OpenAPIType»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Class`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+
+
+    

@@ -1,0 +1,26 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «JEAFServiceProviderImpl»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«JEAFServiceProviderImpl»`
+Stereotype `«JEAFServiceProviderImpl»` can be used to mark a class as an implementation of a service provider.
+
+<br>
+
+| **Stereotype**          | `«JEAFServiceProviderImpl»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Class`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+
+<br>
+
+For further information please refer to:
+- [How to model Service Providers](/uml-modeling-guide/how-to-model-service-providers) 
+- [Generating Code for Service Providers](/developer-guide/code-for-jeaf-service-providers) 
+- [JEAF Architecture Model - Service Provider](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Service-Provider)
+
+    

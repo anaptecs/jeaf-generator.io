@@ -1,0 +1,20 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «Internal»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«Internal»`
+Stereotype «Internal» can be used to mark attributes or roles as internal. This means that in the generated Java code they will be generated as any other property but access methods will only have package visibility.
+
+<br>
+
+| **Stereotype**          | `«Internal»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Property`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+
+
+    

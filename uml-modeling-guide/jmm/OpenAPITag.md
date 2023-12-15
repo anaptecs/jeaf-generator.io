@@ -1,0 +1,24 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «OpenAPITag»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«OpenAPITag»`
+OpenAPI supports to group REST resource by tags. Using stereotype «OpenAPITag» you can define such tags.
+
+To actually tag a resource you need to define a dependency from the tag to operation representing the REST resource / operation
+
+<br>
+
+| **Stereotype**          | `«OpenAPITag»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Component`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| `externalDocsURL`   | `String` | Tagged value can be used to define the link of an external URL with further docs. |
+| `order`   | `int` | Optional tagged value can be used to order tags. |
+
+
+    

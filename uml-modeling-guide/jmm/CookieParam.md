@@ -1,0 +1,21 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «CookieParam»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«CookieParam»`
+Stereotype `«CookieParam»` can be used to mark a REST request parameter to be passed via a cookie. 
+
+<br>
+
+| **Stereotype**          | `«CookieParam»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Parameter`, `Property`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| `value`   | `String` | Name the cookie entry from which the parameter value should be taken. |
+
+
+    

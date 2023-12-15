@@ -1,20 +1,30 @@
 ---
 title: "UML Modeling Guide"
-subtitle: "Stereotype «JEAFService»"
+subtitle: "Stereotype «ServiceObject»"
 toc: false
 menubar: uml_modeling_guide_menu
 ---
 
-# Stereotype `«JEAFService»`
-Stereotype `«JEAFService»` is used to model services. The stereotype does not have any tagged values. It is only used as marker. Based on this stereotype JEAF Generator is able to identify service interfaces in an UML model and will generate the appropriate source code.
+# Stereotype `«ServiceObject»`
+Stereotype `«Service Object»` is used to model service objects. They define together with the service interface (stereotype «JEAFService») the public interface of a service.
 
 <br>
 
-| **Stereotype**          | `«JEAFService»` | |
+| **Stereotype**          | `«ServiceObject»` | |
 | ----------------------- | -------------- | |
-| **Applicable Elements** | `Interface`        |
+| **Applicable Elements** | `Class`        |
 | **Tagged Values**       |                       |                                                                                                                                                                                                          |
 | **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| `hasCustomImplementation`   | `Boolean` |  |
+| `compositeDataType`   | `Boolean` |  |
+| `compositeDataTypePublicFieldName`   | `String` |  |
+| `compositeDataTypeReadonly`   | `Boolean` |  |
+| `compositeDataTypeCustomSerialization`   | `Boolean` |  |
+| `technicalBaseClass`   | `Boolean` |  |
+| `readOnly`   | `Boolean` |  |
+| `validateOnBuild`   | `Boolean` |  |
+| `ofMethod`   | `OfMethodType` |  |
+| `suppressSubtypesMapping`   | `Boolean` |  |
 
 <br>
 

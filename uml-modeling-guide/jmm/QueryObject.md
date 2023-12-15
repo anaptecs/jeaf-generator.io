@@ -1,0 +1,22 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «QueryObject»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«QueryObject»`
+Stereotype `«QueryObject»` can be used to define so called query objects. In opposite to service objects they do not represent business related objects but are used to describe queries that are supported by a service. 
+
+The stereotype does not define tagged values and is just a marker for JEAF Generator that will use the matching template for query objects.
+
+<br>
+
+| **Stereotype**          | `«QueryObject»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Class`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+
+
+    

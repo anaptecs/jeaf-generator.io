@@ -1,0 +1,25 @@
+---
+title: "UML Modeling Guide"
+subtitle: "Stereotype «OpenAPIResponse»"
+toc: false
+menubar: uml_modeling_guide_menu
+---
+
+# Stereotype `«OpenAPIResponse»`
+Stereotype «OpenAPIResponse» can be used to define error responses.
+
+<br>
+
+| **Stereotype**          | `«OpenAPIResponse»` | |
+| ----------------------- | -------------- | |
+| **Applicable Elements** | `Class`        |
+| **Tagged Values**       |                       |                                                                                                                                                                                                          |
+| **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
+| `contentType`   | `MediaType` | Content type of the response. <br><br>Default value is `APPLICATION_PROBLEM_JSON`. |
+| `statusCodes`   | `HTTPStatusCode` | HTTP status code values that are used by the error response. |
+| `unexpectedErrorResponse`   | `Boolean` | Tagged value can be defined that this error response is the one that will be used in case of unexpected error. |
+| `globalDefaultErrorResponse`   | `Boolean` | By default error responses are only applied to the OpenAPI specification which references them.<br><br>In cases that you have several OpenAPI specification but they all should share the same error responses then you can mark them as global using this tagged value. |
+| `httpMethods`   | `HTTPMethod` | Tagged value allows to restrict an error response to specific HTTP methods. |
+
+
+    
