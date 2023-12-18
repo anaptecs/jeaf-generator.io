@@ -25,7 +25,7 @@ Use UML models to generate code for
 
 and boost your software development efficiency and time-to-market. Bye bye handwritten boiler blade code. 
 
-**Let your developers concentrate on what is really important: business features**
+Let your developers concentrate on what is really important: **business features**
 
 <br>
 
@@ -37,19 +37,19 @@ JEAF Generator is designed for enterprise projects and offers a large set of fea
 
 JEAF Generator is provided as Maven Plugin and uses UML models to generate code for:
 
-* **Java POJOs** (incl. Builders, Validation Annotations etc.)
+* Java POJOs (incl. Builders, Validation Annotations etc.)
   
-* **Jackson / JSON Serialization**
+* Jackson / JSON Serialization
   
-* **Spring** (Services, REST Controllers, REST Clients, Security, ...) 
+* Spring (Services, REST Controllers, REST Clients, Security, ...) 
 
-* **JakartaEE / JEE**
+* JakartaEE / JEE
   
-* **OpenAPI Specifications**
+* OpenAPI Specifications
 
-* **Hibernate Entities** (incl. OR-Mapping)
+* Hibernate Entities (incl. OR-Mapping)
 
-* **...**
+* ...
 
 <br>
 
