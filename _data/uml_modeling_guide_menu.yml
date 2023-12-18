@@ -10,6 +10,9 @@
       items:
         - name: Common Stereotypes
           link: /uml-modeling-guide/jmm/common-stereotypes
+          items: 
+            - name: "Stereotype <code>«JEAFDeprecated»</code>"
+              link: /uml-modeling-guide/jmm/JEAFDeprecated
       
         - name: "Stereotype <code>«JEAFService»</code>"
           link: /uml-modeling-guide/jmm/jeaf-service
