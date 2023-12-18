@@ -1,7 +1,8 @@
 ---
 title: "JEAF Generator"
 subtitle: "Join Next Generation Software Development"
-description: Use UML models to generate code for Spring, REST, OpenAPI, Java, JakarataEE, JEE, Hibernate and others
+description: Use UML models to generate code for Spring, REST, OpenAPI, Java, JakarataEE, JEE, Hibernate and others. Bye bye handwritten boiler blade code. Let your developers concentrate on business features.
+
 image: ../images/share_image.png
 layout: page
 menubar_toc: false
