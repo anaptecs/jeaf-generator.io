@@ -8,12 +8,65 @@
     - name: "<b>Common Stereotypes</b>"
       link: 
       items: 
+        - name: "Stereotype <code>«Alias»</code>"
+          link: /uml-modeling-guide/jmm/Alias
+      
         - name: "Stereotype <code>«JEAFDeprecated»</code>"
           link: /uml-modeling-guide/jmm/JEAFDeprecated
+      
+        - name: "Stereotype <code>«BreakingChange»</code>"
+          link: /uml-modeling-guide/jmm/BreakingChange
+      
+        - name: "Stereotype <code>«Transient»</code>"
+          link: /uml-modeling-guide/jmm/Transient
+      
+        - name: "Stereotype <code>«Example»</code>"
+          link: /uml-modeling-guide/jmm/Example
+      
+        - name: "Stereotype <code>«Ignore»</code>"
+          link: /uml-modeling-guide/jmm/Ignore
       
     - name: "<b>Stereotypes for Java</b>"
       link: 
       items: 
+        - name: "Stereotype <code>«POJO»</code>"
+          link: /uml-modeling-guide/jmm/POJO
+      
+        - name: "Stereotype <code>«Identifiable»</code>"
+          link: /uml-modeling-guide/jmm/identifiable
+
+        - name: "Stereotype <code>«ServiceObject»</code>"
+          link: /uml-modeling-guide/jmm/service-object
+      
+        - name: "Stereotype <code>«DomainObject»</code>"
+          link: /uml-modeling-guide/jmm/DomainObject
+      
+        - name: "Stereotype <code>«JEAFEnumeration»</code>"
+          link: /uml-modeling-guide/jmm/JEAFEnumeration
+      
+        - name: "Stereotype <code>«Internal»</code>"
+          link: /uml-modeling-guide/jmm/Internal
+      
+        - name: "Stereotype <code>«Transient»</code>"
+          link: /uml-modeling-guide/jmm/Transient
+      
+        - name: "Stereotype <code>«SoftLink»</code>"
+          link: /uml-modeling-guide/jmm/SoftLink
+      
+        - name: "Stereotype <code>«CompositeDataTypePublicField»</code>"
+          link: /uml-modeling-guide/jmm/CompositeDataTypePublicField
+      
+        - name: "Stereotype <code>«ObjectMapping»</code>"
+          link: /uml-modeling-guide/jmm/ObjectMapping
+      
+        - name: "Stereotype <code>«TemplateBindingMultiplicity»</code>"
+          link: /uml-modeling-guide/jmm/TemplateBindingMultiplicity
+      
+        - name: "Stereotype <code>«ApplicationException»</code>"
+          link: /uml-modeling-guide/jmm/ApplicationException
+      
+        - name: "Stereotype <code>«SystemException»</code>"
+          link: /uml-modeling-guide/jmm/SystemException
       
     - name: "<b>Stereotypes for Services / REST</b>"
       link: 
@@ -21,16 +74,137 @@
         - name: "Stereotype <code>«JEAFService»</code>"
           link: /uml-modeling-guide/jmm/jeaf-service
       
-        - name: "Stereotype <code>«ServiceObject»</code>"
-          link: /uml-modeling-guide/jmm/service-object
+        - name: "Stereotype <code>«QueryObject»</code>"
+          link: /uml-modeling-guide/jmm/QueryObject
       
-        - name: "Stereotype <code>«Identifiable»</code>"
-          link: /uml-modeling-guide/jmm/identifiable
+        - name: "Stereotype <code>«LoadStrategy»</code>"
+          link: /uml-modeling-guide/jmm/LoadStrategy
       
-     
+        - name: "Stereotype <code>«RESTResource»</code>"
+          link: /uml-modeling-guide/jmm/RESTResource
+      
+        - name: "Stereotype <code>«RESTOperation»</code>"
+          link: /uml-modeling-guide/jmm/RESTOperation
+      
+        - name: "Stereotype <code>«BeanParam»</code>"
+          link: /uml-modeling-guide/jmm/BeanParam
+      
+        - name: "Stereotype <code>«HeaderParam»</code>"
+          link: /uml-modeling-guide/jmm/HeaderParam
+      
+        - name: "Stereotype <code>«QueryParam»</code>"
+          link: /uml-modeling-guide/jmm/QueryParam
+      
+        - name: "Stereotype <code>«CookieParam»</code>"
+          link: /uml-modeling-guide/jmm/CookieParam
+      
+        - name: "Stereotype <code>«SecurityRole»</code>"
+          link: /uml-modeling-guide/jmm/SecurityRole
+      
+        - name: "Stereotype <code>«JEAFActivity»</code>"
+          link: /uml-modeling-guide/jmm/JEAFActivity
+      
+        - name: "Stereotype <code>«PathParam»</code>"
+          link: /uml-modeling-guide/jmm/PathParam
+      
     - name: "<b>Stereotypes for OpenAPI</b>"
       link: 
       items: 
+        - name: "Stereotype <code>«DefaultLiteral»</code>"
+          link: /uml-modeling-guide/jmm/DefaultLiteral
       
+        - name: "Stereotype <code>«OAuthFlow»</code>"
+          link: /uml-modeling-guide/jmm/OAuthFlow
+      
+        - name: "Stereotype <code>«OAuthScope»</code>"
+          link: /uml-modeling-guide/jmm/OAuthScope
+      
+        - name: "Stereotype <code>«OpenAPI3Specification»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPI3Specification
+      
+        - name: "Stereotype <code>«OpenAPIAliasName»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIAliasName
+      
+        - name: "Stereotype <code>«OpenAPIDataType»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIDataType
+      
+        - name: "Stereotype <code>«OpenAPIEnumeration»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIEnumeration
+      
+        - name: "Stereotype <code>«OpenAPIFormat»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIFormat
+      
+        - name: "Stereotype <code>«OpenAPIPattern»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIPattern
+      
+        - name: "Stereotype <code>«OpenAPIProperty»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIProperty
+      
+        - name: "Stereotype <code>«OpenAPIResponse»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIResponse
+      
+        - name: "Stereotype <code>«OpenAPISecurityScheme»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPISecurityScheme
+      
+        - name: "Stereotype <code>«OpenAPIServer»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIServer
+      
+        - name: "Stereotype <code>«OpenAPISpecReference»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPISpecReference
+      
+        - name: "Stereotype <code>«OpenAPITag»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPITag
+      
+        - name: "Stereotype <code>«OpenAPIType»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPIType
+      
+        - name: "Stereotype <code>«ResponseHeaderGroup»</code>"
+          link: /uml-modeling-guide/jmm/ResponseHeaderGroup
+      
+        - name: "Stereotype <code>«Ordered»</code>"
+          link: /uml-modeling-guide/jmm/Ordered
+      
+    - name: "<b>Stereotypes for Jackson (JSON)</b>"
+      link: 
+      items: 
+        - name: "Stereotype <code>«ObjectMapperFactory»</code>"
+          link: /uml-modeling-guide/jmm/ObjectMapperFactory
+      
+        - name: "Stereotype <code>«ModuleFactory»</code>"
+          link: /uml-modeling-guide/jmm/ModuleFactory
+      
+      
+    - name: "<b>Stereotypes for JEAF Framework</b>"
+      link: 
+      items: 
+        - name: "Stereotype <code>«Interceptor»</code>"
+          link: /uml-modeling-guide/jmm/Interceptor
+      
+        - name: "Stereotype <code>«JEAFComponent»</code>"
+          link: /uml-modeling-guide/jmm/JEAFComponent
+      
+        - name: "Stereotype <code>«JEAFServiceProvider»</code>"
+          link: /uml-modeling-guide/jmm/JEAFServiceProvider
+      
+        - name: "Stereotype <code>«JEAFServiceProviderImpl»</code>"
+          link: /uml-modeling-guide/jmm/JEAFServiceProviderImpl
+      
+      
+    - name: "<b>Stereotypes for JPA Persistence</b>"
+      link: 
+      items: 
+        - name: "Stereotype <code>«PersistentObject»</code>"
+          link: /uml-modeling-guide/jmm/PersistentObject
+      
+        - name: "Stereotype <code>«PersistenceUnit»</code>"
+          link: /uml-modeling-guide/jmm/PersistenceUnit
+      
+        - name: "Stereotype <code>«Field»</code>"
+          link: /uml-modeling-guide/jmm/Field
+      
+        - name: "Stereotype <code>«Role»</code>"
+          link: /uml-modeling-guide/jmm/Role
 
+        - name: "Stereotype <code>«UserType»</code>"
+          link: /uml-modeling-guide/jmm/UserType
       
