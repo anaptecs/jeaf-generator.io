@@ -2,7 +2,7 @@
 title: "UML Modeling Guide"
 subtitle: "Stereotype «OpenAPIPattern»"
 toc: false
-menubar: uml_modeling_guide_menu
+menubar: jmm_menu
 ---
 
 # Stereotype `«OpenAPIPattern»`

@@ -2,7 +2,7 @@
 title: "UML Modeling Guide"
 subtitle: "Stereotype «JEAFService»"
 toc: false
-menubar: uml_modeling_guide_menu
+menubar: jmm_menu
 ---
 
 # Stereotype `«JEAFService»`
