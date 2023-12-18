@@ -25,7 +25,7 @@ Use UML models to generate code for
 
 and boost your software development efficiency and time-to-market. Bye bye handwritten boiler blade code. 
 
-Let your developers concentrate on what is really important: **business features**
+Let your developers concentrate on what is really important: delivering business features
 
 <br>
 
