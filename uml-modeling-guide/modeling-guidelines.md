@@ -15,7 +15,7 @@ This section describes how to define UML models in combination with JEAF Generat
 
 ### Mandatory Rules
 
-The following table contains a set of mandatory modelling rules. Mandatory means that in case that they are not fulfilled it is expected that JEAF Generator won’t be able to produce legal code. May be code generation will be even [interrupted for such model elements](/developer-guide/general-behavior).
+The following table contains a set of mandatory modeling rules. Mandatory means that in case that they are not fulfilled it is expected that JEAF Generator won’t be able to produce legal code. May be code generation will be even [interrupted for such model elements](/developer-guide/general-behavior).
 
 <br>
 
@@ -31,7 +31,7 @@ The following table contains a set of mandatory modelling rules. Mandatory means
 
 ### Recommendations / Best Practices
 
-The table below contains a set of recommendations and best practices about UML modelling. It’s up to you if you follow them or not. It’s just a recommendation and will not have any impact on the process of code generation with JEAF Generator.
+The table below contains a set of recommendations and best practices about UML modeling. It’s up to you if you follow them or not. It’s just a recommendation and will not have any impact on the process of code generation with JEAF Generator.
 
 <br>
 
@@ -51,9 +51,9 @@ The table below contains a set of recommendations and best practices about UML m
 
 ### Structure of the UML Model
 
-In this section we will describe a proposal how to structure your UML model in combination with [MagicDraw UML](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/) our recommended UML Modelling Tool (also see [UML Modelling Tools](/uml-modeling-guide/uml-modeling-tools)).
+In this section we will describe a proposal how to structure your UML model in combination with [MagicDraw UML](https://www.3ds.com/products-services/catia/products/no-magic/magicdraw/) our recommended UML Modeling Tool (also see [UML Modeling Tools](/uml-modeling-guide/uml-modeling-tools)).
 
-Of course JEAF Generator do not require this structure but as part of our modelling guidelines we also would like to make a proposal how to structure your UML model.
+Of course JEAF Generator do not require this structure but as part of our modeling guidelines we also would like to make a proposal how to structure your UML model.
 
 Hopefully this will provide some benefit to you. If not just ignore it.
 
