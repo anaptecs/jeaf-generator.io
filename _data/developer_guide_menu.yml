@@ -6,6 +6,7 @@
       link: /developer-guide/quickstart
       
     - name: "<b>Maven</b>"
+      link: /developer-guide/maven-integration
       items:
       - name: "Maven Integration"
         link: /developer-guide/maven-integration

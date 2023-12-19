@@ -33,10 +33,10 @@
           link: /uml-modeling-guide/jmm/POJO
       
         - name: "Stereotype <code>«Identifiable»</code>"
-          link: /uml-modeling-guide/jmm/identifiable
+          link: /uml-modeling-guide/jmm/Identifiable
 
         - name: "Stereotype <code>«ServiceObject»</code>"
-          link: /uml-modeling-guide/jmm/service-object
+          link: /uml-modeling-guide/jmm/ServiceObject
       
         - name: "Stereotype <code>«DomainObject»</code>"
           link: /uml-modeling-guide/jmm/DomainObject
