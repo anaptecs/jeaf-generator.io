@@ -1,0 +1,31 @@
+- items:
+    - name: Supported UML Modeling Tools
+      link: /features/#supported-uml-modeling-tools
+
+    - name: General Features
+      link: /uml-modeling-guide/model-driven-software-development
+      
+    - name: Java
+      link: /features/#java
+      
+    - name: Jackson / JSON
+      link: /features/#jackson--json
+      
+    - name: Spring
+      link: /features/#spring
+      
+    - name: OpenAPI
+      link: /features/#openapi
+      
+    - name: JPA / Hibernate
+      link: /features/#jpa--hibernate
+      
+    - name: JakartaEE / JEE
+      link: /features/#jakartaee--jee
+      
+    - name: Reports
+      link: /features/#reports
+      
+    - name: JEAF Framework
+      link: /features/#jeaf-framework
+            
