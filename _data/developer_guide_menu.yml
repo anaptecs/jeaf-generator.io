@@ -1,5 +1,8 @@
 - items:
-    - name: "<b>Quickstart</b>"
+    - name: "<b>Developer Guide</b>"
+      link: /developer-guide
+      
+    - name: "<b>Quickstart Guide</b>"
       link: /developer-guide/quickstart
       
     - name: "<b>Maven</b>"

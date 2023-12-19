@@ -35,5 +35,6 @@ In general the development consists of the following steps:
 For further information we recommend to have a look at the following sections:
 
 - [JEAF Generator General Behavior](general-behavior) 
+- [Quickstart Guide](/developer-guide/quickstart)
 - [Checkout the example project from our Git repository](https://bitbucket.org/anaptecs/jeaf-generator-samples)
 - [Check UML Modeling Guide](../uml-modeling-guide)
