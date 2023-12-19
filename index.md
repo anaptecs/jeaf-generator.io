@@ -20,11 +20,13 @@ Use UML models to generate code for
 - REST
 - OpenAPI
 - Java
-- JakarataEE / JEE
+- JakartaEE / JEE
 - Hibernate 
 - and others
 
-and boost your software development efficiency and time-to-market. Bye bye handwritten boiler blade code. 
+<br>
+
+Boost your software development efficiency and time-to-market. Bye bye handwritten boiler blade code. 
 
 Let your developers concentrate on what is really important: delivering business features
 
