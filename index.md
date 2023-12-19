@@ -26,13 +26,11 @@ Use UML models to generate code for
 
 <br>
 
-Boost your software development efficiency and time-to-market. Bye bye handwritten boiler blade code. 
-
-Let your developers concentrate on what is really important: delivering business features
+Boost your software development efficiency and time-to-market. Bye bye handwritten boiler blade code. Let your developers concentrate on what is really important: delivering business features
 
 <br>
 
-For further details please have a look on our [**feature matrix**](/features).
+For further details please have a look on [**JEAF Generator's feature list**](/features).
 
 <br>
 
