@@ -43,19 +43,21 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 ## Java
 
-| Features                             | Description                                                                             | Additional Information |
-| ------------------------------------ | --------------------------------------------------------------------------------------- | ---------------------- |
-| `POJO`                               | Generate POJO classes from a UML model. Generated code uses builder pattern by default. |                        |
-| `Exception classes`                  |                                                                                         |                        |
-| `Object Mappers`                     |                                                                                         |                        |
-| `Java Bean Validation annotations`   |                                                                                         |                        |
-| `Custom Java Validation Constraints` |                                                                                         |                        |
-| `Builder Validation`                 |                                                                                         |                        |
-| `Generate Java Generics`             |                                                                                         |                        |
-| `Bi-directional assocations`         |                                                                                         |                        |
-| `Soft Links`                         |                                                                                         |                        |
-| `of(...) / valueOf(...)`             |                                                                                         |                        |
-| `hashCode(...) / equals(...)`        |                                                                                         |                        |
+| Features                             | Description                                                                                                                                   | Additional Information |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| `POJO`                               | Generate POJO classes from a UML model. Generated code uses builder pattern by default.                                                       |                        |
+| `Builder Pattern`                    | By default for all POJOs / Service Objects Builders are created                                                                               |                        |
+| `Exception classes`                  |                                                                                                                                               |                        |
+| `Object Mappers`                     |                                                                                                                                               |                        |
+| `Java Bean Validation annotations`   |                                                                                                                                               |                        |
+| `Custom Java Validation Constraints` |                                                                                                                                               |                        |
+| `Builder Validation`                 |                                                                                                                                               |                        |
+| `Generate Java Generics`             |                                                                                                                                               |                        |
+| `Bi-directional assocations`         |                                                                                                                                               |                        |
+| `Soft Links`                         |                                                                                                                                               |                        |
+| `Immutability`                       | It is possible to configure that the generated classes are immutable. This means that as soon as an object is created it can not be modified. |                        |
+| `of(...) / valueOf(...)`             |                                                                                                                                               |                        |
+| `hashCode(...) / equals(...)`        |                                                                                                                                               |                        |
 
 <br>
 
@@ -122,7 +124,6 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 | `Bean Params`                        |             |                        |
 
 <br>
-
 
 ## Reports
 
