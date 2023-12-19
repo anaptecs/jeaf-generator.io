@@ -17,7 +17,7 @@ This section describes how to define UML models in combination with JEAF Generat
 
 The following table contains a set of mandatory modelling rules. Mandatory means that in case that they are not fulfilled it is expected that JEAF Generator won’t be able to produce legal code. May be code generation will be even [interrupted for such model elements](/developer-guide/general-behavior).
 
-
+<br>
 
 | **Rule #** | **Topic**        | **Model element / type**              | **Rule**                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------- | ---------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ The following table contains a set of mandatory modelling rules. Mandatory means
 
 The table below contains a set of recommendations and best practices about UML modelling. It’s up to you if you follow them or not. It’s just a recommendation and will not have any impact on the process of code generation with JEAF Generator.
 
-
+<br>
 
 | **Rule #** | **Topic**                        | **Model element / type**       | **Recommendation / Best Practice**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------- | -------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ Of course JEAF Generator do not require this structure but as part of our modell
 
 Hopefully this will provide some benefit to you. If not just ignore it.
 
-
+<br>
 
 | Rule # | Topic                       | Recommendation                                                                                                                                                                                                                                                                                                           | Sample Model Ref. |
 | ------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
