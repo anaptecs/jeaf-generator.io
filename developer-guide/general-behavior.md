@@ -127,15 +127,15 @@ In case of associations depending on the multiplicity of the association ends th
 
 <br>
 
-## Handling of Associations
+## Associations between Classes
 
 UML supports a wide variety of associations between classes (associations, aggregation, directed associations and composition). All of them have a little different semantics. However when it comes to their representation in the Java code then they are all the same.
 
 <br>
 
-### Bidirectional and Directed Associations
+**Bidirectional and Directed Associations**
 
-It is also important to know that there is a big difference between directed and bidirectional associations. From the model perspective the difference seems to be just a detail but when it comes to the generated code it has a big impact:
+However, it is important to understand that there is a big difference between directed and bidirectional associations. From the model perspective the difference seems to be just a detail but when it comes to the generated code it has a big impact:
 
 - **Bidirectional Associations**<br>
   If a association is modeled to be bidirectional then the generated code will ensure the consistency of that association in both directions.<br>Example:
