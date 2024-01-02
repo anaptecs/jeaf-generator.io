@@ -5,8 +5,14 @@
     - name: Introduction to model-driven software development
       link: /uml-modeling-guide/model-driven-software-development
       
-    - name: Modeling Guidelines
-      link: /uml-modeling-guide/modeling-guidelines
+    - name: Modeling Howto's
+      #link: /uml-modeling-guide/modeling-guidelines
+      items:
+        - name: Common Modeling Guidelines
+          link: /uml-modeling-guide/modeling-guidelines
+          
+        - name: How to model (REST) Services
+          link: /uml-modeling-guide//how-to-model-rest-service-apis
       
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
