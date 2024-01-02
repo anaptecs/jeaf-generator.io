@@ -11,7 +11,7 @@ menubar: uml_modeling_guide_menu
 
 ![AccountingService](/images/accounting_service.png)
 
-When modelling services there is no difference to regular interfaces. As for interfaces all operations of a service including parameters, return type and exceptions have to be defined. In addition the interface has to be marked with the stereotype `«JEAFService»`. Only based on this stereotype JEAF Generator is able to detect a service and then will generate specific code for service interfaces.
+When modeling services there is no difference to regular interfaces. As for interfaces all operations of a service including parameters, return type and exceptions have to be defined. In addition the interface has to be marked with the stereotype `«JEAFService»`. Only based on this stereotype JEAF Generator is able to detect a service and then will generate specific code for service interfaces.
 
 <br>
 
