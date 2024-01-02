@@ -98,6 +98,9 @@
         - name: "Stereotype <code>«HeaderParam»</code>"
           link: /uml-modeling-guide/jmm/HeaderParam
       
+        - name: "Stereotype <code>«PathParam»</code>"
+          link: /uml-modeling-guide/jmm/PathParam
+      
         - name: "Stereotype <code>«QueryParam»</code>"
           link: /uml-modeling-guide/jmm/QueryParam
       
@@ -109,9 +112,6 @@
       
         - name: "Stereotype <code>«JEAFActivity»</code>"
           link: /uml-modeling-guide/jmm/JEAFActivity
-      
-        - name: "Stereotype <code>«PathParam»</code>"
-          link: /uml-modeling-guide/jmm/PathParam
       
     - name: "<b>Stereotypes for OpenAPI</b>"
       link: 
