@@ -6,6 +6,8 @@
 
 When modelling services there is no difference to regular interfaces. As for interfaces all operations of a service including parameters, return type and exceptions have to be defined. In addition the interface has to be marked with the stereotype `«JEAFService»`. Only based on this stereotype JEAF Generator is able to detect a service and then will generate specific code for service interfaces.
 
+<br>
+
 For further information please also refer to:
 
 - [«JEAF Service»](/uml-modeling-guide/jmm/JEAFService)
@@ -28,6 +30,8 @@ As described in [General Behavior of JEAF Generator](/developer-guide/general-be
 
 As you can see on class Account from the example it is also possible to define operations for service objects. However we strongly recommend to only define convenience methods on them. It’s considered to be bad style to place real business logic there.
 
+<br>
+
 For further information please also refer to:
 
 - [«Service Object»](/uml-modeling-guide/jmm/ServiceObject)
@@ -43,6 +47,8 @@ For further information please also refer to:
 ![Enumeration](/images/jeaf_enumeration.png)
 
 The example above shows how to model enumerations. As you can see in UML model enumerations have to be marked with stereotype `«JEANEnumeration»`. Also attributes are supported for enumerations.
+
+<br>
 
 For further information please also refer to:
 
@@ -66,6 +72,8 @@ As both types of exceptions are also part of the public API of an service they n
 
 Please be aware that neither attributes nor operations are supported on exceptions. Also Inheritance is not supported. In case of JEAF Framework as target runtime the generated exceptions will use the matching JEAF exception class as parent.
 
+<br>
+
 For further information please also refer to:
 
 - [«Application Exception»](/uml-modeling-guide/jmm/ApplicationException)
@@ -86,6 +94,8 @@ The example above shows an example for a query object. As you can see they are m
 
 In addition query objects also allow references to service objects. From a software design perspective it’s recommended that association in this case are always directed from the query object to the service object but not the other way round.
 
+<br>
+
 For further information please also refer to:
 
 - [«Query Object»](/uml-modeling-guide/jmm/QueryObject)
@@ -103,6 +113,8 @@ When using this pattern then a load strategy object has to be passed as addition
 ![LoadStrategy](/images/load_strategy.png)
 
 Diagram above shows an example for a load strategy object. As you can see it is marked using stereotype `«LoadStrategy»`. In addition for every association that should be loaded an boolean attribute is defined. As mentioned before this object will be passed on a service call as additional parameter. It’s the responsibility of the service implementation to interpret the load strategy and only load and return the requested data.
+
+<br>
 
 For further information please also refer to:
 
@@ -122,13 +134,21 @@ First of all the service itself needs to be marked as REST Resource by applying 
 
 In addition to normal parameters in case of REST it is also possible to receive parameters from the path (e.g. `/doSomething/{id}`) or from the http header or as query parameter. For each of these variants stereotypes are defined (`«PathParam»`, `«HeaderParam»`, `«QueryParam»` and `«CookieParam»`). These stereotype can be applied on the parameters of an REST Operation (`«RESTOperation»`). In addition it is also supported to group sets of parameters together using so called bean parameters.
 
+<br>
+
 For further information please refer to:
 
 - [«REST Resource»](/uml-modeling-guide/jmm/RESTResource)
 
 - [«REST Operation»](/uml-modeling-guide/jmm/RESTOperation)
 
-- [«Path Param»](/uml-modeling-guide/jmm/PathParam) [«Header Param»](/uml-modeling-guide/jmm/HeaderParam) [«Query Param»](/uml-modeling-guide/jmm/QueryParam) [«Cookie Param»](/uml-modeling-guide/jmm/CookieParam) [«Bean Param»](/uml-modeling-guide/jmm/BeanParam)
+- [«Path Param»](/uml-modeling-guide/jmm/PathParam)
+
+- [«Header Param»](/uml-modeling-guide/jmm/HeaderParam)
+
+- [«Query Param»](/uml-modeling-guide/jmm/QueryParam)
+
+- [«Cookie Param»](/uml-modeling-guide/jmm/CookieParam)
 
 - [Generating Code for Services](/developer-guide/code-for-jeaf-services/#code-for-rest-services)
 
@@ -139,6 +159,8 @@ For further information please refer to:
 ![Identifiable](/images/identifiable.png)
 
 Stereotype `«Identifiable»` can be used to mark an object as Identifiable. This means that it can be identified using an `ObjectID`. The stereotype is intended to be used in combination with stereotypes `«DomainObject»`, `«POJO»` and `«ServiceObject»`. In case that such kinds of classes will be marked as identifiable then the generated code will respect that.
+
+<br>
 
 For further information please also refer to:
 
