@@ -6,7 +6,7 @@
       link: /uml-modeling-guide/model-driven-software-development
       
     - name: Modeling Howto's
-      #link: /uml-modeling-guide/modeling-guidelines
+      link: /uml-modeling-guide/modeling-guidelines
       items:
         - name: Common Modeling Guidelines
           link: /uml-modeling-guide/modeling-guidelines

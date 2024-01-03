@@ -5,7 +5,7 @@
     - name: Introduction to model-driven software development
       link: /uml-modeling-guide/model-driven-software-development
       
-    - name: Modeling Guidelines
+    - name: Modeling Howto's
       link: /uml-modeling-guide/modeling-guidelines
       
     - name: JEAF Generator Meta Model
