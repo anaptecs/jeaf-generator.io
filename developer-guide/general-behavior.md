@@ -43,7 +43,7 @@ You can find the complete list of all error messages / warnings on site [JEAF Ge
 
 JEAF Generator makes us of the so called builder pattern for Service Objects and POJOs. In case that attributes in the UML model are marked to be `readonly`, then these attributes can only be set using the builder but not directly using methods on the generated class itself.
 
-![Final Modifier](../../images/final_modifier.png)
+![Final Modifier](/images/final_modifier.png)
 
 <br>
 
@@ -66,7 +66,7 @@ be derived (calculated) from other properties of an object. JEAF
 Generator also supports derived properties. In the generated Java code 
 this will lead to a `getXYZ( )` operation that has to be implemented manually.
 
-![Derived Properties](../../images/derived_properties.png)
+![Derived Properties](/images/derived_properties.png)
 
 <br>
 
@@ -87,7 +87,7 @@ The screenshot below shows an example of an `0..*` association where attributes 
 
 <br>
 
-![derived Properties](../../images/collection.properties.png)
+![derived Properties](/images/collection.properties.png)
 
 <br>
 

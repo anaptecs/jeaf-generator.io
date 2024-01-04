@@ -1,7 +1,7 @@
 ---
 title: "JEAF Generator"
 subtitle: "Features"
-description: JEAF Generator uses UML models to generate code for Spring, REST, Java, JakarataEE, JEE, Hibernate and others
+description: JEAF Generator uses UML models to generate code for Spring, REST, Java, JakartaEE, JEE, Hibernate and others
 menubar: features_menu
 ---
 

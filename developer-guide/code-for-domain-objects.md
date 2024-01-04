@@ -9,7 +9,7 @@ menubar: developer_guide_menu
 
 Domain objects (stereotype «DomainObject») are used to define the internal structure of a component. Domain objects are intended to be used to represent the domain model of a component.
 
-![Code for Domain Objects](../../images/code_for_domain_objects.png)
+![Code for Domain Objects](/images/code_for_domain_objects.png)
 <br>
 
 The diagram above shows the transformation of domain objects from the UML model (stereotype `«DomainObject»`) to the matching Java code. As you can see 2 files will be created:<br>
@@ -26,7 +26,7 @@ The diagram above shows the transformation of domain objects from the UML model 
 
 For further information please refer to:
 
-- [How to model Domain Objects](../../uml-modeling-guide/how-to-model-domain-objects)
+- [How to model Domain Objects](/uml-modeling-guide/how-to-model-domain-objects)
 
 <br>
 

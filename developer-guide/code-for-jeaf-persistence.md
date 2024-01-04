@@ -9,7 +9,7 @@ menubar: developer_guide_menu
 
 Diagram below illustrates the transformation of persistent classes from the UML model (stereotype [«PersistentObject»](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/516849793 "/wiki/spaces/JEAF/pages/516849793")) into the corresponding Java code and resources.
 
-![Code for JEAF Persistence](../../images/code_for_jeaf_persistence.png)
+![Code for JEAF Persistence](/images/code_for_jeaf_persistence.png)
 
 <br>
 
@@ -34,7 +34,7 @@ As you can see for class `AccountPO` from the UML model the following output wil
 
 <br>
 
-For more information about how to model persistent classes please refer to [How to model Persistent Classes](../../uml-modeling-guide/how-to-model-jeaf-persistence)
+For more information about how to model persistent classes please refer to [How to model Persistent Classes](/uml-modeling-guide/how-to-model-jeaf-persistence)
 
 <br>
 
@@ -42,7 +42,7 @@ For more information about how to model persistent classes please refer to [How 
 
 Diagram below shows the code that is generated from a persistence unit (stereotype [«PersistenceUnit»](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/529137750 "/wiki/spaces/JEAF/pages/529137750")) in the UML model.
 
-![Code for JEAF Persistence](../../images/code_for_persistence_unit.png)
+![Code for JEAF Persistence](/images/code_for_persistence_unit.png)
 
 <br>
 

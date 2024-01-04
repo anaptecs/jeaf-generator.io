@@ -12,7 +12,10 @@
           link: /uml-modeling-guide/modeling-guidelines
           
         - name: How to model (REST) Services
-          link: /uml-modeling-guide//how-to-model-rest-service-apis
+          link: /uml-modeling-guide/how-to-model-rest-service-apis
+      
+        - name: How to model Security Roles
+          link: /uml-modeling-guide/how-to-model-security-roles
       
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm

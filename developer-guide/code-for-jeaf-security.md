@@ -7,9 +7,9 @@ menubar: developer_guide_menu
 
 ## Generating Code for JEAF Security
 
-As described in [How to model Actors / Roles](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546177636 "/wiki/spaces/JEAF/pages/546177636") JEAF Generator supports to define roles and authorizations based on the UML model.
+As described in [How to model Security Roles](/uml-modeling-guide/how-to-model-security-roles) JEAF Generator supports to define roles and authorizations based on the UML model.
 
-![Code for JEAF Security](../../images/code_for_jeaf_security.png)
+![Code for JEAF Security](/images/code_for_jeaf_security.png)
 
 <br>
 
@@ -23,7 +23,7 @@ The role and authorizations that are defined in the generated file can be used b
 
 For further information please also refer to:
 
-- [How to model Roles / Actors](../.../uml-modeling-guide/how-to-model-roles)
+- [How to model Roles / Actors](/uml-modeling-guide/how-to-model-security-roles)
 
 - [JEAF Security](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729")
 

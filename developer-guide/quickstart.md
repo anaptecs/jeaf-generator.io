@@ -11,7 +11,7 @@ Please ensure, before you jump into the sample code, that you are familiar with 
 
 - [JEAF Generator](../)
 
-- [UML Modelling Guide](../../uml-modeling-guide)
+- [UML Modelling Guide](/uml-modeling-guide)
 
 <br>
 
@@ -26,7 +26,7 @@ If you want to work with JEAF Generator we strongly recommend to checkout our sa
 
 ## Structure of the example project
 
-As you can see in our [Modeling Guide](../../uml-modeling-guide) JEAF Generator is able to generate lots of different types of code based on the UML model. To ensure a better overview in the example project we created an independent Maven sub module for every content 
+As you can see in our [Modeling Guide](/uml-modeling-guide) JEAF Generator is able to generate lots of different types of code based on the UML model. To ensure a better overview in the example project we created an independent Maven sub module for every content 
 type that will be generated.
 
 <br>

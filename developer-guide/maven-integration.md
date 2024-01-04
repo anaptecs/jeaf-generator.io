@@ -47,4 +47,4 @@ As you can see in the example configuration above JEAF Generator will be execute
 
 If you want to run code generation only, then you can execute goal `generate-sources` which is supported by most development environments directly via the UI.
 
-![Eclipse Generate Sources](../../images/generate_sources.png)
+![Eclipse Generate Sources](/images/generate_sources.png)

@@ -22,7 +22,7 @@ Therefore actors in the UML model can be annotated with stereotype `«SecurityRo
 <br>
 
 For further information please refer to:
-- [How to model Actors / Roles](/uml-modeling-guide/how-to-model-roles)
+- [How to model Actors / Roles](/uml-modeling-guide/how-to-model-security-roles)
 - [Generating Code for Actors / Roles and Authorizations](/developer-guide/code-for-jeaf-security)
 
 
