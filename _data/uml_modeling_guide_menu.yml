@@ -26,6 +26,9 @@
         - name: How to model Object Mappings
           link: /uml-modeling-guide/how-to-model-object-mappings
       
+        - name: How to model Activities
+          link: /uml-modeling-guide/how-to-model-activities
+      
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
