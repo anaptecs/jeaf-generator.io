@@ -17,9 +17,11 @@ As you can see from the diagram above activities need to be marked with stereoty
 
 ![Activity Flow](/images/activity-flow.png)
 
-UML also supports to define a flow of activities (object and control flow). Of course it’s very meaningful to model that. However JEAF Generator is currently not able to takes this as an input for code generation.
+UML also supports to define a flow of activities (object and control flow). Of course it’s very meaningful to model that. However JEAF Generator is currently not able to take this as an input for code generation.
 
-For further information please4 also refer to:
+<br>
+
+For further information please also refer to:
 
 - [«JEAFActivity»](/uml-modeling-guide/jmm/JEAFActivity/)
 
