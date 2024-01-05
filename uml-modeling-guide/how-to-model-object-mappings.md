@@ -3,6 +3,7 @@ title: "UML Modeling Guide"
 subtitle: "How to model Object Mappings"
 toc_title: " "
 menubar: uml_modeling_guide_menu
+
 ---
 
 # How to model Object Mappings
@@ -23,13 +24,13 @@ As you can it’s also possible to use operations on the target side instead of 
 
 When defining object mappings it’s also important to have a look on the table below. As you can see only some combinations between source and target object types are supported.
 
-| **Source**            | **Target**                                                                                                    |                                                                                                               |                                                                                                               |                                                                                                               |
-| --------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-|                       | **Service Object**                                                                                            | **POJO**                                                                                                      | **Domain Object**                                                                                             | **Persistent Object**                                                                                         |
-| **Service Object**    | <i class="fa-solid fa-check"></i>                                                                             | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) |
-| **POJO**              | ![:cross_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/cross_mark_64.png) | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) |
-| **Domain Object**     | ![:cross_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/cross_mark_64.png) | ![:cross_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/cross_mark_64.png) | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) | ![:check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/check_mark_64.png) |
-| **Persistent Object** | ![:cross_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/cross_mark_64.png) | ![:cross_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/cross_mark_64.png) | ![:cross_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/cross_mark_64.png) | ![:cross_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/atlassian/cross_mark_64.png) |
+| **Source**            | **Target**                                                |                                                           |                                                           |                                                           |
+| --------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
+|                       | **Service Object**                                        | **POJO**                                                  | **Domain Object**                                         | **Persistent Object**                                     |
+| **Service Object**    | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
+| **POJO**              | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
+| **Domain Object**     | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
+| **Persistent Object** | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> |
 
 <br>
 
