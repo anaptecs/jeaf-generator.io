@@ -46,3 +46,6 @@ raw Code
 
 [https://fontawesome.com/search?o=r&m=free](https://fontawesome.com/search?o=r&m=free)
 `<i class="fa-solid fa-location-dot fa-lg"></i>`
+
+<i class="fa-solid fa-check" style="color: #008040;"></i>
+<i class="fa-solid fa-xmark" style="color: #DE3255;"></i>

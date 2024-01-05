@@ -28,9 +28,9 @@ When defining object mappings it’s also important to have a look on the table 
 | --------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
 |                       | **Service Object**                                        | **POJO**                                                  | **Domain Object**                                         | **Persistent Object**                                     |
 | **Service Object**    | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
-| **POJO**              | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
-| **Domain Object**     | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
-| **Persistent Object** | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> | <i class="fa-solid fa-xmark" style="color: #ff0000;"></i> |
+| **POJO**              | <i class="fa-solid fa-xmark" style="color: #DE3255;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
+| **Domain Object**     | <i class="fa-solid fa-xmark" style="color: #DE3255;"></i> | <i class="fa-solid fa-xmark" style="color: #DE3255;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> | <i class="fa-solid fa-check" style="color: #008040;"></i> |
+| **Persistent Object** | <i class="fa-solid fa-xmark" style="color: #DE3255;"></i> | <i class="fa-solid fa-xmark" style="color: #DE3255;"></i> | <i class="fa-solid fa-xmark" style="color: #DE3255;"></i> | <i class="fa-solid fa-xmark" style="color: #DE3255;"></i> |
 
 <br>
 
