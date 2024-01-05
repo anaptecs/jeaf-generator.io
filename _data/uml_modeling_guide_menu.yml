@@ -29,6 +29,9 @@
         - name: How to model Activities
           link: /uml-modeling-guide/how-to-model-activities
       
+        - name: How to use Java Bean Validation (JSR 380)
+          link: /uml-modeling-guide/how-to-use-java-bean-validation
+      
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
