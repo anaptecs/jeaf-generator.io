@@ -32,6 +32,9 @@
         - name: "Stereotype <code>«Ignore»</code>"
           link: /uml-modeling-guide/jmm/Ignore
       
+        - name: "Stereotypes for Java Bean Validation (JSR 380)"
+          link: /uml-modeling-guide/jmm/stereotypes-for-java-bean-validation
+      
     - name: "<b>Stereotypes for Java</b>"
       link: 
       items: 
