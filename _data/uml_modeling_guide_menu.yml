@@ -20,7 +20,7 @@
         - name: How to model POJOs
           link: /uml-modeling-guide/how-to-model-pojos
       
-        - name: How to model Domain Objectss
+        - name: How to model Domain Objects
           link: /uml-modeling-guide/how-to-model-domain-objects
       
     - name: JEAF Generator Meta Model
