@@ -32,6 +32,9 @@
         - name: How to use Java Bean Validation (JSR 380)
           link: /uml-modeling-guide/how-to-use-java-bean-validation
       
+        - name: How to publish REST Services as OpenAPI 3 specification
+          link: /uml-modeling-guide/how-to-model-open-api
+      
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
