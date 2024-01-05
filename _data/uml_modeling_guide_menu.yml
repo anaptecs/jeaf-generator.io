@@ -23,6 +23,9 @@
         - name: How to model Domain Objects
           link: /uml-modeling-guide/how-to-model-domain-objects
       
+        - name: How to model Object Mappings
+          link: /uml-modeling-guide/how-to-model-object-mappings
+      
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
