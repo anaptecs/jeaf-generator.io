@@ -17,7 +17,7 @@ Therefore the following steps need to be done:
 
 - Define one or more OpenAPI Server that are hosting your REST services
 
-- Mark the classes that should be published as OpenAPI data types
+- Mark the classes that should be published as OpenAPI types
 
 - Link your OpenAPI Specification with the packages that contain your data type definitions
 
