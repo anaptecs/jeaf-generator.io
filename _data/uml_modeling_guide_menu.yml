@@ -17,6 +17,9 @@
         - name: How to model Security Roles
           link: /uml-modeling-guide/how-to-model-security-roles
       
+        - name: How to model POJOs
+          link: /uml-modeling-guide/how-to-model-pojos
+      
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
