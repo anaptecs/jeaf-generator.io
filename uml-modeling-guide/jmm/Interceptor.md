@@ -20,7 +20,7 @@ Stereotype `«Interceptor»` is JEAF Framework specific.
 <br>
 
 For further information please refer to:
-- [How to model Components](/uml-modeling-guide/how-to-model-jeaf-components)
+- [How to model Components](/uml-modeling-guide/how-tos/how-to-model-jeaf-components)
 - [Generating Code for Components](/developer-guide/code-for-jeaf-components)
 - [JEAF Architecture Model - Interceptors](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Interceptor)
 

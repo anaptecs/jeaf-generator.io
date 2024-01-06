@@ -33,7 +33,7 @@ The diagram above shows the transformation of POJOs from the UML model (stereoty
 
 For further information please also refer to:
 
-- [How to model POJOs](/uml-modeling-guide/how-to-model-pojos)
+- [How to model POJOs](/uml-modeling-guide/how-tos/how-to-model-pojos)
 
 <br>
 

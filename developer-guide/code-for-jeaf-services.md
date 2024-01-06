@@ -21,7 +21,7 @@ In addition to the Java interface also also a so called `Service Proxy` will be 
 
 <br>For further information please also refer to:
 
-- [How to model Services APIs - How-to-model-Service-Interfaces](/uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model Services APIs - How-to-model-Service-Interfaces](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 
 <br>
 
@@ -55,7 +55,7 @@ Depending on configuration parameter `generateJacksonAnnotations` it is also sup
 
 For further information please also refer to:
 
-- [How to model Services APIs - How-to-model-Service-Objects](../../uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model Services APIs - How-to-model-Service-Objects](../../uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 
 <br>
 
@@ -84,7 +84,7 @@ Generated code for enumerations is pretty straight forward. Information from mod
 
 For further information please also refer to:
 
-- [How to model Services APIs - How-to-model-Enumerations](../../uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model Services APIs - How-to-model-Enumerations](../../uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 
 <br>
 
@@ -107,7 +107,7 @@ Depending on the defined stereotype (`«ApplicationException»` or `«SystemExce
 
 For further information please refer to:
 
-- [How to model Services APIs - How-to-model-Exceptions](../../uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model Services APIs - How-to-model-Exceptions](../../uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 
 <br>
 
@@ -132,7 +132,7 @@ Code generation for query objects is also straight forward. For every class that
 
 For further information please also refer to:
 
-- [How to model Services APIs - How-to-model-Query-Objects](../../uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model Services APIs - How-to-model-Query-Objects](../../uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 
 <br>
 
@@ -153,7 +153,7 @@ The Load Strategy Pattern can be used to optimize the amount of objects loaded a
 
 For further information please also refer to:
 
-- [How to model Services APIs - How-to-model-Load-Strategy-Objects](../../uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model Services APIs - How-to-model-Load-Strategy-Objects](../../uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 
 <br>
 

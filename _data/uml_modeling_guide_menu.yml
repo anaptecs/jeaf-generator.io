@@ -12,28 +12,28 @@
           link: /uml-modeling-guide/common-modeling-guidelines
           
         - name: How to model (REST) Services
-          link: /uml-modeling-guide/how-to-model-rest-service-apis
+          link: /uml-modeling-guide/how-tos/how-to-model-rest-service-apis
       
         - name: How to model POJOs
-          link: /uml-modeling-guide/how-to-model-pojos
+          link: /uml-modeling-guide/how-tos/how-to-model-pojos
       
         - name: How to model Domain Objects
-          link: /uml-modeling-guide/how-to-model-domain-objects
+          link: /uml-modeling-guide/how-tos/how-to-model-domain-objects
       
         - name: How to use Java Bean Validation (JSR 380)
-          link: /uml-modeling-guide/how-to-use-java-bean-validation
+          link: /uml-modeling-guide/how-tos/how-to-use-java-bean-validation
       
         - name: How to publish REST Services as OpenAPI 3 specification
-          link: /uml-modeling-guide/how-to-model-open-api
+          link: /uml-modeling-guide/how-tos/how-to-model-open-api
       
         - name: How to model Object Mappings
-          link: /uml-modeling-guide/how-to-model-object-mappings
+          link: /uml-modeling-guide/how-tos/how-to-model-object-mappings
       
         - name: How to model Security Roles
-          link: /uml-modeling-guide/how-to-model-security-roles
+          link: /uml-modeling-guide/how-tos/how-to-model-security-roles
       
         - name: How to model Activities
-          link: /uml-modeling-guide/how-to-model-activities
+          link: /uml-modeling-guide/how-tos/how-to-model-activities
       
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm

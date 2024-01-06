@@ -26,7 +26,7 @@ Object mapping between associations are not supported as this may cause heavy pe
 <br>
 
 For further information please refer to:
-- [How to model Object Mappings](/uml-modeling-guide/how-to-model-object-mappings)
+- [How to model Object Mappings](/uml-modeling-guide/how-tos/how-to-model-object-mappings)
 - [Generating Code for Object Mappings](/developer-guide/code-for-object-mappings)
 
 

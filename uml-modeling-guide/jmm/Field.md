@@ -32,7 +32,7 @@ Attributes of persistent classes which do not have stereotype `«Field»` are co
 <br>
 
 For further information please refer to:
-- [How to model Persistent Classes](/uml-modeling-guide/how-to-model-jeaf-persistence)
+- [How to model Persistent Classes](/uml-modeling-guide/how-tos/how-to-model-jeaf-persistence)
 - [Generating Code for Persistence](/developer-guide/code-for-jeaf-persistence)
 
 

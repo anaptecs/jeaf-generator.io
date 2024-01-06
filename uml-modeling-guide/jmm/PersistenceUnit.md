@@ -27,7 +27,7 @@ For further details about modelling persistence units please refer to:
 <br>
 
 For further information please refer to:
-- [How to model Persistence Units](/uml-modeling-guide/how-to-model-jeaf-persistence)
+- [How to model Persistence Units](/uml-modeling-guide/how-tos/how-to-model-jeaf-persistence)
 - [Generating Code for Persistence Units](/developer-guide/code-for-jeaf-persistence)
 
 

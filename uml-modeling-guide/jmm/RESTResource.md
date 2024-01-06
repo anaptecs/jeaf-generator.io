@@ -25,7 +25,7 @@ Please be aware that the stereotype only makes sense to be used on interfaces th
 <br>
 
 For further information please refer to:
-- [How to model REST Services](/uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model REST Services](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 - [Generating Code for REST Services](/developer-guide/code-for-jeaf-services)
 
 

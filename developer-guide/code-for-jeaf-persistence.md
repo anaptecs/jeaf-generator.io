@@ -34,7 +34,7 @@ As you can see for class `AccountPO` from the UML model the following output wil
 
 <br>
 
-For more information about how to model persistent classes please refer to [How to model Persistent Classes](/uml-modeling-guide/how-to-model-jeaf-persistence)
+For more information about how to model persistent classes please refer to [How to model Persistent Classes](/uml-modeling-guide/how-tos/how-to-model-jeaf-persistence)
 
 <br>
 

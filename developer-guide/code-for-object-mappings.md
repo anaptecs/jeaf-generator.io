@@ -25,7 +25,7 @@ The generated converter class let’s you:
 
 For further information please also refer to:
 
-- [How to model Object Mappings](/uml-modeling-guide/how-to-model-object-mappings)
+- [How to model Object Mappings](/uml-modeling-guide/how-tos/how-to-model-object-mappings)
 
 <br>
 

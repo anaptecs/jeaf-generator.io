@@ -20,7 +20,7 @@ Stereotype `«DomainObject»` is used to model domain objects. Domain objects ca
 <br>
 
 For further information please refer to:
-- [How to model Domain Objects](/uml-modeling-guide/how-to-model-domain-objects)
+- [How to model Domain Objects](/uml-modeling-guide/how-tos/how-to-model-domain-objects)
 - [Generating Code for Domain Objects](/developer-guide/code-for-domain-objects)
 - [JEAF Architecture Model - Business Object](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Business-Object)
 

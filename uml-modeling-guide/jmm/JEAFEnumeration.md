@@ -23,7 +23,7 @@ To support developers in this scenarios JEAF Generator is able to generate exten
 
 <br>
 
-For further information please refer to: - [How to model Service APIs](/uml-modeling-guide/how-to-model-rest-service-apis) - [Generating Code for Services](/developer-guide/code-for-jeaf-services)
+For further information please refer to: - [How to model Service APIs](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis) - [Generating Code for Services](/developer-guide/code-for-jeaf-services)
 
 
 <br>

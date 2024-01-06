@@ -26,7 +26,7 @@ The diagram above shows the transformation of domain objects from the UML model 
 
 For further information please refer to:
 
-- [How to model Domain Objects](/uml-modeling-guide/how-to-model-domain-objects)
+- [How to model Domain Objects](/uml-modeling-guide/how-tos/how-to-model-domain-objects)
 
 <br>
 

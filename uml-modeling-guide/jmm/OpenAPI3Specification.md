@@ -31,7 +31,7 @@ Stereotype `«OpenAPI3Specification»` can be used to mark a component as OpenAP
 <br>
 
 For further information please refer to:
-- [How to publish REST Services as OpenAPI 3 specification](/uml-modeling-guide/how-to-model-open-api)
+- [How to publish REST Services as OpenAPI 3 specification](/uml-modeling-guide/how-tos/how-to-model-open-api)
 - [Generating OpenAPI Specification](/developer-guide/generating-open-api-spec)
 
 

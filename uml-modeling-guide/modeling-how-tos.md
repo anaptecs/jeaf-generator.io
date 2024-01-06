@@ -13,20 +13,20 @@ In order to simply modeling here is a list of how-tos that should provide an int
 
 - [Common Modeling Guidelines](/uml-modeling-guide/common-modeling-guidelines/)
 
-- [How to model (REST) Services APIs](/uml-modeling-guide/how-to-model-rest-service-apis/)
+- [How to model (REST) Services APIs](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis/)
 
-- [How to model POJOs](/uml-modeling-guide/how-to-model-pojos/)
+- [How to model POJOs](/uml-modeling-guide/how-tos/how-to-model-pojos/)
 
-- [How to model Domain Objects](/uml-modeling-guide/how-to-model-domain-objects/)
+- [How to model Domain Objects](/uml-modeling-guide/how-tos/how-to-model-domain-objects/)
 
-- [How to use Java Bean Validation (JSR 380)](/uml-modeling-guide/how-to-use-java-bean-validation/)
+- [How to use Java Bean Validation (JSR 380)](/uml-modeling-guide/how-tos/how-to-use-java-bean-validation/)
 
-- [How to publish REST Services as OpenAPI 3 specification](/uml-modeling-guide/how-to-model-open-api/)
+- [How to publish REST Services as OpenAPI 3 specification](/uml-modeling-guide/how-tos/how-to-model-open-api/)
 
-- [How to model Object Mappings](/uml-modeling-guide/how-to-model-object-mappings/)
+- [How to model Object Mappings](/uml-modeling-guide/how-tos/how-to-model-object-mappings/)
 
-- [How to model Security Roles](/uml-modeling-guide/how-to-model-security-roles/)
+- [How to model Security Roles](/uml-modeling-guide/how-tos/how-to-model-security-roles/)
 
-- [How to model Activities](/uml-modeling-guide/how-to-model-activities/)
+- [How to model Activities](/uml-modeling-guide/how-tos/how-to-model-activities/)
 
 <br>

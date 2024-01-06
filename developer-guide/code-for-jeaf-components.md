@@ -47,7 +47,7 @@ As you can see in the diagram above, for every component (stereotype ) JEAF Gene
 
 For further information please also refer to:
 
-- [How to model Components](/uml-modeling-guide/how-to-model-jeaf-components)
+- [How to model Components](/uml-modeling-guide/how-tos/how-to-model-jeaf-components)
 
 <br>
 

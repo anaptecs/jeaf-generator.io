@@ -20,7 +20,7 @@ To define which information are really needed a load strategy object defines a s
 <br>
 
 For further information please refer to:
-- [How to model Load Strategy Objects](/uml-modeling-guide/how-to-model-rest-service-apis)
+- [How to model Load Strategy Objects](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
 - [Generating Code for Load Strategy Objects](/developer-guide/code-for-jeaf-services/#code-for-load-strategy-objects)
 
 

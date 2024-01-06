@@ -26,7 +26,7 @@ Stereotype `«Role»` can be used to map associations between two persistent obj
 <br>
 
 For further information please refer to:
-- [How to model Persistence Classes](/uml-modeling-guide/how-to-model-jeaf-persistence)
+- [How to model Persistence Classes](/uml-modeling-guide/how-tos/how-to-model-jeaf-persistence)
 - [Generating Code for Persistence Units](/developer-guide/code-for-jeaf-persistence)
 
 
