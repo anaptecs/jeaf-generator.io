@@ -20,7 +20,7 @@
         - name: Objects
           link: /uml-modeling-guide/how-tos/how-to-model-domain-objects
       
-        - name: How to use Java Bean Validation (JSR 380)
+        - name: Java Bean Validation (JSR 380)
           link: /uml-modeling-guide/how-tos/how-to-use-java-bean-validation
       
         - name: OpenAPI
