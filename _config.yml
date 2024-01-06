@@ -33,7 +33,7 @@ defaults:
       title: " "
       subtitle: " "
       # Image is is as preview when link is shared with somebody
-      image: /images/share_image.png
+      #image: /images/share_image.png
       toc_title: "Table of Contents"
       menubar_toc: false
       #menubar: empty_menu
