@@ -23,7 +23,7 @@ items:
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
-          Consistent and uniform code sppeds up onboarding and increase flexibility in staffing. Code generation approach also allows architectural enforcement.
+          Consistent and uniform code speeds up onboarding and increases flexibility in staffing. Code generation approach also allows architectural enforcement.
 
   - title: Increase Quality
     subtitle: Best practices / patterns are enforced by code generator
