@@ -42,7 +42,7 @@ Please also be aware that when working with persistent classes in addition to th
 
 As for other types JEAF Generator requires that persistent classes are tagged with stereotype `«PersistentObject»` so that the suitable code for persistent classes can be generated. In addition to the stereotype itself also its tagged values have to be defined.
 
-For further details about the mapping of classes to the database please refer to the description of stereotype `«PersistentObject»` where each of its tagged values is described in detail: [«Persistent Object»](/uml-modeling-guide/jmm/PersistentObject/)
+For further details about the mapping of classes to the database please refer to the description of stereotype `«PersistentObject»` where each of its tagged values is described in detail: [`«PersistentObject»`](/uml-modeling-guide/jmm/PersistentObject/)
 
 <br>
 
@@ -54,7 +54,7 @@ In addition those simple mappings it is also possible to define mappings for att
 
 - [How to model User Types](/uml-modeling-guide/how-tos/how-to-model-user-types)
 
-- [«User Type»](/uml-modeling-guide/jmm/UserType/)
+- [«UserType»](/uml-modeling-guide/jmm/UserType/)
 
 <br>
 
@@ -89,7 +89,7 @@ It is also important to know that there is a big difference between directed and
   If a association is modeled to be bidirectional then the generated code will ensure the consistency of that association in both directions.  
   Example:
   
-  - Class `A` has a bidirectional many-to-many association with class `B`. If we now add an object of class `B` to `A` then the generated code will ensure that the association form `B` to `A` is also set accordingly.  
+  - Class `A` has a bidirectional many-to-many association with class `B`. If we now add an object of class `B` to `A` then the generated code will ensure that the association form `B` to `A` is also set accordingly.  <br>
 
 - **Directed Associations**  
   In case of directed associations the references are only maintained into one direction as the association is not bidirectional.
