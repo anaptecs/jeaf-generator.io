@@ -41,6 +41,9 @@
         - name: Persistence Units
           link: /uml-modeling-guide/how-tos/how-to-model-persistence-units
           
+        - name: User Types
+          link: /uml-modeling-guide/how-tos/how-to-model-user-types
+          
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
