@@ -38,6 +38,9 @@
         - name: JEAF Persistence
           link: /uml-modeling-guide/how-tos/how-to-model-jeaf-persistence
           
+        - name: Persistence Units
+          link: /uml-modeling-guide/how-tos/how-to-model-persistence-units
+          
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
