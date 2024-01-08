@@ -1,6 +1,6 @@
 ---
 title: "UML Modeling Guide"
-subtitle: "How to model Persistence _Units"
+subtitle: "How to model Persistence Units"
 toc_title: " "
 menubar: uml_modeling_guide_menu
 ---
