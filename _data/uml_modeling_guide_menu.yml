@@ -34,7 +34,10 @@
       
         - name: Activities
           link: /uml-modeling-guide/how-tos/how-to-model-activities
-      
+          
+        - name: JEAF Persistence
+          link: /uml-modeling-guide/how-tos/how-to-model-jeaf-persistence
+          
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
       
