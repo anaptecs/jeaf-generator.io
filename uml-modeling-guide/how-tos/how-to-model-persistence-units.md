@@ -19,6 +19,6 @@ For further information please also refer to:
 
 - [Generating Code for Persistence](/developer-guide/code-for-jeaf-persistence/)
 
-- [How to model Persistence Units](/uml-modeling-guide/how-tos/how-to-model-jeaf-components/)
+- [How to model Components](/uml-modeling-guide/how-tos/how-to-model-jeaf-components/)
 
 - [«Persistence Unit»](/uml-modeling-guide/jmm/PersistenceUnit/)

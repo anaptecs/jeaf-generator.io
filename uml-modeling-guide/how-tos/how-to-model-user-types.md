@@ -17,6 +17,10 @@ The diagram above shows how to model user types. As you can see it slightly diff
 
 This user type mapping class that is defined in the stereotype has to be implemented manually. For further details about how to implement such a mapping please refer to Hibernate documentation. Also the Javadoc of classes `UserType` and `CompositeUserType` from package `org.hibernate.usertype` is a good source of information.
 
+<br>
+
 **Note:** Please be aware that usage of user types is not a JPA but a Hibernate feature.
 ![User Type Usage](/images/user_type_usage.png)
+
+
 As soon as your user type is defined it is very simple to use it. You just need to model an persistent attribute of the user type and that’s it.
