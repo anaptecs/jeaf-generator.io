@@ -22,6 +22,6 @@ For further information please also refer to:
 
 - [Generating Code for Domain Objects](/developer-guide/code-for-domain-objects/)
 
-- [«Domain Object»](/uml-modeling-guide/jmm/DomainObject/)
+- [«DomainObject»](/uml-modeling-guide/jmm/DomainObject/)
 
 - [Domain Objects vs. POJOs](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/558235669 "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/558235669")

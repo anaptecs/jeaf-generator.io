@@ -22,5 +22,4 @@ This user type mapping class that is defined in the stereotype has to be impleme
 **Note:** Please be aware that usage of user types is not a JPA but a Hibernate feature.
 ![User Type Usage](/images/user_type_usage.png)
 
-
 As soon as your user type is defined it is very simple to use it. You just need to model an persistent attribute of the user type and that’s it.

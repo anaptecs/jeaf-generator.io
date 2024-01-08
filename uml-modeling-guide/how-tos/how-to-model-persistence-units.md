@@ -23,4 +23,4 @@ For further information please also refer to:
 
 - [How to model Components](/uml-modeling-guide/how-tos/how-to-model-jeaf-components/)
 
-- [«Persistence Unit»](/uml-modeling-guide/jmm/PersistenceUnit/)
+- [«PersistenceUnit»](/uml-modeling-guide/jmm/PersistenceUnit/)

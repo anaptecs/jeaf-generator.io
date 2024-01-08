@@ -30,7 +30,7 @@ Please also be aware that when working with persistent classes in addition to th
 
 - [How to model Persistence Units](/uml-modeling-guide/how-tos/how-to-model-persistence-units)
 
-- [«Persistence Unit»](/uml-modeling-guide/jmm/PersistenceUnit/)
+- [«PersistenceUnit»](/uml-modeling-guide/jmm/PersistenceUnit/)
 
 - [Generating Code for JEAF Persistence](/developer-guide/code-for-jeaf-persistence/)
 

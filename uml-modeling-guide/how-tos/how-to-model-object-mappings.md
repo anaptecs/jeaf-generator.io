@@ -38,4 +38,4 @@ For further information please also refer to:
 
 - [Generating Code for Object Mappings](/developer-guide/code-for-object-mappings/)
 
-- [«Object Mapping»](/uml-modeling-guide/jmm/ObjectMapping/)
+- [«ObjectMapping»](/uml-modeling-guide/jmm/ObjectMapping/)

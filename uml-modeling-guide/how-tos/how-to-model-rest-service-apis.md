@@ -17,7 +17,7 @@ When modeling services there is no difference to regular interfaces. As for inte
 
 For further information please also refer to:
 
-- [«JEAF Service»](/uml-modeling-guide/jmm/JEAFService)
+- [«JEAFService»](/uml-modeling-guide/jmm/JEAFService)
 
 - [JEAF Architecture Model - Service](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Service "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Service")
 
@@ -41,7 +41,7 @@ As you can see on class Account from the example it is also possible to define o
 
 For further information please also refer to:
 
-- [«Service Object»](/uml-modeling-guide/jmm/ServiceObject)
+- [«ServiceObject»](/uml-modeling-guide/jmm/ServiceObject)
 
 - [JEAF Architecture Model - Service Object](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Service-Object "https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Service-Object")
 
@@ -59,7 +59,7 @@ The example above shows how to model enumerations. As you can see in UML model e
 
 For further information please also refer to:
 
-- [«JEAF Enumeration»](/uml-modeling-guide/jmm/JEAFEnumeration)
+- [«JEAFEnumeration»](/uml-modeling-guide/jmm/JEAFEnumeration)
 
 - [Generating Code for Enumerations](/developer-guide/code-for-jeaf-services/#code-for-enumerations)
 
@@ -83,9 +83,9 @@ Please be aware that neither attributes nor operations are supported on exceptio
 
 For further information please also refer to:
 
-- [«Application Exception»](/uml-modeling-guide/jmm/ApplicationException)
+- [«ApplicationException»](/uml-modeling-guide/jmm/ApplicationException)
 
-- [«System Exception»](/uml-modeling-guide/jmm/SystemException)
+- [«SystemException»](/uml-modeling-guide/jmm/SystemException)
 
 - [Generating Code for Exceptions](/developer-guide/code-for-jeaf-services/#code-for-exceptions)
 
@@ -105,7 +105,7 @@ In addition query objects also allow references to service objects. From a softw
 
 For further information please also refer to:
 
-- [«Query Object»](/uml-modeling-guide/jmm/QueryObject)
+- [«QueryObject»](/uml-modeling-guide/jmm/QueryObject)
 
 - [Generating Code for Query Objects](/developer-guide/code-for-jeaf-services/#code-for-query-objects)
 
@@ -125,7 +125,7 @@ Diagram above shows an example for a load strategy object. As you can see it is 
 
 For further information please also refer to:
 
-- [«Load Strategy»](/uml-modeling-guide/jmm/LoadStrategy)
+- [«LoadStrategy»](/uml-modeling-guide/jmm/LoadStrategy)
 
 - [Generating Code for Load Strategy Objects](/developer-guide/code-for-jeaf-services/#code-for-load-strategy-objects)
 
@@ -145,17 +145,17 @@ In addition to normal parameters in case of REST it is also possible to receive 
 
 For further information please refer to:
 
-- [«REST Resource»](/uml-modeling-guide/jmm/RESTResource)
+- [«RESTResource»](/uml-modeling-guide/jmm/RESTResource)
 
-- [«REST Operation»](/uml-modeling-guide/jmm/RESTOperation)
+- [«RESTOperation»](/uml-modeling-guide/jmm/RESTOperation)
 
-- [«Path Param»](/uml-modeling-guide/jmm/PathParam)
+- [«PathParam»](/uml-modeling-guide/jmm/PathParam)
 
-- [«Header Param»](/uml-modeling-guide/jmm/HeaderParam)
+- [«HeaderParam»](/uml-modeling-guide/jmm/HeaderParam)
 
-- [«Query Param»](/uml-modeling-guide/jmm/QueryParam)
+- [«QueryParam»](/uml-modeling-guide/jmm/QueryParam)
 
-- [«Cookie Param»](/uml-modeling-guide/jmm/CookieParam)
+- [«CookieParam»](/uml-modeling-guide/jmm/CookieParam)
 
 - [Generating Code for Services](/developer-guide/code-for-jeaf-services/#code-for-rest-services)
 
