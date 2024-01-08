@@ -15,6 +15,8 @@ As mentioned in section about [modelling of persistent objects](/uml-modeling-gu
 
 As you can see in the diagram above persistence units have to be model as components that are tagged with stereotype `«PersistenceUnit»`. In addition it is required to define which classes should belong to the persistence unit. Therefore dependencies to all packages that contain the persistent classes of the persistence unit need to be added to the model.
 
+<br>
+
 For further information please also refer to:
 
 - [Generating Code for Persistence](/developer-guide/code-for-jeaf-persistence/)
