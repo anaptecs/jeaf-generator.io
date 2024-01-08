@@ -35,6 +35,9 @@
         - name: Activities
           link: /uml-modeling-guide/how-tos/how-to-model-activities
           
+        - name: JEAF Components
+          link: /uml-modeling-guide/how-tos/how-to-model-jeaf-components
+          
         - name: JEAF Persistence
           link: /uml-modeling-guide/how-tos/how-to-model-jeaf-persistence
           
