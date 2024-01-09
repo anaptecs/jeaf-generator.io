@@ -11,7 +11,7 @@
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
 
-    - name: "<li>Common Stereotypes"
+    - name: "   Common Stereotypes"
       link: 
       items: 
         - name: "Stereotype <code>«Alias»</code>"
