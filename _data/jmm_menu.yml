@@ -11,7 +11,7 @@
     - name: JEAF Generator Meta Model
       link: /uml-modeling-guide/jmm
 
-    - name: "   Common Stereotypes"
+    - name: "Common Stereotypes"
       link: 
       items: 
         - name: "Stereotype <code>«Alias»</code>"
@@ -35,7 +35,7 @@
         - name: "Stereotypes for Java Bean Validation (JSR 380)"
           link: /uml-modeling-guide/jmm/stereotypes-for-java-bean-validation
       
-    - name: "- Stereotypes for Java"
+    - name: "Stereotypes for Java"
       link: 
       items: 
         - name: "Stereotype <code>«POJO»</code>"
@@ -77,7 +77,7 @@
         - name: "Stereotype <code>«SystemException»</code>"
           link: /uml-modeling-guide/jmm/SystemException
       
-    - name: "- Stereotypes for Services / REST"
+    - name: "Stereotypes for Services / REST"
       link: 
       items: 
         - name: "Stereotype <code>«JEAFService»</code>"
@@ -116,7 +116,7 @@
         - name: "Stereotype <code>«JEAFActivity»</code>"
           link: /uml-modeling-guide/jmm/JEAFActivity
       
-    - name: "- Stereotypes for OpenAPI"
+    - name: "Stereotypes for OpenAPI"
       link: 
       items: 
         - name: "Stereotype <code>«DefaultLiteral»</code>"
@@ -173,7 +173,7 @@
         - name: "Stereotype <code>«Ordered»</code>"
           link: /uml-modeling-guide/jmm/Ordered
       
-    - name: "- Stereotypes for Jackson (JSON)"
+    - name: "Stereotypes for Jackson (JSON)"
       link: 
       items: 
         - name: "Stereotype <code>«ObjectMapperFactory»</code>"
@@ -183,7 +183,7 @@
           link: /uml-modeling-guide/jmm/ModuleFactory
       
       
-    - name: "- Stereotypes for JEAF Framework"
+    - name: "Stereotypes for JEAF Framework"
       link: 
       items: 
         - name: "Stereotype <code>«Interceptor»</code>"
@@ -199,7 +199,7 @@
           link: /uml-modeling-guide/jmm/JEAFServiceProviderImpl
       
       
-    - name: "- Stereotypes for JPA Persistence"
+    - name: "Stereotypes for JPA Persistence"
       link: 
       items: 
         - name: "Stereotype <code>«PersistentObject»</code>"
