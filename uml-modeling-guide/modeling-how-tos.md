@@ -29,4 +29,12 @@ In order to simply modeling here is a list of how-tos that should provide an int
 
 - [How to model Activities](/uml-modeling-guide/how-tos/how-to-model-activities/)
 
+- [How to model JEAF Components](/uml-modeling-guide/how-tos/how-to-model-jeaf-components)
+
+- [How to model JEAF Persistence](/uml-modeling-guide/how-tos/how-to-model-jeaf-persistence)
+
+- [How to model Persistence Units](/uml-modeling-guide/how-tos/how-to-model-persistence-units)
+
+- [How to model User Types](/uml-modeling-guide/how-tos/how-to-model-user-types)
+
 <br>
