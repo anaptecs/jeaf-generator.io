@@ -1,0 +1,55 @@
+- items:
+    - name: UML Modeling Guide
+      link: /uml-modeling-guide
+
+    - name: Introduction to model-driven software development
+      link: /uml-modeling-guide/model-driven-software-development
+      
+    - name: Modeling How-Tos
+      link: /uml-modeling-guide/modeling-how-tos
+      items:
+        - name: Common Modeling Guidelines
+          link: /uml-modeling-guide/common-modeling-guidelines
+          
+        - name: (REST) Services
+          link: /uml-modeling-guide/how-tos/how-to-model-rest-service-apis
+      
+        - name: POJOs
+          link: /uml-modeling-guide/how-tos/how-to-model-pojos
+      
+        - name: Objects
+          link: /uml-modeling-guide/how-tos/how-to-model-domain-objects
+      
+        - name: Java Bean Validation (JSR 380)
+          link: /uml-modeling-guide/how-tos/how-to-use-java-bean-validation
+      
+        - name: OpenAPI
+          link: /uml-modeling-guide/how-tos/how-to-model-open-api
+      
+        - name: Object Mappings
+          link: /uml-modeling-guide/how-tos/how-to-model-object-mappings
+      
+        - name: Security Roles
+          link: /uml-modeling-guide/how-tos/how-to-model-security-roles
+      
+        - name: Activities
+          link: /uml-modeling-guide/how-tos/how-to-model-activities
+          
+        - name: JEAF Components
+          link: /uml-modeling-guide/how-tos/how-to-model-jeaf-components
+          
+        - name: JEAF Persistence
+          link: /uml-modeling-guide/how-tos/how-to-model-jeaf-persistence
+          
+        - name: Persistence Units
+          link: /uml-modeling-guide/how-tos/how-to-model-persistence-units
+          
+        - name: User Types
+          link: /uml-modeling-guide/how-tos/how-to-model-user-types
+          
+    - name: JEAF Generator Meta Model
+      link: /uml-modeling-guide/jmm
+      
+    - name: UML Modeling Tools
+      link: /uml-modeling-guide/uml-modeling-tools
+      

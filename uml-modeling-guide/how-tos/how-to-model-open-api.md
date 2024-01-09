@@ -2,7 +2,7 @@
 title: "UML Modeling Guide"
 subtitle: "How to publish REST Services as OpenAPI 3 specification"
 toc_title: " "
-menubar: uml_modeling_guide_menu
+menubar: how_to_menu
 ---
 
 # How to publish REST Services as OpenAPI 3 specification

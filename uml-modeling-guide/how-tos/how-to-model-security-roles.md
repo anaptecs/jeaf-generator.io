@@ -2,7 +2,7 @@
 title: "UML Modeling Guide"
 subtitle: "How to model Security Roles"
 toc_title: " "
-menubar: uml_modeling_guide_menu
+menubar: how_to_menu
 ---
 
 # How to model Security Roles
@@ -14,8 +14,6 @@ further simplification these roles can already be defined in the UML model and J
 ![Security Roles](/images/security_roles.png)
 
 The diagram above shows how to model roles in the UML model. Again definition of roles is very simple. All you need is to define an actor representing the role. This actor has to be marked with stereotype `«JEAF Actor»`. In order to define which service operations are allowed to be used you can either define a dependency to a service interface or to service operations. If you model a dependency to a service interface then the role will have access to all its operations. In case that new operations will be added then authorization will be also granted to them.
-
-
 
 For further information please also refer to:
 

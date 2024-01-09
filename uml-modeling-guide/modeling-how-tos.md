@@ -2,7 +2,7 @@
 title: "UML Modeling Guide"
 subtitle: "Modeling How-Tos"
 toc_title: " "
-menubar: uml_modeling_guide_menu
+menubar: how_to_menu
 ---
 
 # Modeling How-Tos

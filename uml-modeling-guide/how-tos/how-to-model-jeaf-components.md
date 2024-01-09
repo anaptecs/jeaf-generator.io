@@ -2,7 +2,7 @@
 title: "UML Modeling Guide"
 subtitle: "How to model Activities"
 toc_title: " "
-menubar: uml_modeling_guide_menu
+menubar: how_to_menu
 ---
 
 # How to model JEAF Components
@@ -84,5 +84,3 @@ For further information please also refer to:
 - [How to model Persistence Units](/uml-modeling-guide/how-tos/how-to-model-persistence-units/)
 
 - [«PersistenceUnit»](/uml-modeling-guide/jmm/PersistenceUnit/)
-
-
