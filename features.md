@@ -101,7 +101,7 @@ Currently the following UML modeling tools are supported: <sup>1)</sup>
 
 <br>
 
-## JAP / Hibernate
+## JPA / Hibernate
 
 | Features                                  | Description          | Additional Information |
 | ----------------------------------------- | -------------------- | ---------------------- |
