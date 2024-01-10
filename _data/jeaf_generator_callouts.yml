@@ -10,7 +10,7 @@ items:
           Developers can concentrate on business logic and are less occupied with technical topics. JEAF Generator takes care about boiler blade code.
 
   - title: Master Complexity
-    subtitle: Higher level of abstraction ensures better overview and consistency
+    subtitle: "<i>Higher level of abstraction ensures better overview and consistency</i>"
     icon: fa-brain
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
@@ -18,7 +18,7 @@ items:
           Model-driven approach will lead to an higher level of abstraction. This will ensure a better overview and consistency. And so, complexity can be handled better.
 
   - title: Consistent and Uniform Code
-    subtitle: Guidelines are ensured by code generator
+    subtitle: "<i>Guidelines are ensured by code generator</i>"
     icon: fa-code
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
@@ -26,7 +26,7 @@ items:
           Consistent and uniform code speeds up onboarding and increases flexibility in staffing. Code generation approach also allows architectural enforcement.
 
   - title: Increase Quality
-    subtitle: Best practices / patterns are enforced by code generator
+    subtitle: "<i>Best practices / patterns are enforced by code generator</i>"
     icon: fa-bug
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
@@ -34,7 +34,7 @@ items:
           JEAF Generator ensures high code quality. Changes / fixes can be rolled out very quickly over the whole application. Less testing as generated code is considered to be correct ;-)
 
   - title: Better Documentation
-    subtitle: Less outdated documentation
+    subtitle: "<i>Less outdated documentation</i>"
     icon: fa-book-open
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
