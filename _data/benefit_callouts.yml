@@ -1,0 +1,51 @@
+style: is-light
+height: is-medium
+items:
+  - title: Boost Efficency of your Team
+    subtitle: "<i>Unburden developers from writing boiler blade code</i>"
+    icon: fa-rocket
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Developers can concentrate on business logic and are less occupied with technical topics. JEAF Generator takes care about boiler blade code.
+
+  - title: Master Complexity
+    subtitle: "<i>Higher level of abstraction ensures better overview and consistency</i>"
+    icon: fa-brain
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Model-driven approach will lead to an higher level of abstraction. This will ensure a better overview and consistency. And so, complexity can be handled better.
+
+  - title: Consistent and Uniform Code
+    subtitle: "<i>Guidelines are ensured by code generator</i>"
+    icon: fa-code
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Consistent and uniform code speeds up onboarding and increases flexibility in staffing. Code generation approach also allows architectural enforcement.
+
+  - title: Increase Quality
+    subtitle: "<i>Best practices / patterns are enforced by code generator</i>"
+    icon: fa-bug
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          JEAF Generator ensures high code quality. Changes / fixes can be rolled out very quickly over the whole application. Less testing as generated code is considered to be correct ;-)
+
+  - title: Better Documentation
+    subtitle: "<i>Less outdated documentation</i>"
+    icon: fa-book-open
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          UML model and code are in sync. Developers benefit from documentation in UML as it is also present in code and will be automatically updated.
+
+  - title: Separation of Concerns
+    subtitle: "<i>Strict separation between technical and business aspects</i>"
+    icon: fa-cubes
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          JEAF Generator helps you to have a strict separation between technical aspects of your code and business functionality.
+          
