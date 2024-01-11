@@ -7,7 +7,7 @@ menubar: uml_modeling_guide_menu
 
 # UML Modeling Guide
 
-This guide defines the UML modeling rules for projects using JEAF Generator. Purpose of this guide is to ensure a consistent, complete and high quality UML model. When using JEAF Generator it is mandatory to have such a high quality UML model as it is used as input for code generation. Benefit of this approach is to unburden developers from error-prone tasks like writing boiler blade code.
+This guide defines the UML modeling rules for projects using JEAF Generator. Purpose of this guide is to ensure a consistent, complete and high quality UML model. When using JEAF Generator it is mandatory to have such a high quality UML model as it is used as input for code generation. Benefit of this approach is to free developers from error-prone tasks like writing boiler blade code.
 
 <br>
 

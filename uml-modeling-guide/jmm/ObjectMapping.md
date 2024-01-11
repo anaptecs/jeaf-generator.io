@@ -6,7 +6,7 @@ menubar: jmm_menu
 ---
 
 # Stereotype `«ObjectMapping»`
-JEAF Generator offers the possibility to unburden developers from error-prawn and boring job of mapping objects from one into another. To do so, a so called object mapping can be defined in the UML model by defining dependencies between attributes using stereotype `«ObjectMapping»`. 
+JEAF Generator offers the possibility to free developers from error-prawn and boring job of mapping objects from one into another. To do so, a so called object mapping can be defined in the UML model by defining dependencies between attributes using stereotype `«ObjectMapping»`. 
 
 Object mappings distinguish between creating, updating and reading of objects. As you will see below, behavior of an object mapping can be defined for each of the cases. Besides attributes it’s also possible that operations are the target of an object mapping. Please see the explanation below on the cases when usage of operations as source and / or target is supported.
 

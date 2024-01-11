@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: Boost Efficency of your Team
-    subtitle: "<i>Unburden developers from writing boiler blade code</i>"
+    subtitle: "<i>Free developers from writing boiler blade code</i>"
     icon: fa-rocket
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency

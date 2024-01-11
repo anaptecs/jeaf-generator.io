@@ -8,7 +8,7 @@ menubar: how_to_menu
 
 # How to model Object Mappings
 
-JEAF Generator offers the possibility to unburden developers from error-prawn and boring job of mapping objects from one into another. To do so, a so called object mapping can be defined in the UML model by defining dependencies between attributes using stereotype `«ObjectMapping»`. Object mappings distinguish between creating, updating and reading of objects. As you will see below behavior of an object mapping can be defined for each of the cases.
+JEAF Generator offers the possibility to free developers from error-prawn and boring job of mapping objects from one into another. To do so, a so called object mapping can be defined in the UML model by defining dependencies between attributes using stereotype `«ObjectMapping»`. Object mappings distinguish between creating, updating and reading of objects. As you will see below behavior of an object mapping can be defined for each of the cases.
 
 ![Object Mapping](/images/object-mapping.png)
 
