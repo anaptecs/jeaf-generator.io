@@ -23,7 +23,7 @@ items:
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
-          Consistent and uniform code speeds up onboarding and increases flexibility in staffing. Code generation approach also allows architectural enforcement.
+          Best Practices / Patterns / Guidelines are be enforced through code generator. 
 
   - title: Increase Quality
     subtitle: "<i>Best practices / patterns are enforced by code generator</i>"
@@ -48,4 +48,20 @@ items:
     #call_to_action_link: why/efficency
     description: >
           JEAF Generator helps you to have a strict separation between technical aspects of your code and business functionality.
+          
+  - title: Architectural Enforcement
+    subtitle: "<i>Code generation approach also allows architectural enforcement</i>"
+    icon: fa-cubes
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Best Practices / Patterns can be enforced through code generator.
+
+  - title: More flexible Staffing
+    subtitle: "<i>Uniform code base simplifies switching of team members among teams</i>"
+    icon: fa-cubes
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Consistent and uniform code speeds up onboarding of new team members and increases flexibility in staffing.
           
