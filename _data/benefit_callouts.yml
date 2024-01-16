@@ -51,7 +51,7 @@ items:
           
   - title: Architectural Enforcement
     subtitle: "<i>Code generation approach also allows architectural enforcement</i>"
-    icon: fa-cubes
+    icon: fa-road
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
@@ -59,7 +59,7 @@ items:
 
   - title: More flexible Staffing
     subtitle: "<i>Uniform code base simplifies switching of team members among teams</i>"
-    icon: fa-cubes
+    icon: fa-users-line
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
