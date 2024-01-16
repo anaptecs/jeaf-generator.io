@@ -31,7 +31,7 @@ items:
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
-          Using UML models and JEAF Generator you can define your business logic independent from technologies. JEAF Generator will use your UML model and takes care about code generation for your target platform like Spring or JakartaEE / JavaEE.
+          Using UML models you can define your business logic independent from technologies. JEAF Generator will use your UML model and takes care about code generation for your target platform like Spring or JakartaEE / JavaEE.
 
   - title: Speed up delivery of security patches and fixes
     subtitle: "<i>Easy rollout of security patches, bugfixes and technical improvements over all teams</i>"
