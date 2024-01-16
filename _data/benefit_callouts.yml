@@ -25,6 +25,14 @@ items:
     description: >
           Best Practices / Patterns / Guidelines are be enforced through code generator. 
 
+  - title: Technology Independence
+    subtitle: "<i>Define your business logic independent from technologies</i>"
+    icon: fa-shuffle
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Using UML models and JEAF Generator you can define your business logic independent from technologies. JEAF Generator will use your UML model and takes care about code generation for your target platform like Spring or JakartaEE / JavaEE.
+
   - title: Increase Quality
     subtitle: "<i>Best practices / patterns are enforced by code generator</i>"
     icon: fa-bug
