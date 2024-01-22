@@ -33,7 +33,7 @@ In order to ensure a strict separation between generated and hand-written code a
 
 - `res-test`<br>This slot contains test resources that will not be overwritten by a subsequent run of JEAF Generator.<br><br>
 
-Of course it’s possible to configure a concrete directory for each of these output slots according to your project settings. For further details about path configuration please see: [Common section of Maven Plugin Configuration](/developer-guide/maven-plugin-configuration)
+Of course it’s possible to configure a concrete directory for each of these output slots according to your project settings. For further details about path configuration please see: [Common Configuration Parameter section of Maven Plugin Configuration](/developer-guide/maven-plugin-configuration)
 
 <br>
 
