@@ -25,13 +25,29 @@ items:
     description: >
           Best Practices / Patterns / Guidelines are be enforced through code generator. 
 
-  - title: Increase Quality
-    subtitle: "<i>Best practices / patterns are enforced by code generator</i>"
+  - title: Technology Independence
+    subtitle: "<i>Define your business logic independent from technologies</i>"
+    icon: fa-shuffle
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Using UML models you can define your business logic independent from technologies. JEAF Generator will use your UML model and takes care about code generation for your target platform like Spring or JakartaEE / JavaEE.
+
+  - title: Speed up delivery of security patches and fixes
+    subtitle: "<i>Easy rollout of security patches, bugfixes and technical improvements over all teams</i>"
     icon: fa-bug
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
-          JEAF Generator ensures high code quality. Changes / fixes can be rolled out very quickly over the whole application. Less testing as generated code is considered to be correct ;-)
+          Changes / fixes can be rolled out very quickly over the whole application.
+
+  - title: Increase Quality
+    subtitle: "<i>JEAF Generator ensures high code quality</i>"
+    icon: fa-medal
+    #call_to_action_name: Find out more
+    #call_to_action_link: why/efficency
+    description: >
+          Less testing as generated code is considered to be correct ;-)
 
   - title: Better Documentation
     subtitle: "<i>Less outdated documentation</i>"
@@ -42,7 +58,7 @@ items:
           UML model and code are in sync. Developers benefit from documentation in UML as it is also present in code and will be automatically updated.
 
   - title: Separation of Concerns
-    subtitle: "<i>Strict separation between technical and business aspects</i>"
+    subtitle: "<i>Technical aspects no longer pollute our business code</i>"
     icon: fa-cubes
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
@@ -51,7 +67,7 @@ items:
           
   - title: Architectural Enforcement
     subtitle: "<i>Code generation approach also allows architectural enforcement</i>"
-    icon: fa-cubes
+    icon: fa-road
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
@@ -59,7 +75,7 @@ items:
 
   - title: More flexible Staffing
     subtitle: "<i>Uniform code base simplifies switching of team members among teams</i>"
-    icon: fa-cubes
+    icon: fa-users-line
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
