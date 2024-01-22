@@ -25,6 +25,14 @@ In order to ensure a strict separation between generated and hand-written code a
   
   Usually this slot will point to your standard resource location.  <br><br>
 
+- `src-test-gen`<br>This slot contains all the generated test sources.<br>
+
+- `src-test`<br>This slot contains test source that will not be overwritten by a subsequent run of JEAF Generator.<br>
+
+- `res-test-gen`<br>This slot contains all the generated test resources.<br>
+
+- `res-test`<br>This slot contains test resources that will not be overwritten by a subsequent run of JEAF Generator.<br>
+
 Of course it’s possible to configure a concrete directory for each of these output slots according to your project settings.
 
 <br>
