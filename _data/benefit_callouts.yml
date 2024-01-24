@@ -26,7 +26,7 @@ items:
           Best Practices / Patterns / Guidelines are be enforced through code generator. 
 
   - title: Technology Independence
-    subtitle: "<i>Define your business logic independent from technologies</i>"
+    subtitle: "<i>Define and implement your business logic independent from technologies</i>"
     icon: fa-shuffle
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
