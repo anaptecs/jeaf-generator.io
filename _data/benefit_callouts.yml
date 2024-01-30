@@ -74,12 +74,12 @@ items:
           Best Practices / Patterns can be enforced through code generator.
 
   - title: Add Custom Templates
-    subtitle: "<i>Extends JEAF Generator with your own templates</i>"
+    subtitle: "<i>Extend JEAF Generator with your own templates</i>"
     icon: fa-trowel-bricks
     #call_to_action_name: Find out more
     #call_to_action_link: why/efficency
     description: >
-          Make use of UML model and use custom code templates to further more simplify your development process
+          Use UML model and custom code templates to accelerate your development process even more.
 
   - title: More flexible Staffing
     subtitle: "<i>Uniform code base simplifies switching of team members among teams</i>"
