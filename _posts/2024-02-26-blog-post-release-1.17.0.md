@@ -12,4 +12,4 @@ menubar: empty_menu
 
 # Version 1.17.0 (2024-02-26) released
 
-For further details please check [release notes](https://github.com/anaptecs/jeaf-generator/releases/tag/v1.17.0)
+For further details please check [release notes](https://github.com/anaptecs/jeaf-generator/discussions/74)
