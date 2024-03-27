@@ -6,7 +6,7 @@ description: Use UML models to generate code for Spring, REST, OpenAPI, Java, Ja
 image: /images/share_image.png
 layout: page
 menubar_toc: false
-show_sidebar: true
+show_sidebar: false
 menubar: empty_menu
 hero_image: /images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
