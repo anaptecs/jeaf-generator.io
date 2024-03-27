@@ -15,3 +15,6 @@
 
 - name: Releases
   link: https://github.com/anaptecs/jeaf-generator/releases
+
+- name: ":github:"
+  link: https://github.com/anaptecs/jeaf-generator
