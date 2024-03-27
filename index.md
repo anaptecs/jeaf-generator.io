@@ -7,7 +7,7 @@ image: /images/share_image.png
 layout: page
 menubar_toc: false
 show_sidebar: false
-#menubar: empty_menu
+menubar: empty_menu
 hero_image: /images/jeaf_emotions.png
 callouts: jeaf_generator_callouts
 ---
