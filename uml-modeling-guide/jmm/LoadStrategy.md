@@ -6,7 +6,7 @@ menubar: jmm_menu
 ---
 
 # Stereotype `«LoadStrategy»`
-Stereotype `«Load Strategy»` is used to model so called load strategy objects. They can be used to tell a service which information should be returned. Usage of load strategy pattern usually only makes sense when a rather big mesh of objects can be returned by a service. In such cases clients might not need all the information that will be returned. Using load strategy pattern clients can define the information they are expecting. 
+Stereotype `«Load Strategy»` is used to model so called load strategy objects. They can be used to tell a service which information should be returned. Usage of load strategy pattern usually only makes sense when a rather big mesh of objects can be returned by a service. In such cases clients might not need all the information that will be returned. Using load strategy pattern clients can define the information they are expecting.
 
 To define which information are really needed a load strategy object defines a set of `boolean` fields representing parts of the service object model that might be returned by the service.
 

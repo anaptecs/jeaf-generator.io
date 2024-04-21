@@ -6,7 +6,7 @@ menubar: jmm_menu
 ---
 
 # Stereotype `«Identifiable»`
-Stereotype «Identifiable» can be used to mark a class to have an ID.
+Stereotype `«Identifiable»` can be used to mark a class to have an ID.
 
 <br>
 

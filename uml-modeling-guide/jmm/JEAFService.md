@@ -18,8 +18,8 @@ Stereotype `«JEAFService»` is used to model services. The stereotype does not 
 <br>
 
 For further information please also refer to: 
-- [How to model Service Interfaces](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis)  
-- [Generating Code for Services](/developer-guide/code-for-jeaf-services/) 
+- [How to model Service Interfaces](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis)
+- [Generating Code for Services](/developer-guide/code-for-jeaf-services/)
 - [JEAF Architecture Model - Service](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/515276970/JEAF+Architecture+Model#Service)
 
 

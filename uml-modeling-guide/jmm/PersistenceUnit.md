@@ -8,10 +8,7 @@ menubar: jmm_menu
 # Stereotype `«PersistenceUnit»`
 Java Persistence API (JPA) defines so called persistence units. They are used to put a bunch of persistence objects together. All persistent classes within the same persistence unit share the same database connection and transaction.
 
-Stereotype `«PersistenceUnit»` can be used to define a persistence unit. Therefore the persistence unit has to reference the packages from which the unit should be build up. JEAF Components that want to make use of classes of a persistence unit need to define a dependency to it. 
-
-For further details about modelling persistence units please refer to:
--  [How to model Persistence Units](/uml-modeling-guide/how-to-model-jeaf-persistence).
+Stereotype `«PersistenceUnit»` can be used to define a persistence unit. Therefore the persistence unit has to reference the packages from which the unit should be build up. JEAF Components that want to make use of classes of a persistence unit need to define a dependency on it.
 
 <br>
 

@@ -6,7 +6,7 @@ menubar: jmm_menu
 ---
 
 # Stereotype `«BreakingChange»`
-Stereotype `«BreakingChange»` can be used to mark model elements that are a breaking change compared to a previous version. 
+Stereotype `«BreakingChange»` can be used to mark model elements that are a breaking change compared to a previous version.
 
 This is especially useful when you are working with semantic versioning approach. Using this stereotype you can then mark elements that break backward compatibility.
 

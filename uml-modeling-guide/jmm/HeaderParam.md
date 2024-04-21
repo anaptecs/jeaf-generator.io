@@ -20,7 +20,7 @@ Stereotype `«HeaderParam»` is used to mark that a parameter of a REST operatio
 
 <br>
 
-For further information please refer to:
+For further information please refer to: 
 - [`«REST Resource»`](/uml-modeling-guide/jmm/RESTResource) 
 - [`«REST Operation»`](/uml-modeling-guide/jmm/RESTOperation) 
 - [How to model REST Services](/uml-modeling-guide/how-tos/how-to-model-rest-service-apis) 

@@ -6,7 +6,7 @@ menubar: jmm_menu
 ---
 
 # Stereotype `«SecurityRole»`
-According to [JEAF Security](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729) the authorization to call a specific method of a service will be grouped to roles for better maintainability. JEAF Generator support to defines roles already in the UML model. 
+According to [JEAF Security](https://anaptecs.atlassian.net/wiki/spaces/JEAF/pages/546210729) the authorization to call a specific method of a service will be grouped to roles for better maintainability. JEAF Generator support to defines roles already in the UML model.
 
 Therefore actors in the UML model can be annotated with stereotype `«SecurityRole»`.
 
@@ -24,9 +24,6 @@ Therefore actors in the UML model can be annotated with stereotype `«SecurityRo
 For further information please refer to:
 - [How to model Actors / Roles](/uml-modeling-guide/how-tos/how-to-model-security-roles)
 - [Generating Code for Actors / Roles and Authorizations](/developer-guide/code-for-jeaf-security)
-
-
-
 
 
 <br>
