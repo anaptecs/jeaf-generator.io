@@ -78,6 +78,20 @@ this will lead to a `getXYZ( )` operation that has to be implemented manually.
 
 <br>
 
+## Java Collections vs. Arrays
+
+By default JEAF Generator has the following behavior concerning multivalued properties:
+
+* If a multivalued property belongs to an association then Java Collection classes are used to express the association from the UML model in Java (for further details about concrete collection type see next paragraph)
+
+* If a multivalued property does not belong to an association (is directly modeled as property of a class only) then JEAF Generator will use arrays 
+
+<br>
+
+This defaullt behavior can be overwritten in Maven configuration by setting parameter `useArraysOnlyForPrimitives` to `true`. In this case only for Java primitives (not Wrappers) arrays will be used.
+
+<br>
+
 ## Usage of Java Collection Types
 
 When modeling an association between classes then inside the UML model already its multiplicity will be defined. If the multiplicity is `0..*` or `1..*` then in the generated code some kind of Java Collection class is expected to be generated. As there are many types of Collection classes the table below will explain how the information from the model will be used the find the best matching Java Collection type.
