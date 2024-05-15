@@ -3,7 +3,7 @@ _emotions# theme: jekyll-theme-minimal
 title: JEAF Generator
 description: JEAF Generator uses UML models to generate code for Spring, REST, Java, JakartaEE, JEE, Hibernate and others
 
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
