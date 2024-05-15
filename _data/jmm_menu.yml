@@ -62,6 +62,9 @@
         - name: "Stereotype <code>«SoftLink»</code>"
           link: /uml-modeling-guide/jmm/SoftLink
       
+        - name: "Stereotype <code>«DefaultOperation»</code>"
+          link: /uml-modeling-guide/jmm/DefaultOperation
+      
         - name: "Stereotype <code>«CompositeDataTypePublicField»</code>"
           link: /uml-modeling-guide/jmm/CompositeDataTypePublicField
       
@@ -181,6 +184,9 @@
       
         - name: "Stereotype <code>«ModuleFactory»</code>"
           link: /uml-modeling-guide/jmm/ModuleFactory
+      
+        - name: "Stereotype <code>«AddToJSON»</code>"
+          link: /uml-modeling-guide/jmm/AddToJSON
       
       
     - name: "<b>Stereotypes for JEAF Framework</b>"
