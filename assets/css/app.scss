@@ -1,5 +1,5 @@
----
----
+//---
+//---
 //$turquoise: #B92132;
 //$primary: #B92132;
 //$family-sans-serif: -apple-system, "Open Sans", "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
@@ -12,7 +12,7 @@
 //$cyan: #F39601;
 
 // Reduce padding, otherwise embeded code via emgit looks ugly.
-.content table td.hljs-ln-line, .content table th.hljs-ln-line { padding: .0em .75em; }
+//.content table td.hljs-ln-line, .content table th.hljs-ln-line { padding: .0em .75em; }
 
 // Import Main CSS file from theme
 @import "main";
