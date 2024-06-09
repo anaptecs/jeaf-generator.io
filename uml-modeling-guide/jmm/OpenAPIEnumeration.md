@@ -21,6 +21,7 @@ To support developers in this scenarios JEAF Generator is able to generate exten
 | **Tagged Values**       |                       |                                                                                                                                                                                                          |
 | **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
 | `extensibleEnum`   | `Boolean` | If set to `true` the enumeration is an extensible enum.<br><br>Default value: `false` |
+| `hasDynamicLiterals`   | `Boolean` | Typically enumeration literals are directly defined on an enumeration in the UML model. However, there might be cases where the literals should be resolved from somewhere else.<br><br>For such cases JEAF Generator allows to dynamically resolve literals. Therefore, in addition to setting this tag to `true` also  `jeafgenerator/api/OpenAPIEnumExtensionPoint.ext` has to be implemented. There the dynamic literals have to be returned by function `List[String] getDynamicLiteralNames(JMM::OpenAPIEnumeration enum)`.<br><br>It is also supported to mix model defined and dynamic literals. |
 
 
 
