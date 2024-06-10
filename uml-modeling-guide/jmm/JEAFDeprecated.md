@@ -18,6 +18,8 @@ Deprecations are markers that indicate that a specific model element should not 
 | `description`   | `String` | Explanation which the element is deprecated and what should be done as an alternative. |
 | `since`   | `String` | Information since when a model element is deprecated e.g. a concrete version or data. |
 | `removedWith`   | `String` | Information when the deprecated element will no longer be available e.g. a version or date. |
+| `generateBackwardCompatibility`   | `Boolean` | JEAF Generator supports developers ensuring backward compatibility of deprecations on Java and JSON level. <br><br>This mechanism has to be activated for each deprecation separately using this flag. In addition the name of the successor property has to be provided using tag `successorName`. |
+| `successorName`   | `String` | Name of the property that should be used instead of this one. Setting this value is only required in case that you want backward compatibility to be generated. |
 
 
 
