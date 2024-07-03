@@ -188,6 +188,9 @@
         - name: "Stereotype <code>«AddToJSON»</code>"
           link: /uml-modeling-guide/jmm/AddToJSON
       
+        - name: "Stereotype <code>«JSONAlias»</code>"
+          link: /uml-modeling-guide/jmm/JSONAlias
+      
       
     - name: "<b>Stereotypes for JEAF Framework</b>"
       link: 

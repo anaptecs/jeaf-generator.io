@@ -12,7 +12,7 @@ Deprecations are markers that indicate that a specific model element should not 
 
 | **Stereotype**          | `«JEAFDeprecated»` | |
 | ----------------------- | -------------- | |
-| **Applicable Elements** | `NamedElement`        |
+| **Applicable Elements** | `Element`        |
 | **Tagged Values**       |                       |                                                                                                                                                                                                          |
 | **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
 | `description`   | `String` | Explanation which the element is deprecated and what should be done as an alternative. |
