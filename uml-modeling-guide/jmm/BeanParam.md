@@ -9,7 +9,6 @@ menubar: jmm_menu
 Stereotype `«BeanParam»` is used to mark a class or parameter as so called bean parameter. Bean parameters can be used to group REST parameters together.
 
 This has mainly two benefits:
-
 - Instead of defining the same set of parameters for every REST operation over and over again you can just use the bean parameter instead. This is a great help to keep the parameters of your REST services consistent among all operations.
 
 - When it comes to code generation for Java service interfaces the bean parameter class is used as parameter of the operation instead of the individual parameters. This helps to have clearer interfaces and also ensure a better maintainability

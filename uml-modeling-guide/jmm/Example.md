@@ -6,7 +6,7 @@ menubar: jmm_menu
 ---
 
 # Stereotype `«Example»`
-Stereotype `«Example»` can be used to add example values to properties in the UML model. These example values will be added to OpenAPI specifications and to Java code.
+Stereotype `«Example»` can be used to add example values to properties in the UML model. These example values will be added to OpenAPI specifications and to Java code as comment.
 
 <br>
 

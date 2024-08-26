@@ -6,7 +6,7 @@ menubar: jmm_menu
 ---
 
 # Stereotype `«AddToJSON»`
-Stereotype `«JSONProperty»` is intended to be used for derived properties. By default they are not represented in the JSON representation of an object. Using this property however it is possible to add derived properties also to JSON and OpenAPI specification of a type.
+Stereotype `«AddToJSON»` is intended to be used for derived properties. By default they are not represented in the JSON representation of an object. Using this property however it is possible to add derived properties also to JSON and OpenAPI specification of a type.
 
 <br>
 
