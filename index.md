@@ -36,7 +36,7 @@ For further details please have a look on [**JEAF Generator's feature list**](/f
 
 # Why JEAF Generator?
 
-* Boost Efficency of your Team
+* Boost Efficiency of your Team
 
 * Master Complexity
 
