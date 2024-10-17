@@ -36,7 +36,20 @@ For further details please have a look on [**JEAF Generator's feature list**](/f
 
 # Why JEAF Generator?
 
-Besides the benefits mentioned above there are many more reasons to use JEAF Generator. For further details please switch to our [**overview about all benefits**](/why/overview).
+* Boost Efficency of your Team
+
+* Master Complexity
+
+* Consistent and Uniform Code
+
+* Increase Quality
+
+* Better Documentation
+
+* JEAF Generator is provided under business friendly Apache 2.0 OpenSource License ![License](https://img.shields.io/github/license/anaptecs/jeaf-generator)
+
+For further details please also see [**overview about all benefits**](/why/overview).
+
 
 <br>
 
