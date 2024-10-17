@@ -7,4 +7,6 @@
 - name: Privacy Policy
   link: /privacy
 - name: <img alt="Apache 2.0 License" src="https://img.shields.io/github/license/anaptecs/jeaf-generator">
+- name: <img alt="Maven Central Version" src="https://img.shields.io/maven-central/v/com.anaptecs.jeaf.generator/jeaf-generator-project">
+
 
