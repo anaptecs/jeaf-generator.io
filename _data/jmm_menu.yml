@@ -173,6 +173,12 @@
         - name: "Stereotype <code>«OpenAPIType»</code>"
           link: /uml-modeling-guide/jmm/OpenAPIType
       
+        - name: "Stereotype <code>«OpenAPITypeMapping»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPITypeMapping
+      
+        - name: "Stereotype <code>«OpenAPILiteral»</code>"
+          link: /uml-modeling-guide/jmm/OpenAPILiteral
+      
         - name: "Stereotype <code>«ResponseHeaderGroup»</code>"
           link: /uml-modeling-guide/jmm/ResponseHeaderGroup
       
