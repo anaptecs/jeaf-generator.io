@@ -46,7 +46,7 @@ For further details please have a look on [**JEAF Generator's feature list**](/f
 
 * Better Documentation
 
-* JEAF Generator is provided under business friendly Apache 2.0 OpenSource License ![License](https://img.shields.io/github/license/anaptecs/jeaf-generator)
+* JEAF Generator is provided under business friendly Apache 2.0 OpenSource License
 
 For further details please also see [**overview about all benefits**](/why/overview).
 
