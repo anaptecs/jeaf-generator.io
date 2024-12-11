@@ -20,13 +20,13 @@ Main input for JEAF Generator is an XMI Export of your UML model. In addition yo
 
 In general the development consists of the following steps:
 
-| Steps                                               | Additional Information                                                                    |
-| --------------------------------------------------- |:----------------------------------------------------------------------------------------- |
-| `1. Create / update classes etc. in UML model`      | - [UML Modeling Guide](/uml-modeling-guide)<br/>- [UML Modeling Guidelines]()           |
-| `2. Export UML model to XMI`                        | - [MagicDraw XMI Export](/uml-modeling-guide/magic-draw-xmi-export)                                           |
-| `3. Run JEAF Generator as part of your Maven build` | - [Maven Integration](maven-integration)<br>- [Generating Code](overview-generating-code) |
-| `4. Implement parts that need to be done manually`  |                                                                                           |
-| `5. Test and integrate your changes`                |                                                                                           |
+| #   | Steps                                            | Additional Information                                                                    |
+|:---:| ------------------------------------------------ |:----------------------------------------------------------------------------------------- |
+| 1.  | `Create / update classes etc. in UML model`      | - [UML Modeling Guide](/uml-modeling-guide)<br/>- [UML Modeling Guidelines]()             |
+| 2.  | `Export UML model to XMI`                        | - [MagicDraw XMI Export](/uml-modeling-guide/magic-draw-xmi-export)                       |
+| 3.  | `Run JEAF Generator as part of your Maven build` | - [Maven Integration](maven-integration)<br>- [Generating Code](overview-generating-code) |
+| 4.  | `Implement parts that need to be done manually`  |                                                                                           |
+| 5.  | `Test and integrate your changes`                |                                                                                           |
 
 <br>
 
