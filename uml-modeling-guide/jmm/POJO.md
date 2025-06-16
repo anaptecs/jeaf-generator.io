@@ -16,6 +16,8 @@ Stereotype `«POJO»` can be used to model a POJO (Plain old Java object). It de
 | **Tagged Values**       |                       |                                                                                                                                                                                                          |
 | **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
 | `hasCustomImplementation`   | `Boolean` | Tagged value can be used to define if the class has some custom implementation. If set to `true` then a base class with all the information from the UML model will be generated and a an empty class for the custom implementation |
+| `hasCustomSerialization`   | `Boolean` | Tagged value can be used to define that a classes has a custom serialization mechanism. |
+| `customizeGenericBuilder`   | `Boolean` | Tagged value can be used to further customize the generated generic builder. This e.g. allows to add custom operations to a generated builder.<br><br>This option only becomes active if a class has a custom implementation. |
 | `compositeDataType`   | `Boolean` |  |
 | `compositeDataTypePublicFieldName`   | `String` |  |
 | `compositeDataTypeReadonly`   | `Boolean` |  |

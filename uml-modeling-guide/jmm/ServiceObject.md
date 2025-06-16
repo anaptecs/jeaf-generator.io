@@ -16,6 +16,8 @@ Stereotype `«Service Object»` is used to model service objects. They define to
 | **Tagged Values**       |                       |                                                                                                                                                                                                          |
 | **Name**                | **Type**              | **Description**                                                                                                                                                                                          |
 | `hasCustomImplementation`   | `Boolean` |  |
+| `hasCustomSerialization`   | `Boolean` | Tagged value can be used to define that a classes has a custom serialization mechanism. |
+| `customizeGenericBuilder`   | `Boolean` | Tagged value can be used to further customize the generated generic builder. This e.g. allows to add custom operations to a generated builder.<br><br>This option only becomes active if a class has a custom implementation. |
 | `compositeDataType`   | `Boolean` |  |
 | `compositeDataTypePublicFieldName`   | `String` |  |
 | `compositeDataTypeReadonly`   | `Boolean` |  |
