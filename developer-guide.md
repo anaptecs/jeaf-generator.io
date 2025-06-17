@@ -4,7 +4,7 @@ subtitle: "Introduction"
 menubar: developer_guide_menu
 ---
 
-![Current Version](https://maven-badges.herokuapp.com/maven-central/com.anaptecs.jeaf.generator/jeaf-generator/badge.svg)
+![Current Version](https://img.shields.io/maven-metadata/v.svg?label=maven-central&metadataUrl=https%3A%2F%2Frepo1.maven.org%2Fmaven2%2Fcom%2Fanaptecs%2Fjeaf%2Fgenerator%2Fjeaf-generator-project%2Fmaven-metadata.xml)
 
 # Developer Guide
 
