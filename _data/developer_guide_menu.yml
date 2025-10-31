@@ -13,7 +13,9 @@
       
       - name: "Maven Plugin Configuration"
         link: /developer-guide/maven-plugin-configuration
-      
+
+      - name: "JEAF Generator Extension API"
+        link: /developer-guide/extension-points
     - name: ""
     
     - name: "<b>Code Generation Common</b>"
